@@ -1,0 +1,29 @@
+{
+  "name": "three_js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "dev": "nodemon -r dotenv/config --experimental-json-modules index.js",
+    "start": "nodemon index.js",
+    "seed:india": "node scripts/seed-india-geo.js",
+    "seed:mlpower": "node scripts/seed-ml-power.js",
+    "seed:mlultra": "node scripts/seed-ml-ultra.js",
+    "seed:mlhistorical": "node scripts/seed-ml-historical.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.13.1",
+    "cookie-parser": "^1.4.7",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0",
+    "mongodb": "^6.20.0",
+    "mongoose": "^8.19.2",
+    "nodemon": "^3.1.10",
+    "socket.io": "^4.8.3"
+  }
+}
