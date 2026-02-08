@@ -1,0 +1,8942 @@
+{
+  "Andaman and Nicobar Islands|Nicobars": {
+    "bbox": {
+      "south": 13.6753133,
+      "north": 6.7562674,
+      "west": 92.2042072,
+      "east": 94.2773214
+    },
+    "center": {
+      "lon": 92.83165406414926,
+      "lat": 12.61123865
+    }
+  },
+  "Andaman and Nicobar Islands|North and middle andaman": {
+    "bbox": {
+      "south": 12.15,
+      "north": 12.85,
+      "west": 92.48336,
+      "east": 93.18336
+    },
+    "center": {
+      "lon": 92.83336,
+      "lat": 12.5
+    }
+  },
+  "Andaman and Nicobar Islands|South andamans": {
+    "bbox": {
+      "south": 11.9847522,
+      "north": 11.9834508,
+      "west": 92.9555422,
+      "east": 92.9571998
+    },
+    "center": {
+      "lon": 92.95597951859415,
+      "lat": 11.9843744
+    }
+  },
+  "Andhra Pradesh|Alluri sitharama raju": {
+    "bbox": {
+      "south": 18.5495623,
+      "north": 17.2222373,
+      "west": 80.8854945,
+      "east": 83.2663893
+    },
+    "center": {
+      "lon": 82.21792795528634,
+      "lat": 17.88592535
+    }
+  },
+  "Andhra Pradesh|Anakapalli": {
+    "bbox": {
+      "south": 18.0941746,
+      "north": 17.2489027,
+      "west": 82.3290753,
+      "east": 83.1636178
+    },
+    "center": {
+      "lon": 82.77475669632513,
+      "lat": 17.671533099999998
+    }
+  },
+  "Andhra Pradesh|Anantapur": {
+    "bbox": {
+      "south": 14.328322100000001,
+      "north": 15.0283221,
+      "west": 77.25650390000001,
+      "east": 77.9565039
+    },
+    "center": {
+      "lon": 77.6065039,
+      "lat": 14.6783221
+    }
+  },
+  "Andhra Pradesh|Annamayya": {
+    "bbox": {
+      "south": 14.484994,
+      "north": 13.3082374,
+      "west": 78.0660224,
+      "east": 79.4689313
+    },
+    "center": {
+      "lon": 78.6534801878519,
+      "lat": 13.896238400000001
+    }
+  },
+  "Andhra Pradesh|Bapatla": {
+    "bbox": {
+      "south": 15.555260800000001,
+      "north": 16.255260800000002,
+      "west": 80.1180501,
+      "east": 80.8180501
+    },
+    "center": {
+      "lon": 80.4680501,
+      "lat": 15.9052608
+    }
+  },
+  "Andhra Pradesh|Chittoor": {
+    "bbox": {
+      "south": 12.8661224,
+      "north": 13.5661224,
+      "west": 78.7472819,
+      "east": 79.4472819
+    },
+    "center": {
+      "lon": 79.0972819,
+      "lat": 13.2161224
+    }
+  },
+  "Andhra Pradesh|East godavari": {
+    "bbox": {
+      "south": 17.3185107,
+      "north": 16.6737401,
+      "west": 81.292026,
+      "east": 82.0782137
+    },
+    "center": {
+      "lon": 81.71543778889063,
+      "lat": 16.99566385
+    }
+  },
+  "Andhra Pradesh|Eluru": {
+    "bbox": {
+      "south": 16.360425699999997,
+      "north": 17.0604257,
+      "west": 80.76538160000001,
+      "east": 81.4653816
+    },
+    "center": {
+      "lon": 81.1153816,
+      "lat": 16.7104257
+    }
+  },
+  "Andhra Pradesh|Guntur": {
+    "bbox": {
+      "south": 15.9415189,
+      "north": 16.6415189,
+      "west": 80.10415880000001,
+      "east": 80.8041588
+    },
+    "center": {
+      "lon": 80.4541588,
+      "lat": 16.2915189
+    }
+  },
+  "Andhra Pradesh|Kadapa": {
+    "bbox": {
+      "south": 14.125293600000001,
+      "north": 14.8252936,
+      "west": 78.4716861,
+      "east": 79.17168609999999
+    },
+    "center": {
+      "lon": 78.8216861,
+      "lat": 14.4752936
+    }
+  },
+  "Andhra Pradesh|Kakinada": {
+    "bbox": {
+      "south": 16.593738499999997,
+      "north": 17.2937385,
+      "west": 81.88506070000001,
+      "east": 82.5850607
+    },
+    "center": {
+      "lon": 82.2350607,
+      "lat": 16.9437385
+    }
+  },
+  "Andhra Pradesh|Konaseema": {
+    "bbox": {
+      "south": 16.9808064,
+      "north": 16.3102761,
+      "west": 81.6974044,
+      "east": 82.368061
+    },
+    "center": {
+      "lon": 82.08243228248753,
+      "lat": 16.645074049999998
+    }
+  },
+  "Andhra Pradesh|Krishna": {
+    "bbox": {
+      "south": 16.7627143,
+      "north": 15.7122588,
+      "west": 80.6518563,
+      "east": 81.5547645
+    },
+    "center": {
+      "lon": 81.02830815775351,
+      "lat": 16.212943799999998
+    }
+  },
+  "Andhra Pradesh|Kurnool": {
+    "bbox": {
+      "south": 15.4809251,
+      "north": 16.1809251,
+      "west": 77.69253730000001,
+      "east": 78.3925373
+    },
+    "center": {
+      "lon": 78.0425373,
+      "lat": 15.8309251
+    }
+  },
+  "Andhra Pradesh|Nandyal": {
+    "bbox": {
+      "south": 15.123629300000001,
+      "north": 15.8236293,
+      "west": 78.13065920000001,
+      "east": 78.8306592
+    },
+    "center": {
+      "lon": 78.4806592,
+      "lat": 15.4736293
+    }
+  },
+  "Andhra Pradesh|Ntr": {
+    "bbox": {
+      "south": 17.1533901,
+      "north": 16.4807084,
+      "west": 79.9989867,
+      "east": 80.8560186
+    },
+    "center": {
+      "lon": 80.25022993069638,
+      "lat": 16.816911750000003
+    }
+  },
+  "Andhra Pradesh|Palnadu": {
+    "bbox": {
+      "south": 16.8225961,
+      "north": 15.8238525,
+      "west": 79.2077549,
+      "east": 80.428565
+    },
+    "center": {
+      "lon": 79.69750488987478,
+      "lat": 16.32310375
+    }
+  },
+  "Andhra Pradesh|Parvathipuram manyam": {
+    "bbox": {
+      "south": 19.1627219,
+      "north": 18.340228,
+      "west": 82.9993808,
+      "east": 83.9241528
+    },
+    "center": {
+      "lon": 83.54874728260714,
+      "lat": 18.75149845
+    }
+  },
+  "Andhra Pradesh|Prakasam": {
+    "bbox": {
+      "south": 16.3060946,
+      "north": 15.022163,
+      "west": 78.7364816,
+      "east": 80.2734196
+    },
+    "center": {
+      "lon": 79.47330014039173,
+      "lat": 15.66426435
+    }
+  },
+  "Andhra Pradesh|Spsr nellore": {
+    "bbox": {
+      "south": 14.0993717,
+      "north": 14.7993717,
+      "west": 79.6373763,
+      "east": 80.33737629999999
+    },
+    "center": {
+      "lon": 79.9873763,
+      "lat": 14.4493717
+    }
+  },
+  "Andhra Pradesh|Sri sathya sai": {
+    "bbox": {
+      "south": 14.152168,
+      "north": 14.1473044,
+      "west": 77.7802554,
+      "east": 77.8029978
+    },
+    "center": {
+      "lon": 77.78291847580479,
+      "lat": 14.1497362
+    }
+  },
+  "Andhra Pradesh|Srikakulam": {
+    "bbox": {
+      "south": 17.944930699999997,
+      "north": 18.6449307,
+      "west": 83.54388440000001,
+      "east": 84.2438844
+    },
+    "center": {
+      "lon": 83.8938844,
+      "lat": 18.2949307
+    }
+  },
+  "Andhra Pradesh|Tirupati": {
+    "bbox": {
+      "south": 13.281636800000001,
+      "north": 13.9816368,
+      "west": 79.07317110000001,
+      "east": 79.7731711
+    },
+    "center": {
+      "lon": 79.4231711,
+      "lat": 13.6316368
+    }
+  },
+  "Andhra Pradesh|Visakhapatanam": {
+    "bbox": {
+      "south": 19.166806,
+      "north": 12.6238599,
+      "west": 76.7600837,
+      "east": 84.7658033
+    },
+    "center": {
+      "lon": 80.1863809,
+      "lat": 15.9240905
+    }
+  },
+  "Andhra Pradesh|Vizianagaram": {
+    "bbox": {
+      "south": 17.7641255,
+      "north": 18.4641255,
+      "west": 83.0614389,
+      "east": 83.76143889999999
+    },
+    "center": {
+      "lon": 83.4114389,
+      "lat": 18.1141255
+    }
+  },
+  "Andhra Pradesh|West godavari": {
+    "bbox": {
+      "south": 16.9724229,
+      "north": 16.3136268,
+      "west": 81.3261222,
+      "east": 81.8604646
+    },
+    "center": {
+      "lon": 81.58852467942901,
+      "lat": 16.64430285
+    }
+  },
+  "Arunachal Pradesh|Anjaw": {
+    "bbox": {
+      "south": 28.6202446,
+      "north": 27.6144007,
+      "west": 96.276884,
+      "east": 97.3950905
+    },
+    "center": {
+      "lon": 96.81988047316845,
+      "lat": 28.1166895
+    }
+  },
+  "Arunachal Pradesh|Changlang": {
+    "bbox": {
+      "south": 27.2396735,
+      "north": 27.0076571,
+      "west": 95.7218599,
+      "east": 95.9760071
+    },
+    "center": {
+      "lon": 95.84159041476349,
+      "lat": 27.11842405
+    }
+  },
+  "Arunachal Pradesh|Dibang valley": {
+    "bbox": {
+      "south": 29.3823766,
+      "north": 28.2826149,
+      "west": 95.2426399,
+      "east": 96.646907
+    },
+    "center": {
+      "lon": 95.95540957636018,
+      "lat": 28.8291044
+    }
+  },
+  "Arunachal Pradesh|East kameng": {
+    "bbox": {
+      "south": 27.9825021,
+      "north": 27.1320979,
+      "west": 92.4549594,
+      "east": 93.373146
+    },
+    "center": {
+      "lon": 92.96738426595107,
+      "lat": 27.55778095
+    }
+  },
+  "Arunachal Pradesh|East siang": {
+    "bbox": {
+      "south": 28.3259407,
+      "north": 27.817278,
+      "west": 95.0687313,
+      "east": 95.5713503
+    },
+    "center": {
+      "lon": 95.41781490167907,
+      "lat": 28.07422185
+    }
+  },
+  "Arunachal Pradesh|Kamle": {
+    "bbox": {
+      "south": 27.9824014,
+      "north": 27.4813192,
+      "west": 93.8661572,
+      "east": 94.3514539
+    },
+    "center": {
+      "lon": 94.0964663257624,
+      "lat": 27.7312325
+    }
+  },
+  "Arunachal Pradesh|Kra daadi": {
+    "bbox": {
+      "south": 28.3228522,
+      "north": 27.5994733,
+      "west": 93.4422826,
+      "east": 93.9625172
+    },
+    "center": {
+      "lon": 93.76656538768381,
+      "lat": 27.96354175
+    }
+  },
+  "Arunachal Pradesh|Kurung kumey": {
+    "bbox": {
+      "south": 28.3684816,
+      "north": 27.6052984,
+      "west": 92.6566314,
+      "east": 93.6103174
+    },
+    "center": {
+      "lon": 93.15783468644102,
+      "lat": 27.98636765
+    }
+  },
+  "Arunachal Pradesh|Leparada": {
+    "bbox": {
+      "south": 29.3823766,
+      "north": 26.650863,
+      "west": 91.5623082,
+      "east": 97.3950905
+    },
+    "center": {
+      "lon": 94.5921326,
+      "lat": 28.0937702
+    }
+  },
+  "Arunachal Pradesh|Lohit": {
+    "bbox": {
+      "south": 27.656062499999997,
+      "north": 28.3560625,
+      "west": 95.8931946,
+      "east": 96.59319459999999
+    },
+    "center": {
+      "lon": 96.2431946,
+      "lat": 28.0060625
+    }
+  },
+  "Arunachal Pradesh|Longding": {
+    "bbox": {
+      "south": 27.1080338,
+      "north": 26.650863,
+      "west": 95.1809871,
+      "east": 95.5054974
+    },
+    "center": {
+      "lon": 95.3155652456941,
+      "lat": 26.879454600000003
+    }
+  },
+  "Arunachal Pradesh|Lower dibang valley": {
+    "bbox": {
+      "south": 28.5395249,
+      "north": 27.8797175,
+      "west": 95.3202459,
+      "east": 96.4530279
+    },
+    "center": {
+      "lon": 95.87877403567019,
+      "lat": 28.21495625
+    }
+  },
+  "Arunachal Pradesh|Lower siang": {
+    "bbox": {
+      "south": 28.0507852,
+      "north": 27.5574965,
+      "west": 94.2110155,
+      "east": 95.1369722
+    },
+    "center": {
+      "lon": 94.56502334121075,
+      "lat": 27.80069825
+    }
+  },
+  "Arunachal Pradesh|Lower subansiri": {
+    "bbox": {
+      "south": 27.7260831,
+      "north": 27.3363951,
+      "west": 93.5315279,
+      "east": 94.008293
+    },
+    "center": {
+      "lon": 93.78232445845654,
+      "lat": 27.53263265
+    }
+  },
+  "Arunachal Pradesh|Namsai": {
+    "bbox": {
+      "south": 27.883998,
+      "north": 27.5435127,
+      "west": 95.7521152,
+      "east": 96.3173958
+    },
+    "center": {
+      "lon": 96.01597093953018,
+      "lat": 27.71403055
+    }
+  },
+  "Arunachal Pradesh|Pakke kessang": {
+    "bbox": {
+      "south": 27.4004229,
+      "north": 26.9156861,
+      "west": 92.5899111,
+      "east": 93.3922863
+    },
+    "center": {
+      "lon": 93.15615024389129,
+      "lat": 27.15828555
+    }
+  },
+  "Arunachal Pradesh|Papum pare": {
+    "bbox": {
+      "south": 27.6367955,
+      "north": 26.9369156,
+      "west": 93.2120847,
+      "east": 94.2210654
+    },
+    "center": {
+      "lon": 93.61877159710389,
+      "lat": 27.286366649999998
+    }
+  },
+  "Arunachal Pradesh|Shi yomi": {
+    "bbox": {
+      "south": 29.025931,
+      "north": 28.3375705,
+      "west": 93.9127278,
+      "east": 94.5555495
+    },
+    "center": {
+      "lon": 94.23678241115617,
+      "lat": 28.68516625
+    }
+  },
+  "Arunachal Pradesh|Siang": {
+    "bbox": {
+      "south": 28.049999999999997,
+      "north": 28.75,
+      "west": 94.2,
+      "east": 94.89999999999999
+    },
+    "center": {
+      "lon": 94.55,
+      "lat": 28.4
+    }
+  },
+  "Arunachal Pradesh|Tawang": {
+    "bbox": {
+      "south": 27.887753,
+      "north": 27.4598248,
+      "west": 91.5623082,
+      "east": 92.4560022
+    },
+    "center": {
+      "lon": 91.93620587613823,
+      "lat": 27.674194200000002
+    }
+  },
+  "Arunachal Pradesh|Tirap": {
+    "bbox": {
+      "south": 27.151343699999998,
+      "north": 27.8513437,
+      "west": 96.17429440000001,
+      "east": 96.8742944
+    },
+    "center": {
+      "lon": 96.5242944,
+      "lat": 27.5013437
+    }
+  },
+  "Arunachal Pradesh|Upper siang": {
+    "bbox": {
+      "south": 29.317934,
+      "north": 28.1432529,
+      "west": 94.27454,
+      "east": 95.4094482
+    },
+    "center": {
+      "lon": 95.03773151350946,
+      "lat": 28.73120455
+    }
+  },
+  "Arunachal Pradesh|Upper subansiri": {
+    "bbox": {
+      "south": 27.95,
+      "north": 28.650000000000002,
+      "west": 93.65,
+      "east": 94.35
+    },
+    "center": {
+      "lon": 94,
+      "lat": 28.3
+    }
+  },
+  "Arunachal Pradesh|West kameng": {
+    "bbox": {
+      "south": 27.7857756,
+      "north": 26.8911555,
+      "west": 92.0109845,
+      "east": 92.8436565
+    },
+    "center": {
+      "lon": 92.43336623881613,
+      "lat": 27.33862695
+    }
+  },
+  "Arunachal Pradesh|West siang": {
+    "bbox": {
+      "south": 28.049999999999997,
+      "north": 28.75,
+      "west": 94.2,
+      "east": 94.89999999999999
+    },
+    "center": {
+      "lon": 94.55,
+      "lat": 28.4
+    }
+  },
+  "Assam|Baksa": {
+    "bbox": {
+      "south": 26.8389231,
+      "north": 26.4162012,
+      "west": 90.8662033,
+      "east": 91.5313911
+    },
+    "center": {
+      "lon": 91.33885514581193,
+      "lat": 26.6275689
+    }
+  },
+  "Assam|Barpeta": {
+    "bbox": {
+      "south": 26.6018432,
+      "north": 26.0894331,
+      "west": 90.6515407,
+      "east": 91.2804222
+    },
+    "center": {
+      "lon": 91.03970795827374,
+      "lat": 26.345941
+    }
+  },
+  "Assam|Biswanath": {
+    "bbox": {
+      "south": 26.9611143,
+      "north": 26.5937464,
+      "west": 93.0444574,
+      "east": 93.472514
+    },
+    "center": {
+      "lon": 93.25694367444689,
+      "lat": 26.7773957
+    }
+  },
+  "Assam|Bongaigaon": {
+    "bbox": {
+      "south": 26.130012599999997,
+      "north": 26.8300126,
+      "west": 90.2080387,
+      "east": 90.90803869999999
+    },
+    "center": {
+      "lon": 90.5580387,
+      "lat": 26.4800126
+    }
+  },
+  "Assam|Cachar": {
+    "bbox": {
+      "south": 25.1429343,
+      "north": 24.3738373,
+      "west": 92.418513,
+      "east": 93.2617378
+    },
+    "center": {
+      "lon": 92.88166475768219,
+      "lat": 24.758639950000003
+    }
+  },
+  "Assam|Charaideo": {
+    "bbox": {
+      "south": 27.226612,
+      "north": 26.9129627,
+      "west": 94.7345924,
+      "east": 95.3717351
+    },
+    "center": {
+      "lon": 95.06426298389661,
+      "lat": 27.06971635
+    }
+  },
+  "Assam|Chirang": {
+    "bbox": {
+      "south": 26.904046,
+      "north": 26.3863916,
+      "west": 90.336972,
+      "east": 90.96235
+    },
+    "center": {
+      "lon": 90.62415698729875,
+      "lat": 26.6464231
+    }
+  },
+  "Assam|Darrang": {
+    "bbox": {
+      "south": 26.6697346,
+      "north": 26.1989457,
+      "west": 91.7468023,
+      "east": 92.3806659
+    },
+    "center": {
+      "lon": 92.00471446482166,
+      "lat": 26.43734815
+    }
+  },
+  "Assam|Dhemaji": {
+    "bbox": {
+      "south": 27.8797175,
+      "north": 27.3097059,
+      "west": 94.2110155,
+      "east": 95.5153429
+    },
+    "center": {
+      "lon": 94.71920979201423,
+      "lat": 27.5945155
+    }
+  },
+  "Assam|Dhubri": {
+    "bbox": {
+      "south": 26.3856034,
+      "north": 25.8790717,
+      "west": 89.6986005,
+      "east": 90.4831838
+    },
+    "center": {
+      "lon": 90.12499622870274,
+      "lat": 26.132275049999997
+    }
+  },
+  "Assam|Dibrugarh": {
+    "bbox": {
+      "south": 27.134459699999997,
+      "north": 27.8344597,
+      "west": 94.5519447,
+      "east": 95.2519447
+    },
+    "center": {
+      "lon": 94.9019447,
+      "lat": 27.4844597
+    }
+  },
+  "Assam|Dima hasao": {
+    "bbox": {
+      "south": 25.8289431,
+      "north": 24.9710763,
+      "west": 92.5205147,
+      "east": 93.4734857
+    },
+    "center": {
+      "lon": 93.07522922678905,
+      "lat": 25.400362549999997
+    }
+  },
+  "Assam|Goalpara": {
+    "bbox": {
+      "south": 26.2156691,
+      "north": 25.8829328,
+      "west": 90.1153993,
+      "east": 91.0962081
+    },
+    "center": {
+      "lon": 90.60018585947726,
+      "lat": 26.04918765
+    }
+  },
+  "Assam|Golaghat": {
+    "bbox": {
+      "south": 26.5375587,
+      "north": 26.4799973,
+      "west": 93.936115,
+      "east": 93.9929992
+    },
+    "center": {
+      "lon": 93.9743686,
+      "lat": 26.5108262
+    }
+  },
+  "Assam|Hailakandi": {
+    "bbox": {
+      "south": 24.3346916,
+      "north": 25.034691600000002,
+      "west": 92.21458360000001,
+      "east": 92.9145836
+    },
+    "center": {
+      "lon": 92.5645836,
+      "lat": 24.6846916
+    }
+  },
+  "Assam|Hojai": {
+    "bbox": {
+      "south": 26.2077665,
+      "north": 25.7180287,
+      "west": 92.6998901,
+      "east": 93.2486915
+    },
+    "center": {
+      "lon": 92.98182900551723,
+      "lat": 25.96294015
+    }
+  },
+  "Assam|Jorhat": {
+    "bbox": {
+      "south": 26.4077925,
+      "north": 27.107792500000002,
+      "west": 93.85796450000001,
+      "east": 94.5579645
+    },
+    "center": {
+      "lon": 94.2079645,
+      "lat": 26.7577925
+    }
+  },
+  "Assam|Kamrup": {
+    "bbox": {
+      "south": 26.5694139,
+      "north": 25.7234976,
+      "west": 90.9376573,
+      "east": 91.821928
+    },
+    "center": {
+      "lon": 91.22273972821812,
+      "lat": 26.14688605
+    }
+  },
+  "Assam|Kamrup metro": {
+    "bbox": {
+      "south": 26.2734696,
+      "north": 25.9968455,
+      "west": 91.5605521,
+      "east": 92.1757603
+    },
+    "center": {
+      "lon": 91.86167062524618,
+      "lat": 26.13526375
+    }
+  },
+  "Assam|Karbi anglong": {
+    "bbox": {
+      "south": 26.1557076,
+      "north": 25.5509792,
+      "west": 92.1441793,
+      "east": 93.076557
+    },
+    "center": {
+      "lon": 92.58756812404593,
+      "lat": 25.85291415
+    }
+  },
+  "Assam|Karimganj": {
+    "bbox": {
+      "south": 24.9166428,
+      "north": 24.248973,
+      "west": 92.2145927,
+      "east": 92.5859928
+    },
+    "center": {
+      "lon": 92.37254865,
+      "lat": 24.58281955
+    }
+  },
+  "Assam|Kokrajhar": {
+    "bbox": {
+      "south": 26.8684106,
+      "north": 26.305837,
+      "west": 90.1303515,
+      "east": 90.436095
+    },
+    "center": {
+      "lon": 90.29293105124796,
+      "lat": 26.58687695
+    }
+  },
+  "Assam|Lakhimpur": {
+    "bbox": {
+      "south": 27.525788,
+      "north": 26.8282679,
+      "west": 93.6981023,
+      "east": 94.6272611
+    },
+    "center": {
+      "lon": 94.19929317390199,
+      "lat": 27.17633555
+    }
+  },
+  "Assam|Majuli": {
+    "bbox": {
+      "south": 27.1822017,
+      "north": 26.8663625,
+      "west": 93.9565801,
+      "east": 94.5928686
+    },
+    "center": {
+      "lon": 94.32742302965544,
+      "lat": 27.021952849999998
+    }
+  },
+  "Assam|Marigaon": {
+    "bbox": {
+      "south": 26.5178615,
+      "north": 26.0624662,
+      "west": 91.9729102,
+      "east": 92.5668525
+    },
+    "center": {
+      "lon": 92.29221835627254,
+      "lat": 26.290712
+    }
+  },
+  "Assam|Nagaon": {
+    "bbox": {
+      "south": 25.998223799999998,
+      "north": 26.6982238,
+      "west": 92.33582150000001,
+      "east": 93.0358215
+    },
+    "center": {
+      "lon": 92.6858215,
+      "lat": 26.3482238
+    }
+  },
+  "Assam|Nalbari": {
+    "bbox": {
+      "south": 26.5717553,
+      "north": 26.1358485,
+      "west": 91.2137747,
+      "east": 91.5856361
+    },
+    "center": {
+      "lon": 91.39836617554388,
+      "lat": 26.35336315
+    }
+  },
+  "Assam|Sivasagar": {
+    "bbox": {
+      "south": 26.633493599999998,
+      "north": 27.3334936,
+      "west": 94.28942260000001,
+      "east": 94.9894226
+    },
+    "center": {
+      "lon": 94.6394226,
+      "lat": 26.9834936
+    }
+  },
+  "Assam|Sonitpur": {
+    "bbox": {
+      "south": 27.0383392,
+      "north": 26.4973274,
+      "west": 92.3228894,
+      "east": 93.1464008
+    },
+    "center": {
+      "lon": 92.70140885850532,
+      "lat": 26.767770749999997
+    }
+  },
+  "Assam|South salmara mancachar": {
+    "bbox": {
+      "south": 25.7917964,
+      "north": 25.4665198,
+      "west": 89.8271573,
+      "east": 90.0193548
+    },
+    "center": {
+      "lon": 89.93159383615063,
+      "lat": 25.629632649999998
+    }
+  },
+  "Assam|Tinsukia": {
+    "bbox": {
+      "south": 27.1379722,
+      "north": 27.837972200000003,
+      "west": 95.0101855,
+      "east": 95.7101855
+    },
+    "center": {
+      "lon": 95.3601855,
+      "lat": 27.4879722
+    }
+  },
+  "Assam|Udalguri": {
+    "bbox": {
+      "south": 26.9357566,
+      "north": 26.4749098,
+      "west": 91.7064455,
+      "east": 92.4006298
+    },
+    "center": {
+      "lon": 92.04215071409463,
+      "lat": 26.70472375
+    }
+  },
+  "Assam|West karbi anglong": {
+    "bbox": {
+      "south": 26.1557076,
+      "north": 25.5509792,
+      "west": 92.1441793,
+      "east": 93.076557
+    },
+    "center": {
+      "lon": 92.58756812404593,
+      "lat": 25.85291415
+    }
+  },
+  "Bihar|Araria": {
+    "bbox": {
+      "south": 25.784645899999997,
+      "north": 26.4846459,
+      "west": 87.11540620000001,
+      "east": 87.8154062
+    },
+    "center": {
+      "lon": 87.4654062,
+      "lat": 26.1346459
+    }
+  },
+  "Bihar|Arwal": {
+    "bbox": {
+      "south": 25.3149805,
+      "north": 25.0476218,
+      "west": 84.4452027,
+      "east": 84.8650096
+    },
+    "center": {
+      "lon": 84.65966477186029,
+      "lat": 25.18128315
+    }
+  },
+  "Bihar|Aurangabad": {
+    "bbox": {
+      "south": 25.1290008,
+      "north": 24.4767985,
+      "west": 84.0069218,
+      "east": 84.7473983
+    },
+    "center": {
+      "lon": 84.41101977690866,
+      "lat": 24.80332005
+    }
+  },
+  "Bihar|Banka": {
+    "bbox": {
+      "south": 25.1213331,
+      "north": 24.5449956,
+      "west": 86.4868567,
+      "east": 87.1755588
+    },
+    "center": {
+      "lon": 86.81611137878144,
+      "lat": 24.8328273
+    }
+  },
+  "Bihar|Begusarai": {
+    "bbox": {
+      "south": 25.7755944,
+      "north": 25.249492,
+      "west": 85.7337593,
+      "east": 86.5144014
+    },
+    "center": {
+      "lon": 86.08833919362361,
+      "lat": 25.5125411
+    }
+  },
+  "Bihar|Bhagalpur": {
+    "bbox": {
+      "south": 25.5159373,
+      "north": 25.0570171,
+      "west": 86.6384451,
+      "east": 87.5518141
+    },
+    "center": {
+      "lon": 87.13042293057262,
+      "lat": 25.286135350000002
+    }
+  },
+  "Bihar|Bhojpur": {
+    "bbox": {
+      "south": 25.7387895,
+      "north": 25.161167,
+      "west": 84.2732267,
+      "east": 84.8513701
+    },
+    "center": {
+      "lon": 84.56351928394406,
+      "lat": 25.4501182
+    }
+  },
+  "Bihar|Buxar": {
+    "bbox": {
+      "south": 25.7474692,
+      "north": 25.2614727,
+      "west": 83.7723847,
+      "east": 84.393475
+    },
+    "center": {
+      "lon": 84.10975247469455,
+      "lat": 25.504483399999998
+    }
+  },
+  "Bihar|Darbhanga": {
+    "bbox": {
+      "south": 25.806998999999998,
+      "north": 26.506999,
+      "west": 85.5495065,
+      "east": 86.2495065
+    },
+    "center": {
+      "lon": 85.8995065,
+      "lat": 26.156999
+    }
+  },
+  "Bihar|Gaya": {
+    "bbox": {
+      "south": 24.4464355,
+      "north": 25.146435500000003,
+      "west": 84.65795630000001,
+      "east": 85.3579563
+    },
+    "center": {
+      "lon": 85.0079563,
+      "lat": 24.7964355
+    }
+  },
+  "Bihar|Gopalganj": {
+    "bbox": {
+      "south": 26.6391981,
+      "north": 26.2033998,
+      "west": 83.9065327,
+      "east": 84.9068657
+    },
+    "center": {
+      "lon": 84.37391327996377,
+      "lat": 26.42111655
+    }
+  },
+  "Bihar|Jamui": {
+    "bbox": {
+      "south": 25.1438387,
+      "north": 24.3681886,
+      "west": 85.8213338,
+      "east": 86.6190759
+    },
+    "center": {
+      "lon": 86.30111278381085,
+      "lat": 24.75625135
+    }
+  },
+  "Bihar|Jehanabad": {
+    "bbox": {
+      "south": 25.3192462,
+      "north": 24.986716,
+      "west": 84.829845,
+      "east": 85.2114771
+    },
+    "center": {
+      "lon": 85.00650426458421,
+      "lat": 25.15295785
+    }
+  },
+  "Bihar|Kaimur (bhabua)": {
+    "bbox": {
+      "south": 24.822543399999997,
+      "north": 25.5225434,
+      "west": 83.269816,
+      "east": 83.969816
+    },
+    "center": {
+      "lon": 83.619816,
+      "lat": 25.1725434
+    }
+  },
+  "Bihar|Katihar": {
+    "bbox": {
+      "south": 25.8819015,
+      "north": 25.2352243,
+      "west": 87.2003325,
+      "east": 88.0765349
+    },
+    "center": {
+      "lon": 87.64571962485962,
+      "lat": 25.5586421
+    }
+  },
+  "Bihar|Khagaria": {
+    "bbox": {
+      "south": 25.7320238,
+      "north": 25.254014,
+      "west": 86.2791124,
+      "east": 86.8568793
+    },
+    "center": {
+      "lon": 86.69822644137813,
+      "lat": 25.4930513
+    }
+  },
+  "Bihar|Kishanganj": {
+    "bbox": {
+      "south": 26.56124,
+      "north": 25.9279081,
+      "west": 87.6110258,
+      "east": 88.2937958
+    },
+    "center": {
+      "lon": 87.94667148301295,
+      "lat": 26.29841435
+    }
+  },
+  "Bihar|Lakhisarai": {
+    "bbox": {
+      "south": 25.3394573,
+      "north": 24.968971,
+      "west": 85.9010106,
+      "east": 86.3908629
+    },
+    "center": {
+      "lon": 86.17449589670395,
+      "lat": 25.154393849999998
+    }
+  },
+  "Bihar|Madhepura": {
+    "bbox": {
+      "south": 26.1178456,
+      "north": 25.4432759,
+      "west": 86.6156193,
+      "east": 87.1266435
+    },
+    "center": {
+      "lon": 86.93647530783664,
+      "lat": 25.7806118
+    }
+  },
+  "Bihar|Madhubani": {
+    "bbox": {
+      "south": 26.6667628,
+      "north": 26.0336529,
+      "west": 85.7517827,
+      "east": 86.7250353
+    },
+    "center": {
+      "lon": 86.22964236520482,
+      "lat": 26.3503076
+    }
+  },
+  "Bihar|Munger": {
+    "bbox": {
+      "south": 25.4957325,
+      "north": 24.9449328,
+      "west": 86.2607212,
+      "east": 86.7376422
+    },
+    "center": {
+      "lon": 86.51614835791698,
+      "lat": 25.2202864
+    }
+  },
+  "Bihar|Muzaffarpur": {
+    "bbox": {
+      "south": 26.393257,
+      "north": 25.90355,
+      "west": 84.8718186,
+      "east": 85.7542847
+    },
+    "center": {
+      "lon": 85.3316096785584,
+      "lat": 26.1482548
+    }
+  },
+  "Bihar|Nalanda": {
+    "bbox": {
+      "south": 25.1397897,
+      "north": 25.1331437,
+      "west": 85.4410697,
+      "east": 85.446331
+    },
+    "center": {
+      "lon": 85.44365464855682,
+      "lat": 25.1364914
+    }
+  },
+  "Bihar|Nawada": {
+    "bbox": {
+      "south": 25.1132857,
+      "north": 24.5212685,
+      "west": 85.2666598,
+      "east": 86.0551048
+    },
+    "center": {
+      "lon": 85.51790846584018,
+      "lat": 24.817324900000003
+    }
+  },
+  "Bihar|Pashchim champaran": {
+    "bbox": {
+      "south": 26.65,
+      "north": 27.35,
+      "west": 84.15,
+      "east": 84.85
+    },
+    "center": {
+      "lon": 84.5,
+      "lat": 27
+    }
+  },
+  "Bihar|Patna": {
+    "bbox": {
+      "south": 25.2593239,
+      "north": 25.9593239,
+      "west": 84.77352520000001,
+      "east": 85.4735252
+    },
+    "center": {
+      "lon": 85.1235252,
+      "lat": 25.6093239
+    }
+  },
+  "Bihar|Purbi champaran": {
+    "bbox": {
+      "south": 26.296596899999997,
+      "north": 26.9965969,
+      "west": 84.5591552,
+      "east": 85.2591552
+    },
+    "center": {
+      "lon": 84.9091552,
+      "lat": 26.6465969
+    }
+  },
+  "Bihar|Purnia": {
+    "bbox": {
+      "south": 26.1181059,
+      "north": 25.4336159,
+      "west": 86.9893731,
+      "east": 87.873019
+    },
+    "center": {
+      "lon": 87.4087666694604,
+      "lat": 25.7758723
+    }
+  },
+  "Bihar|Rohtas": {
+    "bbox": {
+      "south": 25.3752396,
+      "north": 24.5034485,
+      "west": 83.4964671,
+      "east": 84.4633096
+    },
+    "center": {
+      "lon": 84.01970311897313,
+      "lat": 24.93941425
+    }
+  },
+  "Bihar|Saharsa": {
+    "bbox": {
+      "south": 26.0753929,
+      "north": 25.5904036,
+      "west": 86.3133392,
+      "east": 86.8741146
+    },
+    "center": {
+      "lon": 86.61437508111757,
+      "lat": 25.83307565
+    }
+  },
+  "Bihar|Samastipur": {
+    "bbox": {
+      "south": 26.0894084,
+      "north": 25.4602116,
+      "west": 85.5275484,
+      "east": 86.3922478
+    },
+    "center": {
+      "lon": 85.867231389952,
+      "lat": 25.77478845
+    }
+  },
+  "Bihar|Saran": {
+    "bbox": {
+      "south": 26.2206747,
+      "north": 25.6226349,
+      "west": 84.4047854,
+      "east": 85.1974838
+    },
+    "center": {
+      "lon": 84.77597313027485,
+      "lat": 25.9214451
+    }
+  },
+  "Bihar|Sheikhpura": {
+    "bbox": {
+      "south": 25.2739606,
+      "north": 24.976406,
+      "west": 85.6021117,
+      "east": 86.0182878
+    },
+    "center": {
+      "lon": 85.81607708105014,
+      "lat": 25.1250741
+    }
+  },
+  "Bihar|Sheohar": {
+    "bbox": {
+      "south": 26.6615693,
+      "north": 26.3250396,
+      "west": 85.1784348,
+      "east": 85.402827
+    },
+    "center": {
+      "lon": 85.27175608137802,
+      "lat": 26.49342335
+    }
+  },
+  "Bihar|Sitamarhi": {
+    "bbox": {
+      "south": 26.316667,
+      "north": 27.016667,
+      "west": 85.15,
+      "east": 85.85
+    },
+    "center": {
+      "lon": 85.5,
+      "lat": 26.666667
+    }
+  },
+  "Bihar|Siwan": {
+    "bbox": {
+      "south": 26.3746185,
+      "north": 25.8877204,
+      "west": 84.0080523,
+      "east": 84.7792816
+    },
+    "center": {
+      "lon": 84.39107448141786,
+      "lat": 26.131008
+    }
+  },
+  "Bihar|Supaul": {
+    "bbox": {
+      "south": 26.5628535,
+      "north": 25.9907976,
+      "west": 86.4048044,
+      "east": 87.1202519
+    },
+    "center": {
+      "lon": 86.79596143977405,
+      "lat": 26.2768089
+    }
+  },
+  "Bihar|Vaishali": {
+    "bbox": {
+      "south": 26.0152992,
+      "north": 25.4834126,
+      "west": 85.0663777,
+      "east": 85.645997
+    },
+    "center": {
+      "lon": 85.39721640385531,
+      "lat": 25.74917025
+    }
+  },
+  "Chandigarh|Chandigarh": {
+    "bbox": {
+      "south": 30.7949512,
+      "north": 30.664974,
+      "west": 76.7049857,
+      "east": 76.849028
+    },
+    "center": {
+      "lon": 76.7797143,
+      "lat": 30.7334421
+    }
+  },
+  "Chhattisgarh|Balod": {
+    "bbox": {
+      "south": 21.0777729,
+      "north": 20.3776791,
+      "west": 80.8035636,
+      "east": 81.5170955
+    },
+    "center": {
+      "lon": 81.1446947513626,
+      "lat": 20.7277192
+    }
+  },
+  "Chhattisgarh|Baloda bazar": {
+    "bbox": {
+      "south": 21.8837615,
+      "north": 21.2624209,
+      "west": 81.6576433,
+      "east": 82.703104
+    },
+    "center": {
+      "lon": 82.2994820805541,
+      "lat": 21.573184750000003
+    }
+  },
+  "Chhattisgarh|Balrampur": {
+    "bbox": {
+      "south": 24.1066864,
+      "north": 23.1507975,
+      "west": 82.692343,
+      "east": 84.0744632
+    },
+    "center": {
+      "lon": 83.48109161894322,
+      "lat": 23.628257599999998
+    }
+  },
+  "Chhattisgarh|Bastar": {
+    "bbox": {
+      "south": 19.5413058,
+      "north": 18.5948969,
+      "west": 81.3457576,
+      "east": 82.2467422
+    },
+    "center": {
+      "lon": 81.82918648971713,
+      "lat": 19.11912825
+    }
+  },
+  "Chhattisgarh|Bemetara": {
+    "bbox": {
+      "south": 22.0244462,
+      "north": 21.3323338,
+      "west": 81.1386895,
+      "east": 81.9371917
+    },
+    "center": {
+      "lon": 81.44125784340252,
+      "lat": 21.6783867
+    }
+  },
+  "Chhattisgarh|Bijapur": {
+    "bbox": {
+      "south": 19.4024051,
+      "north": 18.1364456,
+      "west": 80.2441803,
+      "east": 81.2306784
+    },
+    "center": {
+      "lon": 80.815939,
+      "lat": 18.7935679
+    }
+  },
+  "Chhattisgarh|Bilaspur": {
+    "bbox": {
+      "south": 21.728562699999998,
+      "north": 22.4285627,
+      "west": 81.79764750000001,
+      "east": 82.4976475
+    },
+    "center": {
+      "lon": 82.1476475,
+      "lat": 22.0785627
+    }
+  },
+  "Chhattisgarh|Dantewada": {
+    "bbox": {
+      "south": 18.5399125,
+      "north": 19.239912500000003,
+      "west": 80.9977975,
+      "east": 81.6977975
+    },
+    "center": {
+      "lon": 81.3477975,
+      "lat": 18.8899125
+    }
+  },
+  "Chhattisgarh|Dhamtari": {
+    "bbox": {
+      "south": 20.358454499999997,
+      "north": 21.0584545,
+      "west": 81.1981305,
+      "east": 81.8981305
+    },
+    "center": {
+      "lon": 81.5481305,
+      "lat": 20.7084545
+    }
+  },
+  "Chhattisgarh|Durg": {
+    "bbox": {
+      "south": 20.839649899999998,
+      "north": 21.5396499,
+      "west": 80.9351077,
+      "east": 81.63510769999999
+    },
+    "center": {
+      "lon": 81.2851077,
+      "lat": 21.1896499
+    }
+  },
+  "Chhattisgarh|Gariyaband": {
+    "bbox": {
+      "south": 20.7231235,
+      "north": 20.3308649,
+      "west": 81.9817185,
+      "east": 82.4368535
+    },
+    "center": {
+      "lon": 82.19172167092043,
+      "lat": 20.52675605
+    }
+  },
+  "Chhattisgarh|Gaurella-pendra-marwahi": {
+    "bbox": {
+      "south": 22.4057672,
+      "north": 23.105767200000003,
+      "west": 81.5490005,
+      "east": 82.2490005
+    },
+    "center": {
+      "lon": 81.8990005,
+      "lat": 22.7557672
+    }
+  },
+  "Chhattisgarh|Janjgir-champa": {
+    "bbox": {
+      "south": 22.2634422,
+      "north": 21.7095145,
+      "west": 82.3038411,
+      "east": 82.842536
+    },
+    "center": {
+      "lon": 82.55366063452159,
+      "lat": 21.986403
+    }
+  },
+  "Chhattisgarh|Jashpur": {
+    "bbox": {
+      "south": 23.2517165,
+      "north": 22.2889177,
+      "west": 83.3823037,
+      "east": 84.3959641
+    },
+    "center": {
+      "lon": 83.97080132252168,
+      "lat": 22.770251000000002
+    }
+  },
+  "Chhattisgarh|Kabirdham": {
+    "bbox": {
+      "south": 22.5261441,
+      "north": 21.7035887,
+      "west": 80.8254944,
+      "east": 81.5559554
+    },
+    "center": {
+      "lon": 81.24469439285053,
+      "lat": 22.115008500000002
+    }
+  },
+  "Chhattisgarh|Kanker": {
+    "bbox": {
+      "south": 20.5588068,
+      "north": 19.6983749,
+      "west": 80.402069,
+      "east": 81.8145847
+    },
+    "center": {
+      "lon": 80.98453000491365,
+      "lat": 20.12868925
+    }
+  },
+  "Chhattisgarh|Khairgarh chhuikhadan gandai": {
+    "bbox": {
+      "south": 21.8350896,
+      "north": 21.2224614,
+      "west": 80.6711639,
+      "east": 81.1952305
+    },
+    "center": {
+      "lon": 80.94843264259666,
+      "lat": 21.52884895
+    }
+  },
+  "Chhattisgarh|Kondagaon": {
+    "bbox": {
+      "south": 20.1955733,
+      "north": 19.2216934,
+      "west": 81.2918329,
+      "east": 82.0663905
+    },
+    "center": {
+      "lon": 81.6628742,
+      "lat": 19.5885769
+    }
+  },
+  "Chhattisgarh|Korba": {
+    "bbox": {
+      "south": 23.0008071,
+      "north": 22.039583,
+      "west": 82.1339822,
+      "east": 83.1226873
+    },
+    "center": {
+      "lon": 82.63500285150224,
+      "lat": 22.5198217
+    }
+  },
+  "Chhattisgarh|Korea": {
+    "bbox": {
+      "south": 22.8882999,
+      "north": 23.588299900000003,
+      "west": 82.0406588,
+      "east": 82.74065879999999
+    },
+    "center": {
+      "lon": 82.3906588,
+      "lat": 23.2382999
+    }
+  },
+  "Chhattisgarh|Mahasamund": {
+    "bbox": {
+      "south": 21.5567613,
+      "north": 20.8280606,
+      "west": 81.9883489,
+      "east": 83.2785129
+    },
+    "center": {
+      "lon": 82.48902633077708,
+      "lat": 21.19228455
+    }
+  },
+  "Chhattisgarh|Manendragarh chirimiri bharatpur": {
+    "bbox": {
+      "south": 23.9253673,
+      "north": 22.937962,
+      "west": 81.5766845,
+      "east": 82.6076925
+    },
+    "center": {
+      "lon": 82.16303613753175,
+      "lat": 23.43166925
+    }
+  },
+  "Chhattisgarh|Mohla manpur ambagarh chouki": {
+    "bbox": {
+      "south": 20.8708422,
+      "north": 20.1183534,
+      "west": 80.3885293,
+      "east": 81.0067141
+    },
+    "center": {
+      "lon": 80.80002495666861,
+      "lat": 20.49577305
+    }
+  },
+  "Chhattisgarh|Mungeli": {
+    "bbox": {
+      "south": 22.6753475,
+      "north": 21.8138909,
+      "west": 81.4698243,
+      "east": 82.036217
+    },
+    "center": {
+      "lon": 81.6874282,
+      "lat": 22.0661098
+    }
+  },
+  "Chhattisgarh|Narayanpur": {
+    "bbox": {
+      "south": 19.9472505,
+      "north": 19.2206509,
+      "west": 80.6636596,
+      "east": 81.5161514
+    },
+    "center": {
+      "lon": 81.1136985512029,
+      "lat": 19.5842032
+    }
+  },
+  "Chhattisgarh|Raigarh": {
+    "bbox": {
+      "south": 21.9112572,
+      "north": 21.8728182,
+      "west": 83.3771249,
+      "east": 83.4180697
+    },
+    "center": {
+      "lon": 83.3965501,
+      "lat": 21.897618
+    }
+  },
+  "Chhattisgarh|Raipur": {
+    "bbox": {
+      "south": 20.888091199999998,
+      "north": 21.5880912,
+      "west": 81.28369930000001,
+      "east": 81.9836993
+    },
+    "center": {
+      "lon": 81.6336993,
+      "lat": 21.2380912
+    }
+  },
+  "Chhattisgarh|Rajnandgaon": {
+    "bbox": {
+      "south": 20.746490599999998,
+      "north": 21.4464906,
+      "west": 80.67915400000001,
+      "east": 81.379154
+    },
+    "center": {
+      "lon": 81.029154,
+      "lat": 21.0964906
+    }
+  },
+  "Chhattisgarh|Sakti": {
+    "bbox": {
+      "south": 21.6762563,
+      "north": 22.3762563,
+      "west": 82.609829,
+      "east": 83.309829
+    },
+    "center": {
+      "lon": 82.959829,
+      "lat": 22.0262563
+    }
+  },
+  "Chhattisgarh|Sarangarh bilaigarh": {
+    "bbox": {
+      "south": 21.7428697,
+      "north": 21.3427869,
+      "west": 82.611587,
+      "east": 83.4905576
+    },
+    "center": {
+      "lon": 83.12613574533323,
+      "lat": 21.54278085
+    }
+  },
+  "Chhattisgarh|Sukma": {
+    "bbox": {
+      "south": 18.7743251,
+      "north": 17.7822157,
+      "west": 80.9112596,
+      "east": 81.9679427
+    },
+    "center": {
+      "lon": 81.29252341475065,
+      "lat": 18.26654225
+    }
+  },
+  "Chhattisgarh|Surajpur": {
+    "bbox": {
+      "south": 23.9189396,
+      "north": 22.79547,
+      "west": 82.4974036,
+      "east": 83.367176
+    },
+    "center": {
+      "lon": 82.97612766699449,
+      "lat": 23.357776899999998
+    }
+  },
+  "Chhattisgarh|Surguja": {
+    "bbox": {
+      "south": 23.2701979,
+      "north": 22.622939,
+      "west": 82.7557611,
+      "east": 83.6902427
+    },
+    "center": {
+      "lon": 83.1656942260687,
+      "lat": 22.94691345
+    }
+  },
+  "Dadra and Nagar Haveli|Dadra and Nagar Haveli": {
+    "bbox": {
+      "south": 20.7677936,
+      "north": 20.0473907,
+      "west": 70.8734588,
+      "east": 73.2178258
+    },
+    "center": {
+      "lon": 70.93238341010638,
+      "lat": 20.718174949999998
+    }
+  },
+  "Daman and Diu|Daman": {
+    "bbox": {
+      "south": 20.0669701,
+      "north": 20.7669701,
+      "west": 72.48317300000001,
+      "east": 73.183173
+    },
+    "center": {
+      "lon": 72.833173,
+      "lat": 20.4169701
+    }
+  },
+  "Daman and Diu|Diu": {
+    "bbox": {
+      "south": 20.3637783,
+      "north": 21.063778300000003,
+      "west": 70.63536350000001,
+      "east": 71.3353635
+    },
+    "center": {
+      "lon": 70.9853635,
+      "lat": 20.7137783
+    }
+  },
+  "Goa|North goa": {
+    "bbox": {
+      "south": 15.152332900000001,
+      "north": 15.8523329,
+      "west": 73.56174320000001,
+      "east": 74.2617432
+    },
+    "center": {
+      "lon": 73.9117432,
+      "lat": 15.5023329
+    }
+  },
+  "Goa|South goa": {
+    "bbox": {
+      "south": 15.5389962,
+      "north": 14.7529315,
+      "west": 73.7601995,
+      "east": 74.3361139
+    },
+    "center": {
+      "lon": 74.11472132670494,
+      "lat": 15.219732700000002
+    }
+  },
+  "Gujarat|Ahmadabad": {
+    "bbox": {
+      "south": 23.066667,
+      "north": 23.766667,
+      "west": 72.56666700000001,
+      "east": 73.266667
+    },
+    "center": {
+      "lon": 72.916667,
+      "lat": 23.416667
+    }
+  },
+  "Gujarat|Amreli": {
+    "bbox": {
+      "south": 22.0412692,
+      "north": 20.7944142,
+      "west": 70.7371044,
+      "east": 71.6793684
+    },
+    "center": {
+      "lon": 71.24960898982046,
+      "lat": 21.4176122
+    }
+  },
+  "Gujarat|Anand": {
+    "bbox": {
+      "south": 22.2086555,
+      "north": 22.908655500000002,
+      "west": 72.6127227,
+      "east": 73.3127227
+    },
+    "center": {
+      "lon": 72.9627227,
+      "lat": 22.5586555
+    }
+  },
+  "Gujarat|Aravalli": {
+    "bbox": {
+      "south": 23.9103468,
+      "north": 23.0584347,
+      "west": 72.9711881,
+      "east": 73.6560128
+    },
+    "center": {
+      "lon": 73.3986095810327,
+      "lat": 23.48432165
+    }
+  },
+  "Gujarat|Banas kantha": {
+    "bbox": {
+      "south": 23.9,
+      "north": 24.6,
+      "west": 72.15,
+      "east": 72.85
+    },
+    "center": {
+      "lon": 72.5,
+      "lat": 24.25
+    }
+  },
+  "Gujarat|Bharuch": {
+    "bbox": {
+      "south": 21.7329852,
+      "north": 21.6851873,
+      "west": 72.9626173,
+      "east": 73.0377334
+    },
+    "center": {
+      "lon": 72.9956936,
+      "lat": 21.7080427
+    }
+  },
+  "Gujarat|Bhavnagar": {
+    "bbox": {
+      "south": 21.421883599999997,
+      "north": 22.1218836,
+      "west": 71.79164490000001,
+      "east": 72.4916449
+    },
+    "center": {
+      "lon": 72.1416449,
+      "lat": 21.7718836
+    }
+  },
+  "Gujarat|Botad": {
+    "bbox": {
+      "south": 22.4025048,
+      "north": 21.6909534,
+      "west": 71.3907061,
+      "east": 72.0413664
+    },
+    "center": {
+      "lon": 71.66896169930108,
+      "lat": 22.046709749999998
+    }
+  },
+  "Gujarat|Chhotaudepur": {
+    "bbox": {
+      "south": 24.7118932,
+      "north": 20.1195321,
+      "west": 68.1756585,
+      "east": 74.4764325
+    },
+    "center": {
+      "lon": 71.745261,
+      "lat": 22.3850051
+    }
+  },
+  "Gujarat|Dang": {
+    "bbox": {
+      "south": 21.0849205,
+      "north": 20.5617676,
+      "west": 73.4656341,
+      "east": 73.9439106
+    },
+    "center": {
+      "lon": 73.70920325426432,
+      "lat": 20.788171849999998
+    }
+  },
+  "Gujarat|Devbhumi dwarka": {
+    "bbox": {
+      "south": 21.892474699999998,
+      "north": 22.5924747,
+      "west": 68.6171448,
+      "east": 69.3171448
+    },
+    "center": {
+      "lon": 68.9671448,
+      "lat": 22.2424747
+    }
+  },
+  "Gujarat|Dohad": {
+    "bbox": {
+      "south": 24.7118932,
+      "north": 20.1195321,
+      "west": 68.1756585,
+      "east": 74.4764325
+    },
+    "center": {
+      "lon": 71.745261,
+      "lat": 22.3850051
+    }
+  },
+  "Gujarat|Gandhinagar": {
+    "bbox": {
+      "south": 23.2770054,
+      "north": 23.1649739,
+      "west": 72.6025742,
+      "east": 72.6890629
+    },
+    "center": {
+      "lon": 72.6492267,
+      "lat": 23.2232877
+    }
+  },
+  "Gujarat|Gir somnath": {
+    "bbox": {
+      "south": 21.1695505,
+      "north": 20.6902888,
+      "west": 70.2391051,
+      "east": 71.2237617
+    },
+    "center": {
+      "lon": 70.76275783253665,
+      "lat": 20.9298181
+    }
+  },
+  "Gujarat|Jamnagar": {
+    "bbox": {
+      "south": 22.5064251,
+      "north": 22.3998254,
+      "west": 70.0234784,
+      "east": 70.128783
+    },
+    "center": {
+      "lon": 70.0552102,
+      "lat": 22.4732415
+    }
+  },
+  "Gujarat|Junagadh": {
+    "bbox": {
+      "south": 21.5487583,
+      "north": 21.4882792,
+      "west": 70.393964,
+      "east": 70.4784169
+    },
+    "center": {
+      "lon": 70.4582458,
+      "lat": 21.5220416
+    }
+  },
+  "Gujarat|Kachchh": {
+    "bbox": {
+      "south": 24.6910085,
+      "north": 22.7289411,
+      "west": 68.1756585,
+      "east": 71.7620404
+    },
+    "center": {
+      "lon": 70,
+      "lat": 23.583333
+    }
+  },
+  "Gujarat|Kheda": {
+    "bbox": {
+      "south": 22.401613299999998,
+      "north": 23.1016133,
+      "west": 72.33572050000001,
+      "east": 73.0357205
+    },
+    "center": {
+      "lon": 72.6857205,
+      "lat": 22.7516133
+    }
+  },
+  "Gujarat|Mahesana": {
+    "bbox": {
+      "south": 23.251555699999997,
+      "north": 23.9515557,
+      "west": 72.0367981,
+      "east": 72.73679809999999
+    },
+    "center": {
+      "lon": 72.3867981,
+      "lat": 23.6015557
+    }
+  },
+  "Gujarat|Mahisagar": {
+    "bbox": {
+      "south": 23.458294,
+      "north": 22.9241347,
+      "west": 73.2421529,
+      "east": 74.0195426
+    },
+    "center": {
+      "lon": 73.6644398400249,
+      "lat": 23.19121945
+    }
+  },
+  "Gujarat|Morbi": {
+    "bbox": {
+      "south": 22.4676662,
+      "north": 23.167666200000003,
+      "west": 70.4845928,
+      "east": 71.18459279999999
+    },
+    "center": {
+      "lon": 70.8345928,
+      "lat": 22.8176662
+    }
+  },
+  "Gujarat|Narmada": {
+    "bbox": {
+      "south": 22.0820919,
+      "north": 21.3963526,
+      "west": 73.2967378,
+      "east": 73.9892111
+    },
+    "center": {
+      "lon": 73.6262457912427,
+      "lat": 21.73926245
+    }
+  },
+  "Gujarat|Navsari": {
+    "bbox": {
+      "south": 20.602407,
+      "north": 21.302407000000002,
+      "west": 72.5823831,
+      "east": 73.28238309999999
+    },
+    "center": {
+      "lon": 72.9323831,
+      "lat": 20.952407
+    }
+  },
+  "Gujarat|Panch mahals": {
+    "bbox": {
+      "south": 22.65,
+      "north": 23.35,
+      "west": 73.65,
+      "east": 74.35
+    },
+    "center": {
+      "lon": 74,
+      "lat": 23
+    }
+  },
+  "Gujarat|Patan": {
+    "bbox": {
+      "south": 23.500503199999997,
+      "north": 24.2005032,
+      "west": 71.76334030000001,
+      "east": 72.4633403
+    },
+    "center": {
+      "lon": 72.1133403,
+      "lat": 23.8505032
+    }
+  },
+  "Gujarat|Porbandar": {
+    "bbox": {
+      "south": 21.290899999999997,
+      "north": 21.9909,
+      "west": 69.26100000000001,
+      "east": 69.961
+    },
+    "center": {
+      "lon": 69.611,
+      "lat": 21.6409
+    }
+  },
+  "Gujarat|Rajkot": {
+    "bbox": {
+      "south": 21.9553263,
+      "north": 22.655326300000002,
+      "west": 70.4528377,
+      "east": 71.15283769999999
+    },
+    "center": {
+      "lon": 70.8028377,
+      "lat": 22.3053263
+    }
+  },
+  "Gujarat|Sabar kantha": {
+    "bbox": {
+      "south": 23.15,
+      "north": 23.85,
+      "west": 72.9,
+      "east": 73.6
+    },
+    "center": {
+      "lon": 73.25,
+      "lat": 23.5
+    }
+  },
+  "Gujarat|Surat": {
+    "bbox": {
+      "south": 20.8594892,
+      "north": 21.5594892,
+      "west": 72.4817058,
+      "east": 73.18170579999999
+    },
+    "center": {
+      "lon": 72.8317058,
+      "lat": 21.2094892
+    }
+  },
+  "Gujarat|Surendranagar": {
+    "bbox": {
+      "south": 22.7445936,
+      "north": 22.7022031,
+      "west": 71.6010436,
+      "east": 71.6869804
+    },
+    "center": {
+      "lon": 71.648352,
+      "lat": 22.72317
+    }
+  },
+  "Gujarat|Tapi": {
+    "bbox": {
+      "south": 21.5694332,
+      "north": 20.8085885,
+      "west": 73.1980081,
+      "east": 74.3316722
+    },
+    "center": {
+      "lon": 73.55606306168934,
+      "lat": 21.1916567
+    }
+  },
+  "Gujarat|Vadodara": {
+    "bbox": {
+      "south": 21.947314199999997,
+      "north": 22.6473142,
+      "west": 72.8442567,
+      "east": 73.54425669999999
+    },
+    "center": {
+      "lon": 73.1942567,
+      "lat": 22.2973142
+    }
+  },
+  "Gujarat|Valsad": {
+    "bbox": {
+      "south": 20.2567767,
+      "north": 20.956776700000002,
+      "west": 72.5772881,
+      "east": 73.27728809999999
+    },
+    "center": {
+      "lon": 72.9272881,
+      "lat": 20.6067767
+    }
+  },
+  "Haryana|Ambala": {
+    "bbox": {
+      "south": 30.034367399999997,
+      "north": 30.7343674,
+      "west": 76.420421,
+      "east": 77.120421
+    },
+    "center": {
+      "lon": 76.770421,
+      "lat": 30.3843674
+    }
+  },
+  "Haryana|Bhiwani": {
+    "bbox": {
+      "south": 28.4431703,
+      "north": 29.1431703,
+      "west": 75.7891283,
+      "east": 76.48912829999999
+    },
+    "center": {
+      "lon": 76.1391283,
+      "lat": 28.7931703
+    }
+  },
+  "Haryana|Charki dadri": {
+    "bbox": {
+      "south": 28.241993299999997,
+      "north": 28.9419933,
+      "west": 75.9219817,
+      "east": 76.62198169999999
+    },
+    "center": {
+      "lon": 76.2719817,
+      "lat": 28.5919933
+    }
+  },
+  "Haryana|Faridabad": {
+    "bbox": {
+      "south": 28.053147799999998,
+      "north": 28.7531478,
+      "west": 76.9605561,
+      "east": 77.6605561
+    },
+    "center": {
+      "lon": 77.3105561,
+      "lat": 28.4031478
+    }
+  },
+  "Haryana|Fatehabad": {
+    "bbox": {
+      "south": 29.8228073,
+      "north": 29.2483659,
+      "west": 75.2200042,
+      "east": 75.9642676
+    },
+    "center": {
+      "lon": 75.57529014661358,
+      "lat": 29.5359209
+    }
+  },
+  "Haryana|Gurgaon": {
+    "bbox": {
+      "south": 28.5409048,
+      "north": 28.2005681,
+      "west": 76.6510198,
+      "east": 77.2418683
+    },
+    "center": {
+      "lon": 77.0299194,
+      "lat": 28.4646148
+    }
+  },
+  "Haryana|Hisar": {
+    "bbox": {
+      "south": 28.806268799999998,
+      "north": 29.5062688,
+      "west": 75.3792303,
+      "east": 76.07923029999999
+    },
+    "center": {
+      "lon": 75.7292303,
+      "lat": 29.1562688
+    }
+  },
+  "Haryana|Jhajjar": {
+    "bbox": {
+      "south": 28.8397084,
+      "north": 28.3541029,
+      "west": 76.2828314,
+      "east": 76.968025
+    },
+    "center": {
+      "lon": 76.65053662578484,
+      "lat": 28.59644605
+    }
+  },
+  "Haryana|Jind": {
+    "bbox": {
+      "south": 28.9652073,
+      "north": 29.665207300000002,
+      "west": 75.964082,
+      "east": 76.664082
+    },
+    "center": {
+      "lon": 76.314082,
+      "lat": 29.3152073
+    }
+  },
+  "Haryana|Kaithal": {
+    "bbox": {
+      "south": 29.449658799999998,
+      "north": 30.1496588,
+      "west": 76.0489903,
+      "east": 76.74899029999999
+    },
+    "center": {
+      "lon": 76.3989903,
+      "lat": 29.7996588
+    }
+  },
+  "Haryana|Karnal": {
+    "bbox": {
+      "south": 29.9934391,
+      "north": 29.4576032,
+      "west": 76.5008436,
+      "east": 77.2293064
+    },
+    "center": {
+      "lon": 76.91069238886621,
+      "lat": 29.7255766
+    }
+  },
+  "Haryana|Kurukshetra": {
+    "bbox": {
+      "south": 29.619374699999998,
+      "north": 30.3193747,
+      "west": 76.4982787,
+      "east": 77.19827869999999
+    },
+    "center": {
+      "lon": 76.8482787,
+      "lat": 29.9693747
+    }
+  },
+  "Haryana|Mahendragarh": {
+    "bbox": {
+      "south": 28.4685007,
+      "north": 27.7971919,
+      "west": 75.8956889,
+      "east": 76.3680091
+    },
+    "center": {
+      "lon": 76.16974476260464,
+      "lat": 28.132697049999997
+    }
+  },
+  "Haryana|Mewat": {
+    "bbox": {
+      "south": 27.8600432,
+      "north": 28.560043200000003,
+      "west": 76.5897798,
+      "east": 77.28977979999999
+    },
+    "center": {
+      "lon": 76.9397798,
+      "lat": 28.2100432
+    }
+  },
+  "Haryana|Palwal": {
+    "bbox": {
+      "south": 28.2723457,
+      "north": 27.847418,
+      "west": 77.1206335,
+      "east": 77.550424
+    },
+    "center": {
+      "lon": 77.32234220926105,
+      "lat": 28.0599426
+    }
+  },
+  "Haryana|Panchkula": {
+    "bbox": {
+      "south": 30.3475401,
+      "north": 31.047540100000003,
+      "west": 76.5051066,
+      "east": 77.2051066
+    },
+    "center": {
+      "lon": 76.8551066,
+      "lat": 30.6975401
+    }
+  },
+  "Haryana|Panipat": {
+    "bbox": {
+      "south": 29.0412753,
+      "north": 29.7412753,
+      "west": 76.6271675,
+      "east": 77.32716749999999
+    },
+    "center": {
+      "lon": 76.9771675,
+      "lat": 29.3912753
+    }
+  },
+  "Haryana|Rewari": {
+    "bbox": {
+      "south": 27.845646799999997,
+      "north": 28.5456468,
+      "west": 76.26651790000001,
+      "east": 76.9665179
+    },
+    "center": {
+      "lon": 76.6165179,
+      "lat": 28.1956468
+    }
+  },
+  "Haryana|Rohtak": {
+    "bbox": {
+      "south": 28.551089899999997,
+      "north": 29.2510899,
+      "west": 76.2301935,
+      "east": 76.93019349999999
+    },
+    "center": {
+      "lon": 76.5801935,
+      "lat": 28.9010899
+    }
+  },
+  "Haryana|Sirsa": {
+    "bbox": {
+      "south": 29.187284899999998,
+      "north": 29.8872849,
+      "west": 74.6877649,
+      "east": 75.3877649
+    },
+    "center": {
+      "lon": 75.0377649,
+      "lat": 29.5372849
+    }
+  },
+  "Haryana|Sonipat": {
+    "bbox": {
+      "south": 28.6453758,
+      "north": 29.345375800000003,
+      "west": 76.67336270000001,
+      "east": 77.3733627
+    },
+    "center": {
+      "lon": 77.0233627,
+      "lat": 28.9953758
+    }
+  },
+  "Haryana|Yamunanagar": {
+    "bbox": {
+      "south": 29.7731349,
+      "north": 30.4731349,
+      "west": 76.936329,
+      "east": 77.63632899999999
+    },
+    "center": {
+      "lon": 77.286329,
+      "lat": 30.1231349
+    }
+  },
+  "Himachal Pradesh|Bilaspur": {
+    "bbox": {
+      "south": 31.5956743,
+      "north": 31.2091271,
+      "west": 76.3921237,
+      "east": 76.9277483
+    },
+    "center": {
+      "lon": 76.7611631,
+      "lat": 31.3380959
+    }
+  },
+  "Himachal Pradesh|Chamba": {
+    "bbox": {
+      "south": 33.2089787,
+      "north": 32.1755125,
+      "west": 75.7967592,
+      "east": 76.8774391
+    },
+    "center": {
+      "lon": 76.16315522950366,
+      "lat": 32.692331550000006
+    }
+  },
+  "Himachal Pradesh|Hamirpur": {
+    "bbox": {
+      "south": 31.8930363,
+      "north": 31.4156898,
+      "west": 76.2995038,
+      "east": 76.7297487
+    },
+    "center": {
+      "lon": 76.54036329970963,
+      "lat": 31.65398655
+    }
+  },
+  "Himachal Pradesh|Kangra": {
+    "bbox": {
+      "south": 32.4678273,
+      "north": 31.6857241,
+      "west": 75.5940055,
+      "east": 77.0778679
+    },
+    "center": {
+      "lon": 76.29858720759783,
+      "lat": 32.0768665
+    }
+  },
+  "Himachal Pradesh|Kinnaur": {
+    "bbox": {
+      "south": 32.0885013,
+      "north": 31.0975565,
+      "west": 77.7482494,
+      "east": 79.0123843
+    },
+    "center": {
+      "lon": 78.32814168568953,
+      "lat": 31.593012950000002
+    }
+  },
+  "Himachal Pradesh|Kullu": {
+    "bbox": {
+      "south": 31.6078974,
+      "north": 32.3078974,
+      "west": 76.75892320000001,
+      "east": 77.4589232
+    },
+    "center": {
+      "lon": 77.1089232,
+      "lat": 31.9578974
+    }
+  },
+  "Himachal Pradesh|Lahul and spiti": {
+    "bbox": {
+      "south": 33.2556686,
+      "north": 31.747512,
+      "west": 76.372916,
+      "east": 78.6943424
+    },
+    "center": {
+      "lon": 77.5789890782577,
+      "lat": 32.5015861
+    }
+  },
+  "Himachal Pradesh|Mandi": {
+    "bbox": {
+      "south": 32.0730193,
+      "north": 31.2302112,
+      "west": 76.6206908,
+      "east": 77.3891346
+    },
+    "center": {
+      "lon": 77.00925418842219,
+      "lat": 31.65166165
+    }
+  },
+  "Himachal Pradesh|Shimla": {
+    "bbox": {
+      "south": 31.1603379,
+      "north": 31.0641835,
+      "west": 77.1172964,
+      "east": 77.229917
+    },
+    "center": {
+      "lon": 77.1709729,
+      "lat": 31.1041526
+    }
+  },
+  "Himachal Pradesh|Sirmaur": {
+    "bbox": {
+      "south": 31.0209262,
+      "north": 30.3771701,
+      "west": 77.0168458,
+      "east": 77.8268051
+    },
+    "center": {
+      "lon": 77.44653038810971,
+      "lat": 30.6991321
+    }
+  },
+  "Himachal Pradesh|Solan": {
+    "bbox": {
+      "south": 30.557756899999998,
+      "north": 31.2577569,
+      "west": 76.7523645,
+      "east": 77.45236449999999
+    },
+    "center": {
+      "lon": 77.1023645,
+      "lat": 30.9077569
+    }
+  },
+  "Himachal Pradesh|Una": {
+    "bbox": {
+      "south": 31.8674625,
+      "north": 31.2994732,
+      "west": 75.93647,
+      "east": 76.4793765
+    },
+    "center": {
+      "lon": 76.23514522983882,
+      "lat": 31.5834642
+    }
+  },
+  "Jammu and Kashmir|Anantnag": {
+    "bbox": {
+      "south": 33.3868773,
+      "north": 34.086877300000005,
+      "west": 74.79551380000001,
+      "east": 75.4955138
+    },
+    "center": {
+      "lon": 75.1455138,
+      "lat": 33.7368773
+    }
+  },
+  "Jammu and Kashmir|Badgam": {
+    "bbox": {
+      "south": 33.688524799999996,
+      "north": 34.3885248,
+      "west": 74.38601630000001,
+      "east": 75.0860163
+    },
+    "center": {
+      "lon": 74.7360163,
+      "lat": 34.0385248
+    }
+  },
+  "Jammu and Kashmir|Bandipora": {
+    "bbox": {
+      "south": 34.0732433,
+      "north": 34.773243300000004,
+      "west": 74.285965,
+      "east": 74.985965
+    },
+    "center": {
+      "lon": 74.635965,
+      "lat": 34.4232433
+    }
+  },
+  "Jammu and Kashmir|Baramulla": {
+    "bbox": {
+      "south": 33.8586903,
+      "north": 34.5586903,
+      "west": 73.993498,
+      "east": 74.69349799999999
+    },
+    "center": {
+      "lon": 74.343498,
+      "lat": 34.2086903
+    }
+  },
+  "Jammu and Kashmir|Doda": {
+    "bbox": {
+      "south": 33.4053463,
+      "north": 32.8613126,
+      "west": 75.3350114,
+      "east": 76.2244007
+    },
+    "center": {
+      "lon": 75.58900789003377,
+      "lat": 33.13260995
+    }
+  },
+  "Jammu and Kashmir|Ganderbal": {
+    "bbox": {
+      "south": 34.4637542,
+      "north": 34.1125507,
+      "west": 74.6445036,
+      "east": 75.496168
+    },
+    "center": {
+      "lon": 75.04079833889585,
+      "lat": 34.288932200000005
+    }
+  },
+  "Jammu and Kashmir|Jammu": {
+    "bbox": {
+      "south": 34.7871414,
+      "north": 32.2763569,
+      "west": 73.7500338,
+      "east": 76.7803165
+    },
+    "center": {
+      "lon": 75.1629584,
+      "lat": 33.6649297
+    }
+  },
+  "Jammu and Kashmir|Kargil": {
+    "bbox": {
+      "south": 32.3545476,
+      "north": 33.0545476,
+      "west": 74.521206,
+      "east": 75.221206
+    },
+    "center": {
+      "lon": 74.871206,
+      "lat": 32.7045476
+    }
+  },
+  "Jammu and Kashmir|Kathua": {
+    "bbox": {
+      "south": 32.0265524,
+      "north": 32.7265524,
+      "west": 75.17430440000001,
+      "east": 75.8743044
+    },
+    "center": {
+      "lon": 75.5243044,
+      "lat": 32.3765524
+    }
+  },
+  "Jammu and Kashmir|Kishtwar": {
+    "bbox": {
+      "south": 32.9607908,
+      "north": 33.6607908,
+      "west": 75.41942130000001,
+      "east": 76.1194213
+    },
+    "center": {
+      "lon": 75.7694213,
+      "lat": 33.3107908
+    }
+  },
+  "Jammu and Kashmir|Kulgam": {
+    "bbox": {
+      "south": 33.6485379,
+      "north": 33.6419017,
+      "west": 75.0105178,
+      "east": 75.0299421
+    },
+    "center": {
+      "lon": 75.0188432,
+      "lat": 33.6446899
+    }
+  },
+  "Jammu and Kashmir|Kupwara": {
+    "bbox": {
+      "south": 34.7871414,
+      "north": 34.240863,
+      "west": 73.7500338,
+      "east": 74.6039432
+    },
+    "center": {
+      "lon": 74.19136702721829,
+      "lat": 34.5140696
+    }
+  },
+  "Jammu and Kashmir|Leh ladakh": {
+    "bbox": {
+      "south": 33.813656,
+      "north": 34.513656000000005,
+      "west": 77.23401480000001,
+      "east": 77.9340148
+    },
+    "center": {
+      "lon": 77.5840148,
+      "lat": 34.163656
+    }
+  },
+  "Jammu and Kashmir|Poonch": {
+    "bbox": {
+      "south": 33.4170004,
+      "north": 34.1170004,
+      "west": 73.7457143,
+      "east": 74.44571429999999
+    },
+    "center": {
+      "lon": 74.0957143,
+      "lat": 33.7670004
+    }
+  },
+  "Jammu and Kashmir|Pulwama": {
+    "bbox": {
+      "south": 34.1168232,
+      "north": 33.7825984,
+      "west": 74.7119558,
+      "east": 75.2350605
+    },
+    "center": {
+      "lon": 75.04183347471374,
+      "lat": 33.9490472
+    }
+  },
+  "Jammu and Kashmir|Rajauri": {
+    "bbox": {
+      "south": 32.9,
+      "north": 33.6,
+      "west": 73.9,
+      "east": 74.6
+    },
+    "center": {
+      "lon": 74.25,
+      "lat": 33.25
+    }
+  },
+  "Jammu and Kashmir|Ramban": {
+    "bbox": {
+      "south": 33.5965335,
+      "north": 33.0669093,
+      "west": 75.0094771,
+      "east": 75.3810917
+    },
+    "center": {
+      "lon": 75.19847626653356,
+      "lat": 33.33328915
+    }
+  },
+  "Jammu and Kashmir|Reasi": {
+    "bbox": {
+      "south": 33.525619,
+      "north": 32.8864775,
+      "west": 74.51859,
+      "east": 75.092411
+    },
+    "center": {
+      "lon": 74.862679360101,
+      "lat": 33.20599085
+    }
+  },
+  "Jammu and Kashmir|Samba": {
+    "bbox": {
+      "south": 32.7428871,
+      "north": 32.4088308,
+      "west": 74.8763793,
+      "east": 75.3426504
+    },
+    "center": {
+      "lon": 75.12034455530063,
+      "lat": 32.57591175
+    }
+  },
+  "Jammu and Kashmir|Shopian": {
+    "bbox": {
+      "south": 33.7286748,
+      "north": 33.7129974,
+      "west": 74.8225272,
+      "east": 74.8454332
+    },
+    "center": {
+      "lon": 74.8333311,
+      "lat": 33.718807
+    }
+  },
+  "Jammu and Kashmir|Srinagar": {
+    "bbox": {
+      "south": 33.7247444,
+      "north": 34.4247444,
+      "west": 74.47044430000001,
+      "east": 75.1704443
+    },
+    "center": {
+      "lon": 74.8204443,
+      "lat": 34.0747444
+    }
+  },
+  "Jammu and Kashmir|Udhampur": {
+    "bbox": {
+      "south": 32.571972599999995,
+      "north": 33.2719726,
+      "west": 74.7831482,
+      "east": 75.48314819999999
+    },
+    "center": {
+      "lon": 75.1331482,
+      "lat": 32.9219726
+    }
+  },
+  "Jharkhand|Bokaro": {
+    "bbox": {
+      "south": 23.304433799999998,
+      "north": 24.0044338,
+      "west": 85.7956444,
+      "east": 86.49564439999999
+    },
+    "center": {
+      "lon": 86.1456444,
+      "lat": 23.6544338
+    }
+  },
+  "Jharkhand|Chatra": {
+    "bbox": {
+      "south": 24.5308829,
+      "north": 23.6812256,
+      "west": 84.445309,
+      "east": 85.3796943
+    },
+    "center": {
+      "lon": 84.86233794829053,
+      "lat": 24.106231649999998
+    }
+  },
+  "Jharkhand|Deoghar": {
+    "bbox": {
+      "south": 24.1398318,
+      "north": 24.839831800000002,
+      "west": 86.3490182,
+      "east": 87.04901819999999
+    },
+    "center": {
+      "lon": 86.6990182,
+      "lat": 24.4898318
+    }
+  },
+  "Jharkhand|Dhanbad": {
+    "bbox": {
+      "south": 23.4452809,
+      "north": 24.145280900000003,
+      "west": 86.0809638,
+      "east": 86.7809638
+    },
+    "center": {
+      "lon": 86.4309638,
+      "lat": 23.7952809
+    }
+  },
+  "Jharkhand|Dumka": {
+    "bbox": {
+      "south": 23.917793699999997,
+      "north": 24.6177937,
+      "west": 86.8985495,
+      "east": 87.59854949999999
+    },
+    "center": {
+      "lon": 87.2485495,
+      "lat": 24.2677937
+    }
+  },
+  "Jharkhand|East singhbum": {
+    "bbox": {
+      "south": 22.15,
+      "north": 22.85,
+      "west": 85.15,
+      "east": 85.85
+    },
+    "center": {
+      "lon": 85.5,
+      "lat": 22.5
+    }
+  },
+  "Jharkhand|Garhwa": {
+    "bbox": {
+      "south": 24.5375532,
+      "north": 23.5692582,
+      "west": 83.3281137,
+      "east": 84.0598436
+    },
+    "center": {
+      "lon": 83.65268182215235,
+      "lat": 24.053577
+    }
+  },
+  "Jharkhand|Giridih": {
+    "bbox": {
+      "south": 24.7796926,
+      "north": 23.8841112,
+      "west": 85.6724141,
+      "east": 86.5694327
+    },
+    "center": {
+      "lon": 86.1548117295738,
+      "lat": 24.331454649999998
+    }
+  },
+  "Jharkhand|Godda": {
+    "bbox": {
+      "south": 24.8946895,
+      "north": 24.5939584,
+      "west": 87.074182,
+      "east": 87.3682594
+    },
+    "center": {
+      "lon": 87.2928506179686,
+      "lat": 24.74334305
+    }
+  },
+  "Jharkhand|Gumla": {
+    "bbox": {
+      "south": 23.6089697,
+      "north": 22.7091254,
+      "west": 84.0310335,
+      "east": 85.0153398
+    },
+    "center": {
+      "lon": 84.45995652080032,
+      "lat": 23.1603759
+    }
+  },
+  "Jharkhand|Hazaribagh": {
+    "bbox": {
+      "south": 23.642435199999998,
+      "north": 24.3424352,
+      "west": 85.01162520000001,
+      "east": 85.7116252
+    },
+    "center": {
+      "lon": 85.3616252,
+      "lat": 23.9924352
+    }
+  },
+  "Jharkhand|Jamtara": {
+    "bbox": {
+      "south": 23.613044799999997,
+      "north": 24.3130448,
+      "west": 86.4527604,
+      "east": 87.15276039999999
+    },
+    "center": {
+      "lon": 86.8027604,
+      "lat": 23.9630448
+    }
+  },
+  "Jharkhand|Khunti": {
+    "bbox": {
+      "south": 23.2854248,
+      "north": 22.5733181,
+      "west": 84.9394225,
+      "east": 85.6543493
+    },
+    "center": {
+      "lon": 85.28144745743757,
+      "lat": 22.92818005
+    }
+  },
+  "Jharkhand|Koderma": {
+    "bbox": {
+      "south": 24.6018407,
+      "north": 24.4603733,
+      "west": 85.5044889,
+      "east": 85.6679534
+    },
+    "center": {
+      "lon": 85.5948587872845,
+      "lat": 24.531165950000002
+    }
+  },
+  "Jharkhand|Latehar": {
+    "bbox": {
+      "south": 24.0492465,
+      "north": 23.3250554,
+      "west": 83.9667892,
+      "east": 84.9657297
+    },
+    "center": {
+      "lon": 84.49695511086065,
+      "lat": 23.6880057
+    }
+  },
+  "Jharkhand|Lohardaga": {
+    "bbox": {
+      "south": 23.6757668,
+      "north": 23.27894,
+      "west": 84.3857653,
+      "east": 84.9457335
+    },
+    "center": {
+      "lon": 84.69866841888845,
+      "lat": 23.4770044
+    }
+  },
+  "Jharkhand|Pakur": {
+    "bbox": {
+      "south": 24.830308,
+      "north": 24.2361196,
+      "west": 87.3837733,
+      "east": 87.9173365
+    },
+    "center": {
+      "lon": 87.59323197586771,
+      "lat": 24.53259085
+    }
+  },
+  "Jharkhand|Palamu": {
+    "bbox": {
+      "south": 24.6437603,
+      "north": 23.7954917,
+      "west": 83.8108992,
+      "east": 84.5888471
+    },
+    "center": {
+      "lon": 84.17255645743987,
+      "lat": 24.22129825
+    }
+  },
+  "Jharkhand|Ramgarh": {
+    "bbox": {
+      "south": 23.280321299999997,
+      "north": 23.9803213,
+      "west": 85.17158780000001,
+      "east": 85.8715878
+    },
+    "center": {
+      "lon": 85.5215878,
+      "lat": 23.6303213
+    }
+  },
+  "Jharkhand|Ranchi": {
+    "bbox": {
+      "south": 23.0200501,
+      "north": 23.7200501,
+      "west": 84.9750387,
+      "east": 85.67503869999999
+    },
+    "center": {
+      "lon": 85.3250387,
+      "lat": 23.3700501
+    }
+  },
+  "Jharkhand|Sahebganj": {
+    "bbox": {
+      "south": 24.886119599999997,
+      "north": 25.5861196,
+      "west": 87.2843064,
+      "east": 87.9843064
+    },
+    "center": {
+      "lon": 87.6343064,
+      "lat": 25.2361196
+    }
+  },
+  "Jharkhand|Saraikela kharsawan": {
+    "bbox": {
+      "south": 22.8770056,
+      "north": 22.6167444,
+      "west": 85.8517169,
+      "east": 86.0113191
+    },
+    "center": {
+      "lon": 85.91689291046393,
+      "lat": 22.7464225
+    }
+  },
+  "Jharkhand|Simdega": {
+    "bbox": {
+      "south": 22.8374601,
+      "north": 22.3425144,
+      "west": 84.0030312,
+      "east": 85.0797558
+    },
+    "center": {
+      "lon": 84.54648050193023,
+      "lat": 22.59045725
+    }
+  },
+  "Jharkhand|West singhbhum": {
+    "bbox": {
+      "south": 22.15,
+      "north": 22.85,
+      "west": 85.15,
+      "east": 85.85
+    },
+    "center": {
+      "lon": 85.5,
+      "lat": 22.5
+    }
+  },
+  "Karnataka|Bagalkot": {
+    "bbox": {
+      "south": 16.768133,
+      "north": 15.8127324,
+      "west": 74.9862697,
+      "east": 76.3322759
+    },
+    "center": {
+      "lon": 75.5915819092485,
+      "lat": 16.2903648
+    }
+  },
+  "Karnataka|Bangalore rural": {
+    "bbox": {
+      "south": 12.651087200000001,
+      "north": 13.3510872,
+      "west": 76.98612250000001,
+      "east": 77.6861225
+    },
+    "center": {
+      "lon": 77.3361225,
+      "lat": 13.0010872
+    }
+  },
+  "Karnataka|Belgaum": {
+    "bbox": {
+      "south": 15.8682581,
+      "north": 15.8511549,
+      "west": 74.5973611,
+      "east": 74.6336323
+    },
+    "center": {
+      "lon": 74.6142405432812,
+      "lat": 15.8593476
+    }
+  },
+  "Karnataka|Bellary": {
+    "bbox": {
+      "south": 15.1672204,
+      "north": 15.1571797,
+      "west": 76.8761548,
+      "east": 76.8878162
+    },
+    "center": {
+      "lon": 76.88153285750052,
+      "lat": 15.16220255
+    }
+  },
+  "Karnataka|Bengaluru urban": {
+    "bbox": {
+      "south": 13.1426598,
+      "north": 12.8336251,
+      "west": 77.4600507,
+      "east": 77.7843613
+    },
+    "center": {
+      "lon": 77.590082,
+      "lat": 12.9767936
+    }
+  },
+  "Karnataka|Bidar": {
+    "bbox": {
+      "south": 17.5666022,
+      "north": 18.2666022,
+      "west": 77.161315,
+      "east": 77.86131499999999
+    },
+    "center": {
+      "lon": 77.511315,
+      "lat": 17.9166022
+    }
+  },
+  "Karnataka|Bijapur": {
+    "bbox": {
+      "south": 16.8738555,
+      "north": 16.8698411,
+      "west": 75.7105636,
+      "east": 75.7147372
+    },
+    "center": {
+      "lon": 75.7127562107299,
+      "lat": 16.87269015
+    }
+  },
+  "Karnataka|Chamarajanagar": {
+    "bbox": {
+      "south": 12.3141989,
+      "north": 11.5945587,
+      "west": 76.4030496,
+      "east": 77.7792422
+    },
+    "center": {
+      "lon": 77.1069086262881,
+      "lat": 11.95442005
+    }
+  },
+  "Karnataka|Chikballapur": {
+    "bbox": {
+      "south": 13.2108965,
+      "north": 13.1896757,
+      "west": 77.9830913,
+      "east": 78.0204138
+    },
+    "center": {
+      "lon": 78.00134108251088,
+      "lat": 13.199524097504929
+    }
+  },
+  "Karnataka|Chikmagalur": {
+    "bbox": {
+      "south": 13.2838864,
+      "north": 13.2700715,
+      "west": 75.9950419,
+      "east": 76.0276428
+    },
+    "center": {
+      "lon": 76.01291690020554,
+      "lat": 13.278088251486922
+    }
+  },
+  "Karnataka|Chitradurga": {
+    "bbox": {
+      "south": 15.034471,
+      "north": 13.5759715,
+      "west": 76.0249578,
+      "east": 77.0252801
+    },
+    "center": {
+      "lon": 76.52966670113136,
+      "lat": 14.3049174
+    }
+  },
+  "Karnataka|Dakshin kannad": {
+    "bbox": {
+      "south": 13.1851626,
+      "north": 12.460086,
+      "west": 74.7761084,
+      "east": 75.6706418
+    },
+    "center": {
+      "lon": 75.22650362528617,
+      "lat": 12.82264335
+    }
+  },
+  "Karnataka|Davangere": {
+    "bbox": {
+      "south": 14.4359894,
+      "north": 14.4302124,
+      "west": 75.9277797,
+      "east": 75.9330583
+    },
+    "center": {
+      "lon": 75.93028256639175,
+      "lat": 14.4331009
+    }
+  },
+  "Karnataka|Dharwad": {
+    "bbox": {
+      "south": 15.1040505,
+      "north": 15.804050499999999,
+      "west": 74.6566516,
+      "east": 75.35665159999999
+    },
+    "center": {
+      "lon": 75.0066516,
+      "lat": 15.4540505
+    }
+  },
+  "Karnataka|Gadag": {
+    "bbox": {
+      "south": 15.886972,
+      "north": 14.9436226,
+      "west": 75.2736218,
+      "east": 76.0450595
+    },
+    "center": {
+      "lon": 75.6815801296564,
+      "lat": 15.41669195
+    }
+  },
+  "Karnataka|Gulbarga": {
+    "bbox": {
+      "south": 17.3229387,
+      "north": 17.303494,
+      "west": 76.8626314,
+      "east": 76.8887932
+    },
+    "center": {
+      "lon": 76.87561122089758,
+      "lat": 17.31375365
+    }
+  },
+  "Karnataka|Hassan": {
+    "bbox": {
+      "south": 12.6570817,
+      "north": 13.3570817,
+      "west": 75.7492703,
+      "east": 76.4492703
+    },
+    "center": {
+      "lon": 76.0992703,
+      "lat": 13.0070817
+    }
+  },
+  "Karnataka|Haveri": {
+    "bbox": {
+      "south": 15.1617738,
+      "north": 14.2742413,
+      "west": 75.0151274,
+      "east": 75.82025
+    },
+    "center": {
+      "lon": 75.36564232024529,
+      "lat": 14.71802675
+    }
+  },
+  "Karnataka|Kodagu": {
+    "bbox": {
+      "south": 12.8342368,
+      "north": 11.9312137,
+      "west": 75.3654385,
+      "east": 76.1892617
+    },
+    "center": {
+      "lon": 75.66407145094288,
+      "lat": 12.3827332
+    }
+  },
+  "Karnataka|Kolar": {
+    "bbox": {
+      "south": 12.7867201,
+      "north": 13.4867201,
+      "west": 77.7837246,
+      "east": 78.48372459999999
+    },
+    "center": {
+      "lon": 78.1337246,
+      "lat": 13.1367201
+    }
+  },
+  "Karnataka|Koppal": {
+    "bbox": {
+      "south": 16.0118145,
+      "north": 15.1376588,
+      "west": 75.7735264,
+      "east": 76.8126175
+    },
+    "center": {
+      "lon": 76.3118493692591,
+      "lat": 15.57482375
+    }
+  },
+  "Karnataka|Mandya": {
+    "bbox": {
+      "south": 12.1738888,
+      "north": 12.8738888,
+      "west": 76.5461961,
+      "east": 77.24619609999999
+    },
+    "center": {
+      "lon": 76.8961961,
+      "lat": 12.5238888
+    }
+  },
+  "Karnataka|Mysore": {
+    "bbox": {
+      "south": 11.955182800000001,
+      "north": 12.6551828,
+      "west": 76.30536090000001,
+      "east": 77.0053609
+    },
+    "center": {
+      "lon": 76.6553609,
+      "lat": 12.3051828
+    }
+  },
+  "Karnataka|Raichur": {
+    "bbox": {
+      "south": 16.5620451,
+      "north": 15.5474362,
+      "west": 76.2341617,
+      "east": 77.5976293
+    },
+    "center": {
+      "lon": 76.90036472411589,
+      "lat": 16.054719400000003
+    }
+  },
+  "Karnataka|Ramanagara": {
+    "bbox": {
+      "south": 12.375276600000001,
+      "north": 13.0752766,
+      "west": 76.9304797,
+      "east": 77.6304797
+    },
+    "center": {
+      "lon": 77.2804797,
+      "lat": 12.7252766
+    }
+  },
+  "Karnataka|Shimoga": {
+    "bbox": {
+      "south": 14.6544359,
+      "north": 13.4568025,
+      "west": 74.6252159,
+      "east": 75.8787561
+    },
+    "center": {
+      "lon": 75.23805528480658,
+      "lat": 14.05565025
+    }
+  },
+  "Karnataka|Tumkur": {
+    "bbox": {
+      "south": 13.341588,
+      "north": 13.3359246,
+      "west": 77.1176183,
+      "east": 77.1234441
+    },
+    "center": {
+      "lon": 77.1207439789653,
+      "lat": 13.3388927
+    }
+  },
+  "Karnataka|Udupi": {
+    "bbox": {
+      "south": 12.9919169,
+      "north": 13.691916899999999,
+      "west": 74.3973232,
+      "east": 75.09732319999999
+    },
+    "center": {
+      "lon": 74.7473232,
+      "lat": 13.3419169
+    }
+  },
+  "Karnataka|Uttar kannad": {
+    "bbox": {
+      "south": 15.5249608,
+      "north": 13.9258142,
+      "west": 74.0543908,
+      "east": 75.1029206
+    },
+    "center": {
+      "lon": 74.64033891105888,
+      "lat": 14.72537945
+    }
+  },
+  "Karnataka|Vijayanagar": {
+    "bbox": {
+      "south": 15.3811062,
+      "north": 14.5057067,
+      "west": 75.6636672,
+      "east": 76.7423985
+    },
+    "center": {
+      "lon": 76.04480068870055,
+      "lat": 14.94285665
+    }
+  },
+  "Karnataka|Yadgir": {
+    "bbox": {
+      "south": 16.953989,
+      "north": 16.1937602,
+      "west": 76.291349,
+      "east": 77.4791435
+    },
+    "center": {
+      "lon": 76.92544344576471,
+      "lat": 16.57441225
+    }
+  },
+  "Kerala|Alappuzha": {
+    "bbox": {
+      "south": 9.8910134,
+      "north": 9.1101406,
+      "west": 76.2794604,
+      "east": 76.6911251
+    },
+    "center": {
+      "lon": 76.41241428564258,
+      "lat": 9.5006651
+    }
+  },
+  "Kerala|Ernakulam": {
+    "bbox": {
+      "south": 9.633725700000001,
+      "north": 10.3337257,
+      "west": 75.9240001,
+      "east": 76.62400009999999
+    },
+    "center": {
+      "lon": 76.2740001,
+      "lat": 9.9837257
+    }
+  },
+  "Kerala|Idukki": {
+    "bbox": {
+      "south": 10.3583245,
+      "north": 9.2725399,
+      "west": 76.6279223,
+      "east": 77.4123612
+    },
+    "center": {
+      "lon": 76.99915994809137,
+      "lat": 9.815478500000001
+    }
+  },
+  "Kerala|Kannur": {
+    "bbox": {
+      "south": 11.9237909,
+      "north": 11.8516327,
+      "west": 75.3528857,
+      "east": 75.4042578
+    },
+    "center": {
+      "lon": 75.3737973,
+      "lat": 11.8763836
+    }
+  },
+  "Kerala|Kasaragod": {
+    "bbox": {
+      "south": 12.1535577,
+      "north": 12.8535577,
+      "west": 74.6407022,
+      "east": 75.3407022
+    },
+    "center": {
+      "lon": 74.9907022,
+      "lat": 12.5035577
+    }
+  },
+  "Kerala|Kollam": {
+    "bbox": {
+      "south": 8.537081500000001,
+      "north": 9.2370815,
+      "west": 76.2407017,
+      "east": 76.94070169999999
+    },
+    "center": {
+      "lon": 76.5907017,
+      "lat": 8.8870815
+    }
+  },
+  "Kerala|Kottayam": {
+    "bbox": {
+      "south": 9.241564,
+      "north": 9.941564,
+      "west": 76.17215990000001,
+      "east": 76.8721599
+    },
+    "center": {
+      "lon": 76.5221599,
+      "lat": 9.591564
+    }
+  },
+  "Kerala|Kozhikode": {
+    "bbox": {
+      "south": 10.8950558,
+      "north": 11.595055799999999,
+      "west": 75.42547160000001,
+      "east": 76.1254716
+    },
+    "center": {
+      "lon": 75.7754716,
+      "lat": 11.2450558
+    }
+  },
+  "Kerala|Malappuram": {
+    "bbox": {
+      "south": 11.0964078,
+      "north": 11.0263125,
+      "west": 76.0338675,
+      "east": 76.1033108
+    },
+    "center": {
+      "lon": 76.0807838,
+      "lat": 11.0428925
+    }
+  },
+  "Kerala|Palakkad": {
+    "bbox": {
+      "south": 10.4181928,
+      "north": 11.1181928,
+      "west": 76.3021319,
+      "east": 77.0021319
+    },
+    "center": {
+      "lon": 76.6521319,
+      "lat": 10.7681928
+    }
+  },
+  "Kerala|Pathanamthitta": {
+    "bbox": {
+      "south": 8.915533700000001,
+      "north": 9.6155337,
+      "west": 76.4371514,
+      "east": 77.1371514
+    },
+    "center": {
+      "lon": 76.7871514,
+      "lat": 9.2655337
+    }
+  },
+  "Kerala|Thiruvananthapuram": {
+    "bbox": {
+      "south": 8.1382267,
+      "north": 8.8382267,
+      "west": 76.59755100000001,
+      "east": 77.297551
+    },
+    "center": {
+      "lon": 76.947551,
+      "lat": 8.4882267
+    }
+  },
+  "Kerala|Thrissur": {
+    "bbox": {
+      "south": 10.1770099,
+      "north": 10.8770099,
+      "west": 75.864621,
+      "east": 76.56462099999999
+    },
+    "center": {
+      "lon": 76.214621,
+      "lat": 10.5270099
+    }
+  },
+  "Kerala|Wayanad": {
+    "bbox": {
+      "south": 11.9786826,
+      "north": 11.451361,
+      "west": 75.773149,
+      "east": 76.4435318
+    },
+    "center": {
+      "lon": 76.12711850740615,
+      "lat": 11.71512915
+    }
+  },
+  "Ladakh|Kargil": {
+    "bbox": {
+      "south": 34.2093048,
+      "north": 34.9093048,
+      "west": 75.7755767,
+      "east": 76.47557669999999
+    },
+    "center": {
+      "lon": 76.1255767,
+      "lat": 34.5593048
+    }
+  },
+  "Ladakh|Leh ladakh": {
+    "bbox": {
+      "south": 33.8142029,
+      "north": 34.5142029,
+      "west": 77.2348133,
+      "east": 77.93481329999999
+    },
+    "center": {
+      "lon": 77.5848133,
+      "lat": 34.1642029
+    }
+  },
+  "Madhya Pradesh|Agar malwa": {
+    "bbox": {
+      "south": 24.3291928,
+      "north": 23.5413004,
+      "west": 75.6867003,
+      "east": 76.4085341
+    },
+    "center": {
+      "lon": 76.14495952354727,
+      "lat": 23.935091999999997
+    }
+  },
+  "Madhya Pradesh|Alirajpur": {
+    "bbox": {
+      "south": 22.6460041,
+      "north": 21.9258779,
+      "west": 74.029382,
+      "east": 74.7476664
+    },
+    "center": {
+      "lon": 74.35456282607561,
+      "lat": 22.28595245
+    }
+  },
+  "Madhya Pradesh|Anuppur": {
+    "bbox": {
+      "south": 23.4250343,
+      "north": 22.6444865,
+      "west": 81.1241595,
+      "east": 82.1993882
+    },
+    "center": {
+      "lon": 81.75102551563023,
+      "lat": 23.0346179
+    }
+  },
+  "Madhya Pradesh|Ashoknagar": {
+    "bbox": {
+      "south": 25.007729,
+      "north": 24.2293927,
+      "west": 77.4717161,
+      "east": 78.2780049
+    },
+    "center": {
+      "lon": 77.87869828577024,
+      "lat": 24.618609499999998
+    }
+  },
+  "Madhya Pradesh|Balaghat": {
+    "bbox": {
+      "south": 21.616667,
+      "north": 22.316667000000002,
+      "west": 79.983333,
+      "east": 80.68333299999999
+    },
+    "center": {
+      "lon": 80.333333,
+      "lat": 21.966667
+    }
+  },
+  "Madhya Pradesh|Barwani": {
+    "bbox": {
+      "south": 22.1342986,
+      "north": 21.368528,
+      "west": 74.4316399,
+      "east": 75.6286467
+    },
+    "center": {
+      "lon": 74.89159566675349,
+      "lat": 21.751424800000002
+    }
+  },
+  "Madhya Pradesh|Betul": {
+    "bbox": {
+      "south": 22.4020896,
+      "north": 21.3574472,
+      "west": 76.9861583,
+      "east": 78.5492222
+    },
+    "center": {
+      "lon": 77.87536507259225,
+      "lat": 21.8797472
+    }
+  },
+  "Madhya Pradesh|Bhind": {
+    "bbox": {
+      "south": 26.15,
+      "north": 26.85,
+      "west": 78.4,
+      "east": 79.1
+    },
+    "center": {
+      "lon": 78.75,
+      "lat": 26.5
+    }
+  },
+  "Madhya Pradesh|Bhopal": {
+    "bbox": {
+      "south": 22.9084857,
+      "north": 23.608485700000003,
+      "west": 77.051989,
+      "east": 77.751989
+    },
+    "center": {
+      "lon": 77.401989,
+      "lat": 23.2584857
+    }
+  },
+  "Madhya Pradesh|Burhanpur": {
+    "bbox": {
+      "south": 20.9618839,
+      "north": 21.661883900000003,
+      "west": 75.8791992,
+      "east": 76.57919919999999
+    },
+    "center": {
+      "lon": 76.2291992,
+      "lat": 21.3118839
+    }
+  },
+  "Madhya Pradesh|Chhatarpur": {
+    "bbox": {
+      "south": 25.4240195,
+      "north": 24.096693,
+      "west": 78.9857612,
+      "east": 80.4316754
+    },
+    "center": {
+      "lon": 79.67817759088484,
+      "lat": 24.760608949999998
+    }
+  },
+  "Madhya Pradesh|Chhindwara": {
+    "bbox": {
+      "south": 22.8168766,
+      "north": 21.5975702,
+      "west": 78.2449589,
+      "east": 79.4065341
+    },
+    "center": {
+      "lon": 78.79883295930742,
+      "lat": 22.20718965
+    }
+  },
+  "Madhya Pradesh|Damoh": {
+    "bbox": {
+      "south": 24.4457832,
+      "north": 23.1504351,
+      "west": 79.0548543,
+      "east": 79.9556105
+    },
+    "center": {
+      "lon": 79.54193561694873,
+      "lat": 23.7981005
+    }
+  },
+  "Madhya Pradesh|Datia": {
+    "bbox": {
+      "south": 26.2908628,
+      "north": 25.052525,
+      "west": 78.2143766,
+      "east": 78.8948116
+    },
+    "center": {
+      "lon": 78.66449615888288,
+      "lat": 25.91829465
+    }
+  },
+  "Madhya Pradesh|Dewas": {
+    "bbox": {
+      "south": 22.613629999999997,
+      "north": 23.31363,
+      "west": 75.70486700000001,
+      "east": 76.404867
+    },
+    "center": {
+      "lon": 76.054867,
+      "lat": 22.96363
+    }
+  },
+  "Madhya Pradesh|Dhar": {
+    "bbox": {
+      "south": 22.15,
+      "north": 22.85,
+      "west": 74.9,
+      "east": 75.6
+    },
+    "center": {
+      "lon": 75.25,
+      "lat": 22.5
+    }
+  },
+  "Madhya Pradesh|Dindori": {
+    "bbox": {
+      "south": 23.3745386,
+      "north": 22.4397105,
+      "west": 80.4781431,
+      "east": 81.7414629
+    },
+    "center": {
+      "lon": 80.88469235570068,
+      "lat": 22.9070871
+    }
+  },
+  "Madhya Pradesh|Guna": {
+    "bbox": {
+      "south": 25.116094,
+      "north": 23.8842855,
+      "west": 76.7998778,
+      "east": 77.7357042
+    },
+    "center": {
+      "lon": 77.26009592641483,
+      "lat": 24.5001772
+    }
+  },
+  "Madhya Pradesh|Gwalior": {
+    "bbox": {
+      "south": 25.853724699999997,
+      "north": 26.5537247,
+      "west": 77.8073628,
+      "east": 78.5073628
+    },
+    "center": {
+      "lon": 78.1573628,
+      "lat": 26.2037247
+    }
+  },
+  "Madhya Pradesh|Harda": {
+    "bbox": {
+      "south": 22.5795251,
+      "north": 21.9060185,
+      "west": 76.7803649,
+      "east": 77.5100143
+    },
+    "center": {
+      "lon": 77.11791731666993,
+      "lat": 22.24279725
+    }
+  },
+  "Madhya Pradesh|Hoshangabad": {
+    "bbox": {
+      "south": 22.300314699999998,
+      "north": 23.0003147,
+      "west": 77.4009281,
+      "east": 78.10092809999999
+    },
+    "center": {
+      "lon": 77.7509281,
+      "lat": 22.6503147
+    }
+  },
+  "Madhya Pradesh|Indore": {
+    "bbox": {
+      "south": 22.3703616,
+      "north": 23.070361600000002,
+      "west": 75.5181996,
+      "east": 76.21819959999999
+    },
+    "center": {
+      "lon": 75.8681996,
+      "lat": 22.7203616
+    }
+  },
+  "Madhya Pradesh|Jabalpur": {
+    "bbox": {
+      "south": 23.2110608,
+      "north": 23.116068,
+      "west": 79.883083,
+      "east": 79.9762
+    },
+    "center": {
+      "lon": 79.9324505,
+      "lat": 23.1701522
+    }
+  },
+  "Madhya Pradesh|Jhabua": {
+    "bbox": {
+      "south": 22.5250396,
+      "north": 23.225039600000002,
+      "west": 74.3628601,
+      "east": 75.0628601
+    },
+    "center": {
+      "lon": 74.7128601,
+      "lat": 22.8750396
+    }
+  },
+  "Madhya Pradesh|Katni": {
+    "bbox": {
+      "south": 23.4839621,
+      "north": 24.183962100000002,
+      "west": 80.042456,
+      "east": 80.74245599999999
+    },
+    "center": {
+      "lon": 80.392456,
+      "lat": 23.8339621
+    }
+  },
+  "Madhya Pradesh|Khandwa": {
+    "bbox": {
+      "south": 21.4703752,
+      "north": 22.170375200000002,
+      "west": 76.00554240000001,
+      "east": 76.7055424
+    },
+    "center": {
+      "lon": 76.3555424,
+      "lat": 21.8203752
+    }
+  },
+  "Madhya Pradesh|Khargone": {
+    "bbox": {
+      "south": 22.5400225,
+      "north": 21.3687716,
+      "west": 75.2073766,
+      "east": 76.2348453
+    },
+    "center": {
+      "lon": 75.75212476982438,
+      "lat": 21.9544729
+    }
+  },
+  "Madhya Pradesh|Mandla": {
+    "bbox": {
+      "south": 23.1723535,
+      "north": 22.2021576,
+      "west": 79.9513531,
+      "east": 81.1974876
+    },
+    "center": {
+      "lon": 80.58163411525186,
+      "lat": 22.687107400000002
+    }
+  },
+  "Madhya Pradesh|Mandsaur": {
+    "bbox": {
+      "south": 23.718289799999997,
+      "north": 24.4182898,
+      "west": 74.72423880000001,
+      "east": 75.4242388
+    },
+    "center": {
+      "lon": 75.0742388,
+      "lat": 24.0682898
+    }
+  },
+  "Madhya Pradesh|Morena": {
+    "bbox": {
+      "south": 26.140991399999997,
+      "north": 26.8409914,
+      "west": 77.63136560000001,
+      "east": 78.3313656
+    },
+    "center": {
+      "lon": 77.9813656,
+      "lat": 26.4909914
+    }
+  },
+  "Madhya Pradesh|Narsinghpur": {
+    "bbox": {
+      "south": 23.2535689,
+      "north": 22.6153319,
+      "west": 78.4431576,
+      "east": 79.6431747
+    },
+    "center": {
+      "lon": 79.08678489806229,
+      "lat": 22.93455595
+    }
+  },
+  "Madhya Pradesh|Neemuch": {
+    "bbox": {
+      "south": 24.115002299999997,
+      "north": 24.8150023,
+      "west": 74.5189508,
+      "east": 75.21895079999999
+    },
+    "center": {
+      "lon": 74.8689508,
+      "lat": 24.4650023
+    }
+  },
+  "Madhya Pradesh|Niwari": {
+    "bbox": {
+      "south": 25.5570578,
+      "north": 25.0676478,
+      "west": 78.4351516,
+      "east": 78.9891243
+    },
+    "center": {
+      "lon": 78.66756404982684,
+      "lat": 25.3123152
+    }
+  },
+  "Madhya Pradesh|Panna": {
+    "bbox": {
+      "south": 25.1263218,
+      "north": 23.8212034,
+      "west": 79.7347124,
+      "east": 80.6786606
+    },
+    "center": {
+      "lon": 80.14627227486437,
+      "lat": 24.44989305
+    }
+  },
+  "Madhya Pradesh|Raisen": {
+    "bbox": {
+      "south": 23.7455133,
+      "north": 22.7896835,
+      "west": 77.3388974,
+      "east": 78.8167299
+    },
+    "center": {
+      "lon": 78.17271344991482,
+      "lat": 23.2675909
+    }
+  },
+  "Madhya Pradesh|Rajgarh": {
+    "bbox": {
+      "south": 24.2865142,
+      "north": 23.4569255,
+      "west": 76.1894736,
+      "east": 77.226393
+    },
+    "center": {
+      "lon": 76.77447033719486,
+      "lat": 23.87167065
+    }
+  },
+  "Madhya Pradesh|Ratlam": {
+    "bbox": {
+      "south": 22.9811044,
+      "north": 23.681104400000002,
+      "west": 74.6860846,
+      "east": 75.38608459999999
+    },
+    "center": {
+      "lon": 75.0360846,
+      "lat": 23.3311044
+    }
+  },
+  "Madhya Pradesh|Rewa": {
+    "bbox": {
+      "south": 24.1859,
+      "north": 24.885900000000003,
+      "west": 80.94340000000001,
+      "east": 81.6434
+    },
+    "center": {
+      "lon": 81.2934,
+      "lat": 24.5359
+    }
+  },
+  "Madhya Pradesh|Sagar": {
+    "bbox": {
+      "south": 23.491779299999997,
+      "north": 24.1917793,
+      "west": 78.3966817,
+      "east": 79.09668169999999
+    },
+    "center": {
+      "lon": 78.7466817,
+      "lat": 23.8417793
+    }
+  },
+  "Madhya Pradesh|Satna": {
+    "bbox": {
+      "south": 25.1879389,
+      "north": 24.2029864,
+      "west": 80.0998675,
+      "east": 81.1831419
+    },
+    "center": {
+      "lon": 80.77703482475752,
+      "lat": 24.6954445
+    }
+  },
+  "Madhya Pradesh|Sehore": {
+    "bbox": {
+      "south": 23.6745473,
+      "north": 22.5554231,
+      "west": 76.4302038,
+      "east": 78.0347113
+    },
+    "center": {
+      "lon": 77.06653558236647,
+      "lat": 23.115004149999997
+    }
+  },
+  "Madhya Pradesh|Seoni": {
+    "bbox": {
+      "south": 22.9555521,
+      "north": 21.5942719,
+      "west": 79.194898,
+      "east": 80.289425
+    },
+    "center": {
+      "lon": 79.72025222428486,
+      "lat": 22.2748109
+    }
+  },
+  "Madhya Pradesh|Shahdol": {
+    "bbox": {
+      "south": 24.2820793,
+      "north": 23.0243833,
+      "west": 80.9986687,
+      "east": 81.9847975
+    },
+    "center": {
+      "lon": 81.364771,
+      "lat": 23.3002343
+    }
+  },
+  "Madhya Pradesh|Shajapur": {
+    "bbox": {
+      "south": 23.726587,
+      "north": 23.1076508,
+      "west": 76.1205879,
+      "east": 77.0497352
+    },
+    "center": {
+      "lon": 76.60747942907905,
+      "lat": 23.41710015
+    }
+  },
+  "Madhya Pradesh|Sheopur": {
+    "bbox": {
+      "south": 26.2178636,
+      "north": 25.2821217,
+      "west": 76.4719918,
+      "east": 77.6698081
+    },
+    "center": {
+      "lon": 76.9212944875333,
+      "lat": 25.74992665
+    }
+  },
+  "Madhya Pradesh|Shivpuri": {
+    "bbox": {
+      "south": 25.0735256,
+      "north": 25.773525600000003,
+      "west": 77.3051422,
+      "east": 78.0051422
+    },
+    "center": {
+      "lon": 77.6551422,
+      "lat": 25.4235256
+    }
+  },
+  "Madhya Pradesh|Sidhi": {
+    "bbox": {
+      "south": 23.9,
+      "north": 24.6,
+      "west": 81.65,
+      "east": 82.35
+    },
+    "center": {
+      "lon": 82,
+      "lat": 24.25
+    }
+  },
+  "Madhya Pradesh|Singrauli": {
+    "bbox": {
+      "south": 23.847443199999997,
+      "north": 24.5474432,
+      "west": 82.3161453,
+      "east": 83.01614529999999
+    },
+    "center": {
+      "lon": 82.6661453,
+      "lat": 24.1974432
+    }
+  },
+  "Madhya Pradesh|Tikamgarh": {
+    "bbox": {
+      "south": 25.2740499,
+      "north": 24.4366219,
+      "west": 78.6313697,
+      "east": 79.3463539
+    },
+    "center": {
+      "lon": 79.04725459918899,
+      "lat": 24.85521045
+    }
+  },
+  "Madhya Pradesh|Ujjain": {
+    "bbox": {
+      "south": 22.8385131,
+      "north": 23.538513100000003,
+      "west": 75.4216562,
+      "east": 76.12165619999999
+    },
+    "center": {
+      "lon": 75.7716562,
+      "lat": 23.1885131
+    }
+  },
+  "Madhya Pradesh|Umaria": {
+    "bbox": {
+      "south": 24.0916561,
+      "north": 23.1944683,
+      "west": 80.5283787,
+      "east": 81.3530583
+    },
+    "center": {
+      "lon": 80.94190777719564,
+      "lat": 23.64318365
+    }
+  },
+  "Madhya Pradesh|Vidisha": {
+    "bbox": {
+      "south": 23.1708128,
+      "north": 23.870812800000003,
+      "west": 77.4563184,
+      "east": 78.15631839999999
+    },
+    "center": {
+      "lon": 77.8063184,
+      "lat": 23.5208128
+    }
+  },
+  "Maharashtra|Ahilyanagar": {
+    "bbox": {
+      "south": 18.742952,
+      "north": 19.442952000000002,
+      "west": 74.3993451,
+      "east": 75.0993451
+    },
+    "center": {
+      "lon": 74.7493451,
+      "lat": 19.092952
+    }
+  },
+  "Maharashtra|Akola": {
+    "bbox": {
+      "south": 21.2479898,
+      "north": 20.2753615,
+      "west": 76.6914676,
+      "east": 77.6199531
+    },
+    "center": {
+      "lon": 77.1921156663574,
+      "lat": 20.76181225
+    }
+  },
+  "Maharashtra|Amravati": {
+    "bbox": {
+      "south": 20.5816219,
+      "north": 21.2816219,
+      "west": 77.40884550000001,
+      "east": 78.1088455
+    },
+    "center": {
+      "lon": 77.7588455,
+      "lat": 20.9316219
+    }
+  },
+  "Maharashtra|Beed": {
+    "bbox": {
+      "south": 19.4419085,
+      "north": 18.5417505,
+      "west": 74.8080647,
+      "east": 76.7339444
+    },
+    "center": {
+      "lon": 75.90978399809711,
+      "lat": 18.9918442
+    }
+  },
+  "Maharashtra|Bhandara": {
+    "bbox": {
+      "south": 21.6038929,
+      "north": 20.6414893,
+      "west": 79.44753,
+      "east": 80.1022398
+    },
+    "center": {
+      "lon": 79.79450898891825,
+      "lat": 21.1225869
+    }
+  },
+  "Maharashtra|Buldhana": {
+    "bbox": {
+      "south": 21.2885874,
+      "north": 19.8376371,
+      "west": 75.9231902,
+      "east": 76.826266
+    },
+    "center": {
+      "lon": 76.40869861474177,
+      "lat": 20.562845000000003
+    }
+  },
+  "Maharashtra|Chandrapur": {
+    "bbox": {
+      "south": 20.7342867,
+      "north": 19.4611101,
+      "west": 78.7994331,
+      "east": 79.99197
+    },
+    "center": {
+      "lon": 79.50454752230621,
+      "lat": 20.0967555
+    }
+  },
+  "Maharashtra|Chhatrapati Sambhajinagar": {
+    "bbox": {
+      "south": 20.0359751,
+      "north": 19.6617016,
+      "west": 75.1648025,
+      "east": 75.6806624
+    },
+    "center": {
+      "lon": 75.43652281053261,
+      "lat": 19.8498733
+    }
+  },
+  "Maharashtra|Dharashiv": {
+    "bbox": {
+      "south": 18.6982449,
+      "north": 17.6415864,
+      "west": 75.2854053,
+      "east": 76.7907938
+    },
+    "center": {
+      "lon": 76.11796321159572,
+      "lat": 18.16984395
+    }
+  },
+  "Maharashtra|Dhule": {
+    "bbox": {
+      "south": 21.634455,
+      "north": 20.6273622,
+      "west": 73.8507414,
+      "east": 75.2065577
+    },
+    "center": {
+      "lon": 74.49006143365727,
+      "lat": 21.1305215
+    }
+  },
+  "Maharashtra|Gadchiroli": {
+    "bbox": {
+      "south": 20.8341667,
+      "north": 18.6842225,
+      "west": 79.7394512,
+      "east": 80.8977842
+    },
+    "center": {
+      "lon": 80.16228072580182,
+      "lat": 19.759070350000002
+    }
+  },
+  "Maharashtra|Gondia": {
+    "bbox": {
+      "south": 21.4733572,
+      "north": 21.4418121,
+      "west": 80.1819401,
+      "east": 80.2279866
+    },
+    "center": {
+      "lon": 80.1962729,
+      "lat": 21.455228
+    }
+  },
+  "Maharashtra|Hingoli": {
+    "bbox": {
+      "south": 20.0178511,
+      "north": 19.0672286,
+      "west": 76.5118897,
+      "east": 77.4893188
+    },
+    "center": {
+      "lon": 77.17394323993398,
+      "lat": 19.54311635
+    }
+  },
+  "Maharashtra|Jalgaon": {
+    "bbox": {
+      "south": 20.6600695,
+      "north": 21.3600695,
+      "west": 75.21960030000001,
+      "east": 75.9196003
+    },
+    "center": {
+      "lon": 75.5696003,
+      "lat": 21.0100695
+    }
+  },
+  "Maharashtra|Jalna": {
+    "bbox": {
+      "south": 20.5609715,
+      "north": 19.2767239,
+      "west": 75.5853795,
+      "east": 76.5346134
+    },
+    "center": {
+      "lon": 75.87085986165867,
+      "lat": 19.918832950000002
+    }
+  },
+  "Maharashtra|Kolhapur": {
+    "bbox": {
+      "south": 16.3528412,
+      "north": 17.052841200000003,
+      "west": 73.89053290000001,
+      "east": 74.5905329
+    },
+    "center": {
+      "lon": 74.2405329,
+      "lat": 16.7028412
+    }
+  },
+  "Maharashtra|Latur": {
+    "bbox": {
+      "south": 18.8388846,
+      "north": 17.8708918,
+      "west": 76.2024244,
+      "east": 77.2952771
+    },
+    "center": {
+      "lon": 76.75489974062862,
+      "lat": 18.355334749999997
+    }
+  },
+  "Maharashtra|Mumbai suburban": {
+    "bbox": {
+      "south": 19.2694771,
+      "north": 18.8939566,
+      "west": 72.776333,
+      "east": 72.9817485
+    },
+    "center": {
+      "lon": 72.8692035,
+      "lat": 19.054999
+    }
+  },
+  "Maharashtra|Nagpur": {
+    "bbox": {
+      "south": 21.2310022,
+      "north": 21.0529736,
+      "west": 78.9952182,
+      "east": 79.1788461
+    },
+    "center": {
+      "lon": 79.0820556,
+      "lat": 21.1498134
+    }
+  },
+  "Maharashtra|Nanded": {
+    "bbox": {
+      "south": 19.9250349,
+      "north": 18.2628438,
+      "west": 76.9307756,
+      "east": 78.3652486
+    },
+    "center": {
+      "lon": 77.48319215130235,
+      "lat": 19.09400875
+    }
+  },
+  "Maharashtra|Nandurbar": {
+    "bbox": {
+      "south": 22.0302694,
+      "north": 20.998156,
+      "west": 73.5768985,
+      "east": 74.7720587
+    },
+    "center": {
+      "lon": 74.54055132515717,
+      "lat": 21.51416215
+    }
+  },
+  "Maharashtra|Nashik": {
+    "bbox": {
+      "south": 19.661247499999998,
+      "north": 20.3612475,
+      "west": 73.4402364,
+      "east": 74.14023639999999
+    },
+    "center": {
+      "lon": 73.7902364,
+      "lat": 20.0112475
+    }
+  },
+  "Maharashtra|Palghar": {
+    "bbox": {
+      "south": 20.2279324,
+      "north": 19.286998,
+      "west": 72.6526112,
+      "east": 73.5045111
+    },
+    "center": {
+      "lon": 73.09311986183509,
+      "lat": 19.757249
+    }
+  },
+  "Maharashtra|Parbhani": {
+    "bbox": {
+      "south": 19.8305825,
+      "north": 18.7504244,
+      "west": 76.2071657,
+      "east": 77.11941
+    },
+    "center": {
+      "lon": 76.60264434278307,
+      "lat": 19.29019805
+    }
+  },
+  "Maharashtra|Pune": {
+    "bbox": {
+      "south": 18.6208699,
+      "north": 18.429497,
+      "west": 73.7498473,
+      "east": 74.020214
+    },
+    "center": {
+      "lon": 73.8545071,
+      "lat": 18.5213738
+    }
+  },
+  "Maharashtra|Raigad": {
+    "bbox": {
+      "south": 19.1348985,
+      "north": 17.8507213,
+      "west": 72.8117287,
+      "east": 73.6665058
+    },
+    "center": {
+      "lon": 73.13807095426539,
+      "lat": 18.4928092
+    }
+  },
+  "Maharashtra|Ratnagiri": {
+    "bbox": {
+      "south": 18.071509,
+      "north": 16.493991,
+      "west": 73.0284673,
+      "east": 73.8638637
+    },
+    "center": {
+      "lon": 73.4569787039826,
+      "lat": 17.282607900000002
+    }
+  },
+  "Maharashtra|Sangli": {
+    "bbox": {
+      "south": 16.5002534,
+      "north": 17.2002534,
+      "west": 74.2448885,
+      "east": 74.94488849999999
+    },
+    "center": {
+      "lon": 74.5948885,
+      "lat": 16.8502534
+    }
+  },
+  "Maharashtra|Satara": {
+    "bbox": {
+      "south": 17.338320999999997,
+      "north": 18.038321,
+      "west": 73.65417260000001,
+      "east": 74.3541726
+    },
+    "center": {
+      "lon": 74.0041726,
+      "lat": 17.688321
+    }
+  },
+  "Maharashtra|Sindhudurg": {
+    "bbox": {
+      "south": 16.6649319,
+      "north": 15.6063596,
+      "west": 73.3111614,
+      "east": 74.2087166
+    },
+    "center": {
+      "lon": 73.65220860183584,
+      "lat": 16.135719299999998
+    }
+  },
+  "Maharashtra|Solapur": {
+    "bbox": {
+      "south": 17.3199734,
+      "north": 18.0199734,
+      "west": 75.5508118,
+      "east": 76.2508118
+    },
+    "center": {
+      "lon": 75.9008118,
+      "lat": 17.6699734
+    }
+  },
+  "Maharashtra|Thane": {
+    "bbox": {
+      "south": 19.3001875,
+      "north": 19.1316484,
+      "west": 72.9103803,
+      "east": 73.0770635
+    },
+    "center": {
+      "lon": 72.9701779,
+      "lat": 19.1943294
+    }
+  },
+  "Maharashtra|Wardha": {
+    "bbox": {
+      "south": 21.358775,
+      "north": 20.2935361,
+      "west": 78.052454,
+      "east": 79.2220044
+    },
+    "center": {
+      "lon": 78.61314549522919,
+      "lat": 20.82562315
+    }
+  },
+  "Maharashtra|Washim": {
+    "bbox": {
+      "south": 20.7576589,
+      "north": 19.8470931,
+      "west": 76.6057348,
+      "east": 77.6896016
+    },
+    "center": {
+      "lon": 77.23696550258964,
+      "lat": 20.287417750000003
+    }
+  },
+  "Maharashtra|Yavatmal": {
+    "bbox": {
+      "south": 19.65,
+      "north": 20.35,
+      "west": 77.65,
+      "east": 78.35
+    },
+    "center": {
+      "lon": 78,
+      "lat": 20
+    }
+  },
+  "Manipur|Bishnupur": {
+    "bbox": {
+      "south": 24.7401665,
+      "north": 24.312607,
+      "west": 93.7136844,
+      "east": 93.8875535
+    },
+    "center": {
+      "lon": 93.80041622027564,
+      "lat": 24.52639265
+    }
+  },
+  "Manipur|Chandel": {
+    "bbox": {
+      "south": 24.5066748,
+      "north": 23.8336205,
+      "west": 93.7392461,
+      "east": 94.255378
+    },
+    "center": {
+      "lon": 94.00596727469227,
+      "lat": 24.1700959
+    }
+  },
+  "Manipur|Churachandpur": {
+    "bbox": {
+      "south": 24.6726232,
+      "north": 23.94627,
+      "west": 93.3484483,
+      "east": 93.8808024
+    },
+    "center": {
+      "lon": 93.6750220315833,
+      "lat": 24.3095833
+    }
+  },
+  "Manipur|Imphal east": {
+    "bbox": {
+      "south": 25.0139266,
+      "north": 24.6515125,
+      "west": 93.8954151,
+      "east": 94.1364705
+    },
+    "center": {
+      "lon": 94.01668635567114,
+      "lat": 24.8328129
+    }
+  },
+  "Manipur|Imphal west": {
+    "bbox": {
+      "south": 24.4491162,
+      "north": 25.1491162,
+      "west": 93.58644190000001,
+      "east": 94.2864419
+    },
+    "center": {
+      "lon": 93.9364419,
+      "lat": 24.7991162
+    }
+  },
+  "Manipur|Senapati": {
+    "bbox": {
+      "south": 24.983333,
+      "north": 25.683333,
+      "west": 93.81666700000001,
+      "east": 94.516667
+    },
+    "center": {
+      "lon": 94.166667,
+      "lat": 25.333333
+    }
+  },
+  "Manipur|Tamenglong": {
+    "bbox": {
+      "south": 25.3051956,
+      "north": 24.6670059,
+      "west": 93.1572621,
+      "east": 93.60461
+    },
+    "center": {
+      "lon": 93.34043175816123,
+      "lat": 24.986204
+    }
+  },
+  "Manipur|Thoubal": {
+    "bbox": {
+      "south": 24.7289799,
+      "north": 24.5201069,
+      "west": 93.8885808,
+      "east": 94.1402148
+    },
+    "center": {
+      "lon": 94.00835224071031,
+      "lat": 24.62525025
+    }
+  },
+  "Manipur|Ukhrul": {
+    "bbox": {
+      "south": 25.6921015,
+      "north": 24.9300697,
+      "west": 94.1164291,
+      "east": 94.740684
+    },
+    "center": {
+      "lon": 94.47537752375742,
+      "lat": 25.311073800000003
+    }
+  },
+  "Meghalaya|East garo hills": {
+    "bbox": {
+      "south": 25.15,
+      "north": 25.85,
+      "west": 90.15,
+      "east": 90.85
+    },
+    "center": {
+      "lon": 90.5,
+      "lat": 25.5
+    }
+  },
+  "Meghalaya|East jaintia hills": {
+    "bbox": {
+      "south": 25.4725199,
+      "north": 25.0306475,
+      "west": 92.1717739,
+      "east": 92.8027367
+    },
+    "center": {
+      "lon": 92.48405006942016,
+      "lat": 25.25157605
+    }
+  },
+  "Meghalaya|East khasi hills": {
+    "bbox": {
+      "south": 25.15,
+      "north": 25.85,
+      "west": 91.15,
+      "east": 91.85
+    },
+    "center": {
+      "lon": 91.5,
+      "lat": 25.5
+    }
+  },
+  "Meghalaya|North garo hills": {
+    "bbox": {
+      "south": 26.0090952,
+      "north": 25.7121516,
+      "west": 90.3401436,
+      "east": 91.0277752
+    },
+    "center": {
+      "lon": 90.70177048839348,
+      "lat": 25.8619841
+    }
+  },
+  "Meghalaya|Ri bhoi": {
+    "bbox": {
+      "south": 26.1181651,
+      "north": 25.6341674,
+      "west": 91.34227,
+      "east": 92.2796237
+    },
+    "center": {
+      "lon": 91.85675741641606,
+      "lat": 25.87640255
+    }
+  },
+  "Meghalaya|South garo hills": {
+    "bbox": {
+      "south": 25.5540132,
+      "north": 25.1446386,
+      "west": 90.2269363,
+      "east": 90.9689584
+    },
+    "center": {
+      "lon": 90.56577725964563,
+      "lat": 25.347969
+    }
+  },
+  "Meghalaya|South west garo hills": {
+    "bbox": {
+      "south": 25.6070302,
+      "north": 25.2854994,
+      "west": 89.814444,
+      "east": 90.1700319
+    },
+    "center": {
+      "lon": 89.99696550020556,
+      "lat": 25.44463095
+    }
+  },
+  "Meghalaya|South west khasi hills": {
+    "bbox": {
+      "south": 25.4932044,
+      "north": 25.1681449,
+      "west": 90.8400611,
+      "east": 91.57907
+    },
+    "center": {
+      "lon": 91.32173879770662,
+      "lat": 25.330722100000003
+    }
+  },
+  "Meghalaya|West garo hills": {
+    "bbox": {
+      "south": 26.0117246,
+      "north": 25.2005988,
+      "west": 89.8927116,
+      "east": 90.4349041
+    },
+    "center": {
+      "lon": 90.21139055037469,
+      "lat": 25.606314249999997
+    }
+  },
+  "Meghalaya|West jaintia hills": {
+    "bbox": {
+      "south": 25.7547347,
+      "north": 25.1304437,
+      "west": 91.9836344,
+      "east": 92.6612528
+    },
+    "center": {
+      "lon": 92.29882747091773,
+      "lat": 25.4425965
+    }
+  },
+  "Meghalaya|West khasi hills": {
+    "bbox": {
+      "south": 25.15,
+      "north": 25.85,
+      "west": 91.15,
+      "east": 91.85
+    },
+    "center": {
+      "lon": 91.5,
+      "lat": 25.5
+    }
+  },
+  "Mizoram|Aizawl": {
+    "bbox": {
+      "south": 23.3777631,
+      "north": 24.077763100000002,
+      "west": 92.36799470000001,
+      "east": 93.0679947
+    },
+    "center": {
+      "lon": 92.7179947,
+      "lat": 23.7277631
+    }
+  },
+  "Mizoram|Champhai": {
+    "bbox": {
+      "south": 24.0851397,
+      "north": 23.0034305,
+      "west": 93.0104939,
+      "east": 93.4373696
+    },
+    "center": {
+      "lon": 93.34795058148227,
+      "lat": 23.54437435
+    }
+  },
+  "Mizoram|Hnahthial": {
+    "bbox": {
+      "south": 23.1928287,
+      "north": 22.7404461,
+      "west": 92.8525828,
+      "east": 93.1650146
+    },
+    "center": {
+      "lon": 93.01026448504744,
+      "lat": 22.9663656
+    }
+  },
+  "Mizoram|Khawzawl": {
+    "bbox": {
+      "south": 23.7712068,
+      "north": 23.2049447,
+      "west": 93.0047393,
+      "east": 93.2804918
+    },
+    "center": {
+      "lon": 93.14029427419158,
+      "lat": 23.4877894
+    }
+  },
+  "Mizoram|Kolasib": {
+    "bbox": {
+      "south": 24.5231304,
+      "north": 23.8580922,
+      "west": 92.5277352,
+      "east": 92.9004335
+    },
+    "center": {
+      "lon": 92.71365945236167,
+      "lat": 24.1905469
+    }
+  },
+  "Mizoram|Lawngtlai": {
+    "bbox": {
+      "south": 22.8080309,
+      "north": 21.9746709,
+      "west": 92.5051363,
+      "east": 93.1408882
+    },
+    "center": {
+      "lon": 92.73971892338996,
+      "lat": 22.3913377
+    }
+  },
+  "Mizoram|Lunglei": {
+    "bbox": {
+      "south": 23.4064682,
+      "north": 22.4974118,
+      "west": 92.3464383,
+      "east": 92.949735
+    },
+    "center": {
+      "lon": 92.63388271315205,
+      "lat": 22.95199715
+    }
+  },
+  "Mizoram|Mamit": {
+    "bbox": {
+      "south": 24.2548467,
+      "north": 23.2583924,
+      "west": 92.2602224,
+      "east": 92.6748704
+    },
+    "center": {
+      "lon": 92.45153737096814,
+      "lat": 23.7564387
+    }
+  },
+  "Mizoram|Saiha": {
+    "bbox": {
+      "south": 22.6337627,
+      "north": 21.9400528,
+      "west": 92.8203839,
+      "east": 93.2022786
+    },
+    "center": {
+      "lon": 93.01336001484833,
+      "lat": 22.287672399999998
+    }
+  },
+  "Mizoram|Saitual": {
+    "bbox": {
+      "south": 24.1159112,
+      "north": 23.5078415,
+      "west": 92.8668139,
+      "east": 93.1895153
+    },
+    "center": {
+      "lon": 92.97279748183348,
+      "lat": 23.81285685
+    }
+  },
+  "Mizoram|Serchhip": {
+    "bbox": {
+      "south": 23.5998968,
+      "north": 23.1718662,
+      "west": 92.6827508,
+      "east": 93.0893419
+    },
+    "center": {
+      "lon": 92.930598908176,
+      "lat": 23.385892300000002
+    }
+  },
+  "Nagaland|Chumoukedima": {
+    "bbox": {
+      "south": 25.9736516,
+      "north": 25.6436375,
+      "west": 93.5407412,
+      "east": 94.0060361
+    },
+    "center": {
+      "lon": 93.71486698561793,
+      "lat": 25.808680950000003
+    }
+  },
+  "Nagaland|Dimapur": {
+    "bbox": {
+      "south": 25.561743999999997,
+      "north": 26.261744,
+      "west": 93.37170300000001,
+      "east": 94.071703
+    },
+    "center": {
+      "lon": 93.721703,
+      "lat": 25.911744
+    }
+  },
+  "Nagaland|Kiphire": {
+    "bbox": {
+      "south": 26.0393651,
+      "north": 25.585054,
+      "west": 94.5696853,
+      "east": 95.0498049
+    },
+    "center": {
+      "lon": 94.84740359547345,
+      "lat": 25.811708799999998
+    }
+  },
+  "Nagaland|Kohima": {
+    "bbox": {
+      "south": 25.3118755,
+      "north": 26.011875500000002,
+      "west": 93.7519156,
+      "east": 94.45191559999999
+    },
+    "center": {
+      "lon": 94.1019156,
+      "lat": 25.6618755
+    }
+  },
+  "Nagaland|Longleng": {
+    "bbox": {
+      "south": 26.7965699,
+      "north": 26.3712819,
+      "west": 94.6699827,
+      "east": 94.9158668
+    },
+    "center": {
+      "lon": 94.80454811417482,
+      "lat": 26.58393145
+    }
+  },
+  "Nagaland|Mokokchung": {
+    "bbox": {
+      "south": 26.7654615,
+      "north": 26.1937955,
+      "west": 94.2895603,
+      "east": 94.757638
+    },
+    "center": {
+      "lon": 94.51052754768273,
+      "lat": 26.4795861
+    }
+  },
+  "Nagaland|Mon": {
+    "bbox": {
+      "south": 27.035801,
+      "north": 26.2886825,
+      "west": 94.7796964,
+      "east": 95.2423775
+    },
+    "center": {
+      "lon": 95,
+      "lat": 26.666667
+    }
+  },
+  "Nagaland|Noklak": {
+    "bbox": {
+      "south": 26.346114,
+      "north": 25.8776817,
+      "west": 94.8735952,
+      "east": 95.1857753
+    },
+    "center": {
+      "lon": 95.01240412840745,
+      "lat": 26.11239465
+    }
+  },
+  "Nagaland|Nuiland": {
+    "bbox": {
+      "south": 27.035801,
+      "north": 25.1986992,
+      "west": 93.3267005,
+      "east": 95.2423775
+    },
+    "center": {
+      "lon": 94.5884911,
+      "lat": 26.1630556
+    }
+  },
+  "Nagaland|Peren": {
+    "bbox": {
+      "south": 25.7017403,
+      "north": 25.1986992,
+      "west": 93.3267005,
+      "east": 93.9404497
+    },
+    "center": {
+      "lon": 93.60011541022698,
+      "lat": 25.450230599999998
+    }
+  },
+  "Nagaland|Phek": {
+    "bbox": {
+      "south": 25.8474831,
+      "north": 25.4554447,
+      "west": 94.1859626,
+      "east": 94.8989001
+    },
+    "center": {
+      "lon": 94.38097877104043,
+      "lat": 25.6514473
+    }
+  },
+  "Nagaland|Shamator": {
+    "bbox": {
+      "south": 26.1995361,
+      "north": 25.9806153,
+      "west": 94.7984933,
+      "east": 94.9338912
+    },
+    "center": {
+      "lon": 94.8745224,
+      "lat": 26.0714153
+    }
+  },
+  "Nagaland|Tseminyu": {
+    "bbox": {
+      "south": 25.9919953,
+      "north": 25.8605992,
+      "west": 94.0765071,
+      "east": 94.2976713
+    },
+    "center": {
+      "lon": 94.20880156803302,
+      "lat": 25.9266027
+    }
+  },
+  "Nagaland|Tuensang": {
+    "bbox": {
+      "south": 26.4576837,
+      "north": 26.0108665,
+      "west": 94.5586717,
+      "east": 94.9422168
+    },
+    "center": {
+      "lon": 94.74155301538642,
+      "lat": 26.23421065
+    }
+  },
+  "Nagaland|Wokha": {
+    "bbox": {
+      "south": 26.5614443,
+      "north": 25.9215754,
+      "west": 93.9529753,
+      "east": 94.3881142
+    },
+    "center": {
+      "lon": 94.19211530177269,
+      "lat": 26.24225095
+    }
+  },
+  "Nagaland|Zunheboto": {
+    "bbox": {
+      "south": 26.2926081,
+      "north": 25.7322176,
+      "west": 94.2105531,
+      "east": 94.7144544
+    },
+    "center": {
+      "lon": 94.51237194730331,
+      "lat": 26.01238025
+    }
+  },
+  "Odisha|Anugul": {
+    "bbox": {
+      "south": 20.9481341,
+      "north": 20.7305088,
+      "west": 85.0184726,
+      "east": 85.1832246
+    },
+    "center": {
+      "lon": 85.08040066385269,
+      "lat": 20.8411255
+    }
+  },
+  "Odisha|Balangir": {
+    "bbox": {
+      "south": 20.4002257,
+      "north": 21.100225700000003,
+      "west": 82.8999464,
+      "east": 83.5999464
+    },
+    "center": {
+      "lon": 83.2499464,
+      "lat": 20.7502257
+    }
+  },
+  "Odisha|Baleshwar": {
+    "bbox": {
+      "south": 21.9799379,
+      "north": 21.0596318,
+      "west": 86.351316,
+      "east": 87.4861351
+    },
+    "center": {
+      "lon": 86.87906376156391,
+      "lat": 21.51979155
+    }
+  },
+  "Odisha|Bargarh": {
+    "bbox": {
+      "south": 21.7428384,
+      "north": 20.7229629,
+      "west": 82.6364297,
+      "east": 83.9102267
+    },
+    "center": {
+      "lon": 83.5652737033866,
+      "lat": 21.2319922
+    }
+  },
+  "Odisha|Bhadrak": {
+    "bbox": {
+      "south": 21.2376325,
+      "north": 20.7330574,
+      "west": 86.2722015,
+      "east": 86.9737793
+    },
+    "center": {
+      "lon": 86.59342264863574,
+      "lat": 20.9854052
+    }
+  },
+  "Odisha|Boudh": {
+    "bbox": {
+      "south": 20.8967619,
+      "north": 20.3840152,
+      "west": 83.5690713,
+      "east": 84.7919869
+    },
+    "center": {
+      "lon": 83.99697042585481,
+      "lat": 20.6407463
+    }
+  },
+  "Odisha|Cuttack": {
+    "bbox": {
+      "south": 20.118599999999997,
+      "north": 20.8186,
+      "west": 85.5292,
+      "east": 86.22919999999999
+    },
+    "center": {
+      "lon": 85.8792,
+      "lat": 20.4686
+    }
+  },
+  "Odisha|Deogarh": {
+    "bbox": {
+      "south": 21.1870786,
+      "north": 21.887078600000002,
+      "west": 84.3801184,
+      "east": 85.08011839999999
+    },
+    "center": {
+      "lon": 84.7301184,
+      "lat": 21.5370786
+    }
+  },
+  "Odisha|Dhenkanal": {
+    "bbox": {
+      "south": 20.4,
+      "north": 21.1,
+      "west": 85.15,
+      "east": 85.85
+    },
+    "center": {
+      "lon": 85.5,
+      "lat": 20.75
+    }
+  },
+  "Odisha|Gajapati": {
+    "bbox": {
+      "south": 19.6366056,
+      "north": 18.7568016,
+      "west": 83.794719,
+      "east": 84.4400167
+    },
+    "center": {
+      "lon": 84.19306336169709,
+      "lat": 19.1966026
+    }
+  },
+  "Odisha|Ganjam": {
+    "bbox": {
+      "south": 19.15,
+      "north": 19.85,
+      "west": 84.15,
+      "east": 84.85
+    },
+    "center": {
+      "lon": 84.5,
+      "lat": 19.5
+    }
+  },
+  "Odisha|Jagatsinghapur": {
+    "bbox": {
+      "south": 20.4016742,
+      "north": 19.9585052,
+      "west": 86.0114049,
+      "east": 86.7184041
+    },
+    "center": {
+      "lon": 86.341487373675,
+      "lat": 20.1801473
+    }
+  },
+  "Odisha|Jajapur": {
+    "bbox": {
+      "south": 20.9028357,
+      "north": 20.7533048,
+      "west": 86.2649058,
+      "east": 86.4256491
+    },
+    "center": {
+      "lon": 86.37983525915192,
+      "lat": 20.827789199999998
+    }
+  },
+  "Odisha|Jharsuguda": {
+    "bbox": {
+      "south": 22.0379521,
+      "north": 21.5660609,
+      "west": 83.420547,
+      "east": 84.3879604
+    },
+    "center": {
+      "lon": 83.97139644649639,
+      "lat": 21.8019368
+    }
+  },
+  "Odisha|Kalahandi": {
+    "bbox": {
+      "south": 19.4,
+      "north": 20.1,
+      "west": 82.65,
+      "east": 83.35
+    },
+    "center": {
+      "lon": 83,
+      "lat": 19.75
+    }
+  },
+  "Odisha|Kandhamal": {
+    "bbox": {
+      "south": 20.6888009,
+      "north": 19.5722853,
+      "west": 83.494935,
+      "east": 84.5872163
+    },
+    "center": {
+      "lon": 84.07904760590154,
+      "lat": 20.13069385
+    }
+  },
+  "Odisha|Kendrapara": {
+    "bbox": {
+      "south": 20.7987059,
+      "north": 20.2960946,
+      "west": 86.2463236,
+      "east": 87.069397
+    },
+    "center": {
+      "lon": 86.5296168190126,
+      "lat": 20.5475164
+    }
+  },
+  "Odisha|Kendujhar": {
+    "bbox": {
+      "south": 22.1625867,
+      "north": 21.0158119,
+      "west": 85.1842332,
+      "east": 86.3703918
+    },
+    "center": {
+      "lon": 85.66878413736906,
+      "lat": 21.5892323
+    }
+  },
+  "Odisha|Khordha": {
+    "bbox": {
+      "south": 19.822772399999998,
+      "north": 20.5227724,
+      "west": 85.26386140000001,
+      "east": 85.9638614
+    },
+    "center": {
+      "lon": 85.6138614,
+      "lat": 20.1727724
+    }
+  },
+  "Odisha|Koraput": {
+    "bbox": {
+      "south": 18.65,
+      "north": 19.35,
+      "west": 82.65,
+      "east": 83.35
+    },
+    "center": {
+      "lon": 83,
+      "lat": 19
+    }
+  },
+  "Odisha|Malkangiri": {
+    "bbox": {
+      "south": 18.7369801,
+      "north": 17.8122733,
+      "west": 81.3885855,
+      "east": 82.4304515
+    },
+    "center": {
+      "lon": 81.952031579464,
+      "lat": 18.27446845
+    }
+  },
+  "Odisha|Mayurbhanj": {
+    "bbox": {
+      "south": 21.4602559,
+      "north": 22.160255900000003,
+      "west": 86.22381440000001,
+      "east": 86.9238144
+    },
+    "center": {
+      "lon": 86.5738144,
+      "lat": 21.8102559
+    }
+  },
+  "Odisha|Nabarangpur": {
+    "bbox": {
+      "south": 18.878895999999997,
+      "north": 19.578896,
+      "west": 82.2165715,
+      "east": 82.91657149999999
+    },
+    "center": {
+      "lon": 82.5665715,
+      "lat": 19.228896
+    }
+  },
+  "Odisha|Nayagarh": {
+    "bbox": {
+      "south": 20.5804835,
+      "north": 19.8969376,
+      "west": 84.4831252,
+      "east": 85.4557156
+    },
+    "center": {
+      "lon": 85.0507280001334,
+      "lat": 20.23936825
+    }
+  },
+  "Odisha|Nuapada": {
+    "bbox": {
+      "south": 21.0923081,
+      "north": 19.9908384,
+      "west": 82.3312779,
+      "east": 82.8613329
+    },
+    "center": {
+      "lon": 82.52923519887409,
+      "lat": 20.5412657
+    }
+  },
+  "Odisha|Puri": {
+    "bbox": {
+      "south": 19.457608299999997,
+      "north": 20.1576083,
+      "west": 85.4752538,
+      "east": 86.1752538
+    },
+    "center": {
+      "lon": 85.8252538,
+      "lat": 19.8076083
+    }
+  },
+  "Odisha|Rayagada": {
+    "bbox": {
+      "south": 19.973974,
+      "north": 18.9113614,
+      "west": 82.8680813,
+      "east": 84.0348315
+    },
+    "center": {
+      "lon": 83.58730533403485,
+      "lat": 19.44266975
+    }
+  },
+  "Odisha|Sambalpur": {
+    "bbox": {
+      "south": 21.1205391,
+      "north": 21.8205391,
+      "west": 83.6261511,
+      "east": 84.32615109999999
+    },
+    "center": {
+      "lon": 83.9761511,
+      "lat": 21.4705391
+    }
+  },
+  "Odisha|Sonepur": {
+    "bbox": {
+      "south": 20.7699001,
+      "north": 20.7066077,
+      "west": 83.4908219,
+      "east": 83.7089895
+    },
+    "center": {
+      "lon": 83.60207364312677,
+      "lat": 20.740561272486516
+    }
+  },
+  "Odisha|Sundargarh": {
+    "bbox": {
+      "south": 21.9,
+      "north": 22.6,
+      "west": 84.15,
+      "east": 84.85
+    },
+    "center": {
+      "lon": 84.5,
+      "lat": 22.25
+    }
+  },
+  "Puducherry|Karaikal": {
+    "bbox": {
+      "south": 10.9401955,
+      "north": 10.903596,
+      "west": 79.8266006,
+      "east": 79.8442856
+    },
+    "center": {
+      "lon": 79.8375761,
+      "lat": 10.91571
+    }
+  },
+  "Puducherry|Mahe": {
+    "bbox": {
+      "south": 11.3521978,
+      "north": 12.0521978,
+      "west": 75.18647010000001,
+      "east": 75.8864701
+    },
+    "center": {
+      "lon": 75.5364701,
+      "lat": 11.7021978
+    }
+  },
+  "Puducherry|Pondicherry": {
+    "bbox": {
+      "south": 11.9731919,
+      "north": 11.9643506,
+      "west": 79.8031938,
+      "east": 79.8212003
+    },
+    "center": {
+      "lon": 79.81655861772728,
+      "lat": 11.969338749999999
+    }
+  },
+  "Puducherry|Yanam": {
+    "bbox": {
+      "south": 16.7617112,
+      "north": 16.7046618,
+      "west": 82.1861281,
+      "east": 82.3137136
+    },
+    "center": {
+      "lon": 82.2018117763748,
+      "lat": 16.7332235
+    }
+  },
+  "Punjab|Amritsar": {
+    "bbox": {
+      "south": 31.285665899999998,
+      "north": 31.9856659,
+      "west": 74.52874960000001,
+      "east": 75.2287496
+    },
+    "center": {
+      "lon": 74.8787496,
+      "lat": 31.6356659
+    }
+  },
+  "Punjab|Barnala": {
+    "bbox": {
+      "south": 30.6057923,
+      "north": 30.1376197,
+      "west": 75.2536505,
+      "east": 75.7311463
+    },
+    "center": {
+      "lon": 75.5039886995367,
+      "lat": 30.3716802
+    }
+  },
+  "Punjab|Bathinda": {
+    "bbox": {
+      "south": 29.856790999999998,
+      "north": 30.556791,
+      "west": 74.5963699,
+      "east": 75.29636989999999
+    },
+    "center": {
+      "lon": 74.9463699,
+      "lat": 30.206791
+    }
+  },
+  "Punjab|Faridkot": {
+    "bbox": {
+      "south": 30.8364327,
+      "north": 30.3662738,
+      "west": 74.4688314,
+      "east": 75.054093
+    },
+    "center": {
+      "lon": 74.79501756894368,
+      "lat": 30.6014507
+    }
+  },
+  "Punjab|Fatehgarh sahib": {
+    "bbox": {
+      "south": 30.8787855,
+      "north": 30.4482644,
+      "west": 76.075797,
+      "east": 76.6338884
+    },
+    "center": {
+      "lon": 76.38030001704635,
+      "lat": 30.663404149999998
+    }
+  },
+  "Punjab|Fazilka": {
+    "bbox": {
+      "south": 30.6924399,
+      "north": 29.9471762,
+      "west": 73.8798336,
+      "east": 74.4629138
+    },
+    "center": {
+      "lon": 74.1217943299535,
+      "lat": 30.3198406
+    }
+  },
+  "Punjab|Firozepur": {
+    "bbox": {
+      "south": 31.1622942,
+      "north": 30.588034,
+      "west": 74.2131649,
+      "east": 75.1500649
+    },
+    "center": {
+      "lon": 74.65254375024789,
+      "lat": 30.8753832
+    }
+  },
+  "Punjab|Gurdaspur": {
+    "bbox": {
+      "south": 32.2138708,
+      "north": 31.5935475,
+      "west": 74.8886921,
+      "east": 75.600759
+    },
+    "center": {
+      "lon": 75.22755867008682,
+      "lat": 31.9037264
+    }
+  },
+  "Punjab|Hoshiarpur": {
+    "bbox": {
+      "south": 32.0857409,
+      "north": 31.1327406,
+      "west": 75.4713903,
+      "east": 76.3493601
+    },
+    "center": {
+      "lon": 75.84597544153354,
+      "lat": 31.60929415
+    }
+  },
+  "Punjab|Jalandhar": {
+    "bbox": {
+      "south": 30.982376199999997,
+      "north": 31.6823762,
+      "west": 75.226889,
+      "east": 75.92688899999999
+    },
+    "center": {
+      "lon": 75.576889,
+      "lat": 31.3323762
+    }
+  },
+  "Punjab|Kapurthala": {
+    "bbox": {
+      "south": 31.031501499999997,
+      "north": 31.7315015,
+      "west": 75.03437690000001,
+      "east": 75.7343769
+    },
+    "center": {
+      "lon": 75.3843769,
+      "lat": 31.3815015
+    }
+  },
+  "Punjab|Ludhiana": {
+    "bbox": {
+      "south": 30.5590157,
+      "north": 31.259015700000003,
+      "west": 75.50160100000001,
+      "east": 76.201601
+    },
+    "center": {
+      "lon": 75.851601,
+      "lat": 30.9090157
+    }
+  },
+  "Punjab|Malerkotla": {
+    "bbox": {
+      "south": 30.183128999999997,
+      "north": 30.883129,
+      "west": 75.5307604,
+      "east": 76.2307604
+    },
+    "center": {
+      "lon": 75.8807604,
+      "lat": 30.533129
+    }
+  },
+  "Punjab|Mansa": {
+    "bbox": {
+      "south": 30.2098028,
+      "north": 29.5429378,
+      "west": 75.1675551,
+      "east": 75.7757562
+    },
+    "center": {
+      "lon": 75.48895639945275,
+      "lat": 29.8764133
+    }
+  },
+  "Punjab|Moga": {
+    "bbox": {
+      "south": 31.0895083,
+      "north": 30.4863647,
+      "west": 74.9040065,
+      "east": 75.4196162
+    },
+    "center": {
+      "lon": 75.15935898836224,
+      "lat": 30.7877554
+    }
+  },
+  "Punjab|Muktsar": {
+    "bbox": {
+      "south": 30.6692514,
+      "north": 29.9038122,
+      "west": 74.2442859,
+      "east": 74.8216989
+    },
+    "center": {
+      "lon": 74.52622341443077,
+      "lat": 30.28671615
+    }
+  },
+  "Punjab|Nawanshahr": {
+    "bbox": {
+      "south": 30.7717955,
+      "north": 31.471795500000002,
+      "west": 75.7590751,
+      "east": 76.45907509999999
+    },
+    "center": {
+      "lon": 76.1090751,
+      "lat": 31.1217955
+    }
+  },
+  "Punjab|Pathankot": {
+    "bbox": {
+      "south": 31.9192452,
+      "north": 32.6192452,
+      "west": 75.30288580000001,
+      "east": 76.0028858
+    },
+    "center": {
+      "lon": 75.6528858,
+      "lat": 32.2692452
+    }
+  },
+  "Punjab|Patiala": {
+    "bbox": {
+      "south": 30.3818198,
+      "north": 30.2893,
+      "west": 76.3342254,
+      "east": 76.466984
+    },
+    "center": {
+      "lon": 76.4007656,
+      "lat": 30.3301995
+    }
+  },
+  "Punjab|Rupnagar": {
+    "bbox": {
+      "south": 31.4372998,
+      "north": 30.745516,
+      "west": 76.2865996,
+      "east": 76.7384489
+    },
+    "center": {
+      "lon": 76.52897012920695,
+      "lat": 31.0917102
+    }
+  },
+  "Punjab|S.a.s nagar": {
+    "bbox": {
+      "south": 30.3541168,
+      "north": 31.054116800000003,
+      "west": 76.3676885,
+      "east": 77.06768849999999
+    },
+    "center": {
+      "lon": 76.7176885,
+      "lat": 30.7041168
+    }
+  },
+  "Punjab|Sangrur": {
+    "bbox": {
+      "south": 30.5448433,
+      "north": 29.7267155,
+      "west": 75.5553445,
+      "east": 76.2034904
+    },
+    "center": {
+      "lon": 75.85333259556887,
+      "lat": 30.135717
+    }
+  },
+  "Punjab|Tarn taran": {
+    "bbox": {
+      "south": 31.5708157,
+      "north": 31.0719859,
+      "west": 74.5099213,
+      "east": 75.280014
+    },
+    "center": {
+      "lon": 74.84166874384624,
+      "lat": 31.32124525
+    }
+  },
+  "Rajasthan|Ajmer": {
+    "bbox": {
+      "south": 26.517713,
+      "north": 26.3916605,
+      "west": 74.591603,
+      "east": 74.6871666
+    },
+    "center": {
+      "lon": 74.639,
+      "lat": 26.4691
+    }
+  },
+  "Rajasthan|Alwar": {
+    "bbox": {
+      "south": 27.5950488,
+      "north": 27.5348613,
+      "west": 76.5869153,
+      "east": 76.6270841
+    },
+    "center": {
+      "lon": 76.6132248,
+      "lat": 27.5645949
+    }
+  },
+  "Rajasthan|Banswara": {
+    "bbox": {
+      "south": 23.9249145,
+      "north": 23.0586612,
+      "west": 73.9573477,
+      "east": 74.77134
+    },
+    "center": {
+      "lon": 74.35021720129201,
+      "lat": 23.49150465
+    }
+  },
+  "Rajasthan|Baran": {
+    "bbox": {
+      "south": 25.4383309,
+      "north": 24.4032509,
+      "west": 76.1984629,
+      "east": 77.4266189
+    },
+    "center": {
+      "lon": 76.6821984669639,
+      "lat": 24.92081645
+    }
+  },
+  "Rajasthan|Barmer": {
+    "bbox": {
+      "south": 26.5134184,
+      "north": 24.6495821,
+      "west": 70.0853411,
+      "east": 71.9464588
+    },
+    "center": {
+      "lon": 71.19249222700306,
+      "lat": 25.5814853
+    }
+  },
+  "Rajasthan|Bharatpur": {
+    "bbox": {
+      "south": 27.3427899,
+      "north": 26.7061299,
+      "west": 76.9562861,
+      "east": 77.7629041
+    },
+    "center": {
+      "lon": 77.29201163357268,
+      "lat": 27.024695899999998
+    }
+  },
+  "Rajasthan|Bhilwara": {
+    "bbox": {
+      "south": 25.9637364,
+      "north": 25.0140255,
+      "west": 74.0125427,
+      "east": 75.4525127
+    },
+    "center": {
+      "lon": 74.33007256947698,
+      "lat": 25.48911765
+    }
+  },
+  "Rajasthan|Bikaner": {
+    "bbox": {
+      "south": 27.665928599999997,
+      "north": 28.3659286,
+      "west": 72.96713670000001,
+      "east": 73.6671367
+    },
+    "center": {
+      "lon": 73.3171367,
+      "lat": 28.0159286
+    }
+  },
+  "Rajasthan|Bundi": {
+    "bbox": {
+      "south": 25.8807152,
+      "north": 24.9943177,
+      "west": 75.2599943,
+      "east": 76.3563224
+    },
+    "center": {
+      "lon": 75.736147085863,
+      "lat": 25.4367659
+    }
+  },
+  "Rajasthan|Chittorgarh": {
+    "bbox": {
+      "south": 24.5337157,
+      "north": 25.2337157,
+      "west": 74.2744155,
+      "east": 74.97441549999999
+    },
+    "center": {
+      "lon": 74.6244155,
+      "lat": 24.8837157
+    }
+  },
+  "Rajasthan|Churu": {
+    "bbox": {
+      "south": 28.9998643,
+      "north": 27.4110048,
+      "west": 73.8596221,
+      "east": 75.6711452
+    },
+    "center": {
+      "lon": 74.69129960764752,
+      "lat": 28.20477805
+    }
+  },
+  "Rajasthan|Dausa": {
+    "bbox": {
+      "south": 27.2309735,
+      "north": 26.3786817,
+      "west": 76.1448347,
+      "east": 77.0755079
+    },
+    "center": {
+      "lon": 76.44374569929329,
+      "lat": 26.80486585
+    }
+  },
+  "Rajasthan|Dholpur": {
+    "bbox": {
+      "south": 26.704287,
+      "north": 26.6993202,
+      "west": 77.8473165,
+      "east": 77.8530533
+    },
+    "center": {
+      "lon": 77.84934997173048,
+      "lat": 26.701890900000002
+    }
+  },
+  "Rajasthan|Dungarpur": {
+    "bbox": {
+      "south": 23.503889299999997,
+      "north": 24.2038893,
+      "west": 73.3587177,
+      "east": 74.05871769999999
+    },
+    "center": {
+      "lon": 73.7087177,
+      "lat": 23.8538893
+    }
+  },
+  "Rajasthan|Ganganagar": {
+    "bbox": {
+      "south": 30.198253,
+      "north": 28.9015143,
+      "west": 73.3239062,
+      "east": 74.2974901
+    },
+    "center": {
+      "lon": 73.83389485608284,
+      "lat": 29.54807325
+    }
+  },
+  "Rajasthan|Hanumangarh": {
+    "bbox": {
+      "south": 29.9551413,
+      "north": 28.7764239,
+      "west": 73.8310218,
+      "east": 75.5275521
+    },
+    "center": {
+      "lon": 74.29842896506344,
+      "lat": 29.3659533
+    }
+  },
+  "Rajasthan|Jaipur": {
+    "bbox": {
+      "south": 26.5654576,
+      "north": 27.2654576,
+      "west": 75.4689817,
+      "east": 76.16898169999999
+    },
+    "center": {
+      "lon": 75.8189817,
+      "lat": 26.9154576
+    }
+  },
+  "Rajasthan|Jaisalmer": {
+    "bbox": {
+      "south": 26.5616615,
+      "north": 27.261661500000002,
+      "west": 70.56248880000001,
+      "east": 71.2624888
+    },
+    "center": {
+      "lon": 70.9124888,
+      "lat": 26.9116615
+    }
+  },
+  "Rajasthan|Jalore": {
+    "bbox": {
+      "south": 25.8097873,
+      "north": 24.7366185,
+      "west": 71.9754695,
+      "east": 73.0912827
+    },
+    "center": {
+      "lon": 72.43881214602396,
+      "lat": 25.27186295
+    }
+  },
+  "Rajasthan|Jhalawar": {
+    "bbox": {
+      "south": 24.8705516,
+      "north": 23.7559367,
+      "west": 75.4592968,
+      "east": 76.9473987
+    },
+    "center": {
+      "lon": 76.52210783164801,
+      "lat": 24.3132368
+    }
+  },
+  "Rajasthan|Jhunjhunu": {
+    "bbox": {
+      "south": 28.5185344,
+      "north": 27.6435229,
+      "west": 75.0244609,
+      "east": 76.0965562
+    },
+    "center": {
+      "lon": 75.37924775151512,
+      "lat": 28.0810679
+    }
+  },
+  "Rajasthan|Jodhpur": {
+    "bbox": {
+      "south": 26.3536661,
+      "north": 26.2059842,
+      "west": 72.9485753,
+      "east": 73.0888716
+    },
+    "center": {
+      "lon": 73.0351433,
+      "lat": 26.2967719
+    }
+  },
+  "Rajasthan|Karauli": {
+    "bbox": {
+      "south": 26.8740763,
+      "north": 26.0325401,
+      "west": 76.5512109,
+      "east": 77.3950982
+    },
+    "center": {
+      "lon": 77.0160460838982,
+      "lat": 26.4530971
+    }
+  },
+  "Rajasthan|Kota": {
+    "bbox": {
+      "south": 24.8237019,
+      "north": 25.523701900000002,
+      "west": 75.5074194,
+      "east": 76.20741939999999
+    },
+    "center": {
+      "lon": 75.8574194,
+      "lat": 25.1737019
+    }
+  },
+  "Rajasthan|Nagaur": {
+    "bbox": {
+      "south": 27.5658845,
+      "north": 26.4101476,
+      "west": 73.0859041,
+      "east": 74.5347866
+    },
+    "center": {
+      "lon": 73.73890107316704,
+      "lat": 26.9873443
+    }
+  },
+  "Rajasthan|Pali": {
+    "bbox": {
+      "south": 26.1607345,
+      "north": 24.7487022,
+      "west": 72.7778491,
+      "east": 74.0492141
+    },
+    "center": {
+      "lon": 73.4193889559074,
+      "lat": 25.45522105
+    }
+  },
+  "Rajasthan|Pratapgarh": {
+    "bbox": {
+      "south": 24.5129487,
+      "north": 23.5330842,
+      "west": 74.2163054,
+      "east": 74.9823945
+    },
+    "center": {
+      "lon": 74.6250275136311,
+      "lat": 24.02322205
+    }
+  },
+  "Rajasthan|Rajsamand": {
+    "bbox": {
+      "south": 26.0243568,
+      "north": 24.7154903,
+      "west": 73.4740734,
+      "east": 74.3915656
+    },
+    "center": {
+      "lon": 73.8241077454327,
+      "lat": 25.2892459
+    }
+  },
+  "Rajasthan|Sawai madhopur": {
+    "bbox": {
+      "south": 26.4864379,
+      "north": 25.7410652,
+      "west": 75.9798252,
+      "east": 76.852606
+    },
+    "center": {
+      "lon": 76.4240637330536,
+      "lat": 26.1137182
+    }
+  },
+  "Rajasthan|Sikar": {
+    "bbox": {
+      "south": 28.2038645,
+      "north": 27.1210596,
+      "west": 74.6812512,
+      "east": 75.7444482
+    },
+    "center": {
+      "lon": 75.02799052644464,
+      "lat": 27.662505799999998
+    }
+  },
+  "Rajasthan|Sirohi": {
+    "bbox": {
+      "south": 24.5358,
+      "north": 25.2358,
+      "west": 72.50890000000001,
+      "east": 73.2089
+    },
+    "center": {
+      "lon": 72.8589,
+      "lat": 24.8858
+    }
+  },
+  "Rajasthan|Tonk": {
+    "bbox": {
+      "south": 26.5644768,
+      "north": 25.6802875,
+      "west": 75.1121477,
+      "east": 76.3170433
+    },
+    "center": {
+      "lon": 75.82386305157223,
+      "lat": 26.122266000000003
+    }
+  },
+  "Rajasthan|Udaipur": {
+    "bbox": {
+      "south": 24.228721,
+      "north": 24.928721000000003,
+      "west": 73.33625710000001,
+      "east": 74.0362571
+    },
+    "center": {
+      "lon": 73.6862571,
+      "lat": 24.578721
+    }
+  },
+  "Sikkim|Gangtok": {
+    "bbox": {
+      "south": 26.979046,
+      "north": 27.679046000000003,
+      "west": 88.2622673,
+      "east": 88.9622673
+    },
+    "center": {
+      "lon": 88.6122673,
+      "lat": 27.329046
+    }
+  },
+  "Sikkim|Geyzing": {
+    "bbox": {
+      "south": 26.941121,
+      "north": 27.641121000000002,
+      "west": 87.90692200000001,
+      "east": 88.606922
+    },
+    "center": {
+      "lon": 88.256922,
+      "lat": 27.291121
+    }
+  },
+  "Sikkim|Mangan": {
+    "bbox": {
+      "south": 27.6859918,
+      "north": 27.3754234,
+      "west": 88.1125001,
+      "east": 88.8090373
+    },
+    "center": {
+      "lon": 88.40250603680548,
+      "lat": 27.52996555
+    }
+  },
+  "Sikkim|Namchi": {
+    "bbox": {
+      "south": 27.5271678,
+      "north": 27.0792596,
+      "west": 88.2758078,
+      "east": 88.5335201
+    },
+    "center": {
+      "lon": 88.37859609224414,
+      "lat": 27.3031019
+    }
+  },
+  "Sikkim|Pakyong": {
+    "bbox": {
+      "south": 27.2411829,
+      "north": 27.2242536,
+      "west": 88.5834435,
+      "east": 88.5935523
+    },
+    "center": {
+      "lon": 88.58867639439526,
+      "lat": 27.23291275
+    }
+  },
+  "Sikkim|Soreng": {
+    "bbox": {
+      "south": 27.270423,
+      "north": 27.1095764,
+      "west": 88.0120333,
+      "east": 88.330387
+    },
+    "center": {
+      "lon": 88.20067353825723,
+      "lat": 27.1901652
+    }
+  },
+  "Tamil Nadu|Ariyalur": {
+    "bbox": {
+      "south": 11.4194985,
+      "north": 10.8861763,
+      "west": 78.9408874,
+      "east": 79.5097518
+    },
+    "center": {
+      "lon": 79.25857973608959,
+      "lat": 11.1530559
+    }
+  },
+  "Tamil Nadu|Chengalpattu": {
+    "bbox": {
+      "south": 12.334088600000001,
+      "north": 13.0340886,
+      "west": 79.6336371,
+      "east": 80.33363709999999
+    },
+    "center": {
+      "lon": 79.9836371,
+      "lat": 12.6840886
+    }
+  },
+  "Tamil Nadu|Chennai": {
+    "bbox": {
+      "south": 13.235158,
+      "north": 12.8519771,
+      "west": 80.1401875,
+      "east": 80.3328982
+    },
+    "center": {
+      "lon": 80.270186,
+      "lat": 13.0836939
+    }
+  },
+  "Tamil Nadu|Coimbatore": {
+    "bbox": {
+      "south": 10.6518115,
+      "north": 11.3518115,
+      "west": 76.6128425,
+      "east": 77.31284249999999
+    },
+    "center": {
+      "lon": 76.9628425,
+      "lat": 11.0018115
+    }
+  },
+  "Tamil Nadu|Cuddalore": {
+    "bbox": {
+      "south": 11.4064329,
+      "north": 12.1064329,
+      "west": 79.41346440000001,
+      "east": 80.1134644
+    },
+    "center": {
+      "lon": 79.7634644,
+      "lat": 11.7564329
+    }
+  },
+  "Tamil Nadu|Dharmapuri": {
+    "bbox": {
+      "south": 12.5140116,
+      "north": 11.7761369,
+      "west": 77.6755592,
+      "east": 78.7454938
+    },
+    "center": {
+      "lon": 78.11322171666458,
+      "lat": 12.14561305
+    }
+  },
+  "Tamil Nadu|Dindigul": {
+    "bbox": {
+      "south": 10.8344441,
+      "north": 10.0179849,
+      "west": 77.2664903,
+      "east": 78.3393768
+    },
+    "center": {
+      "lon": 77.815663999998,
+      "lat": 10.425689649999999
+    }
+  },
+  "Tamil Nadu|Erode": {
+    "bbox": {
+      "south": 10.9806483,
+      "north": 11.6806483,
+      "west": 77.3776519,
+      "east": 78.07765189999999
+    },
+    "center": {
+      "lon": 77.7276519,
+      "lat": 11.3306483
+    }
+  },
+  "Tamil Nadu|Kallakurichi": {
+    "bbox": {
+      "south": 11.3906259,
+      "north": 12.0906259,
+      "west": 78.61371310000001,
+      "east": 79.3137131
+    },
+    "center": {
+      "lon": 78.9637131,
+      "lat": 11.7406259
+    }
+  },
+  "Tamil Nadu|Kanchipuram": {
+    "bbox": {
+      "south": 13.0556291,
+      "north": 12.5320262,
+      "west": 79.5573234,
+      "east": 80.1048733
+    },
+    "center": {
+      "lon": 79.9839686,
+      "lat": 12.9647163
+    }
+  },
+  "Tamil Nadu|Kanniyakumari": {
+    "bbox": {
+      "south": 8.5788476,
+      "north": 8.0768938,
+      "west": 77.0962964,
+      "east": 77.5891909
+    },
+    "center": {
+      "lon": 77.35411726732715,
+      "lat": 8.327981399999999
+    }
+  },
+  "Tamil Nadu|Karur": {
+    "bbox": {
+      "south": 11.0001121,
+      "north": 10.9223462,
+      "west": 78.028842,
+      "east": 78.1168914
+    },
+    "center": {
+      "lon": 78.0807797,
+      "lat": 10.9596041
+    }
+  },
+  "Tamil Nadu|Krishnagiri": {
+    "bbox": {
+      "south": 12.8909806,
+      "north": 12.1396135,
+      "west": 77.4706385,
+      "east": 78.6710993
+    },
+    "center": {
+      "lon": 78.00937692782514,
+      "lat": 12.51520745
+    }
+  },
+  "Tamil Nadu|Madurai": {
+    "bbox": {
+      "south": 9.9933722,
+      "north": 9.8245041,
+      "west": 78.0155927,
+      "east": 78.2030091
+    },
+    "center": {
+      "lon": 78.1140983,
+      "lat": 9.9261153
+    }
+  },
+  "Tamil Nadu|Mayiladuthurai": {
+    "bbox": {
+      "south": 10.751861400000001,
+      "north": 11.4518614,
+      "west": 79.30031620000001,
+      "east": 80.0003162
+    },
+    "center": {
+      "lon": 79.6503162,
+      "lat": 11.1018614
+    }
+  },
+  "Tamil Nadu|Nagapattinam": {
+    "bbox": {
+      "south": 10.4147952,
+      "north": 11.1147952,
+      "west": 79.4930779,
+      "east": 80.19307789999999
+    },
+    "center": {
+      "lon": 79.8430779,
+      "lat": 10.7647952
+    }
+  },
+  "Tamil Nadu|Namakkal": {
+    "bbox": {
+      "south": 11.5980533,
+      "north": 11.0123286,
+      "west": 77.6831245,
+      "east": 78.4897292
+    },
+    "center": {
+      "lon": 78.1186040211884,
+      "lat": 11.303388949999999
+    }
+  },
+  "Tamil Nadu|Perambalur": {
+    "bbox": {
+      "south": 11.5230455,
+      "north": 11.0564935,
+      "west": 78.6352443,
+      "east": 79.1682946
+    },
+    "center": {
+      "lon": 78.9300404012642,
+      "lat": 11.2902641
+    }
+  },
+  "Tamil Nadu|Pudukkottai": {
+    "bbox": {
+      "south": 10.7334138,
+      "north": 9.8468716,
+      "west": 78.4265041,
+      "east": 79.2666176
+    },
+    "center": {
+      "lon": 78.81736165831396,
+      "lat": 10.2903072
+    }
+  },
+  "Tamil Nadu|Ramanathapuram": {
+    "bbox": {
+      "south": 9.947231,
+      "north": 9.0874559,
+      "west": 78.2149108,
+      "east": 79.4611126
+    },
+    "center": {
+      "lon": 78.51846345155016,
+      "lat": 9.5205576
+    }
+  },
+  "Tamil Nadu|Ranipet": {
+    "bbox": {
+      "south": 13.2093019,
+      "north": 12.627922,
+      "west": 79.1788959,
+      "east": 79.7917914
+    },
+    "center": {
+      "lon": 79.40819212569048,
+      "lat": 12.91862425
+    }
+  },
+  "Tamil Nadu|Salem": {
+    "bbox": {
+      "south": 11.7836934,
+      "north": 11.5374474,
+      "west": 78.1101107,
+      "east": 78.3186149
+    },
+    "center": {
+      "lon": 78.1581771,
+      "lat": 11.6551982
+    }
+  },
+  "Tamil Nadu|Sivaganga": {
+    "bbox": {
+      "south": 9.4986881,
+      "north": 10.1986881,
+      "west": 78.1370461,
+      "east": 78.8370461
+    },
+    "center": {
+      "lon": 78.4870461,
+      "lat": 9.8486881
+    }
+  },
+  "Tamil Nadu|Thanjavur": {
+    "bbox": {
+      "south": 10.436026700000001,
+      "north": 11.1360267,
+      "west": 78.7881497,
+      "east": 79.4881497
+    },
+    "center": {
+      "lon": 79.1381497,
+      "lat": 10.7860267
+    }
+  },
+  "Tamil Nadu|The nilgiris": {
+    "bbox": {
+      "south": 11.05,
+      "north": 11.75,
+      "west": 76.35000000000001,
+      "east": 77.05
+    },
+    "center": {
+      "lon": 76.7,
+      "lat": 11.4
+    }
+  },
+  "Tamil Nadu|Theni": {
+    "bbox": {
+      "south": 10.2183856,
+      "north": 9.5191907,
+      "west": 77.1657972,
+      "east": 77.7294731
+    },
+    "center": {
+      "lon": 77.42229738345591,
+      "lat": 9.86925575
+    }
+  },
+  "Tamil Nadu|Thenkasi": {
+    "bbox": {
+      "south": 10.1959976,
+      "north": 10.8959976,
+      "west": 79.2472817,
+      "east": 79.94728169999999
+    },
+    "center": {
+      "lon": 79.5972817,
+      "lat": 10.5459976
+    }
+  },
+  "Tamil Nadu|Thiruvallur": {
+    "bbox": {
+      "south": 13.5639111,
+      "north": 12.9442328,
+      "west": 79.2832875,
+      "east": 80.3592991
+    },
+    "center": {
+      "lon": 80.0562572426388,
+      "lat": 13.25376185
+    }
+  },
+  "Tamil Nadu|Thiruvarur": {
+    "bbox": {
+      "south": 11.0176785,
+      "north": 10.3586158,
+      "west": 79.2678165,
+      "east": 79.7620725
+    },
+    "center": {
+      "lon": 79.49794371209825,
+      "lat": 10.6878621
+    }
+  },
+  "Tamil Nadu|Thoothukudi": {
+    "bbox": {
+      "south": 8.4552602,
+      "north": 9.155260199999999,
+      "west": 77.7952745,
+      "east": 78.4952745
+    },
+    "center": {
+      "lon": 78.1452745,
+      "lat": 8.8052602
+    }
+  },
+  "Tamil Nadu|Tiruchirappalli": {
+    "bbox": {
+      "south": 10.8457612,
+      "north": 10.7273005,
+      "west": 78.6461234,
+      "east": 78.7426615
+    },
+    "center": {
+      "lon": 78.6880939,
+      "lat": 10.8071144
+    }
+  },
+  "Tamil Nadu|Tirunelveli": {
+    "bbox": {
+      "south": 8.3784271,
+      "north": 9.078427099999999,
+      "west": 77.3612925,
+      "east": 78.0612925
+    },
+    "center": {
+      "lon": 77.7112925,
+      "lat": 8.7284271
+    }
+  },
+  "Tamil Nadu|Tirupathur": {
+    "bbox": {
+      "south": 12.6490064,
+      "north": 12.2571668,
+      "west": 78.4068193,
+      "east": 78.8587904
+    },
+    "center": {
+      "lon": 78.55314386795494,
+      "lat": 12.4529622
+    }
+  },
+  "Tamil Nadu|Tiruppur": {
+    "bbox": {
+      "south": 10.7517815,
+      "north": 11.4517815,
+      "west": 76.995192,
+      "east": 77.69519199999999
+    },
+    "center": {
+      "lon": 77.345192,
+      "lat": 11.1017815
+    }
+  },
+  "Tamil Nadu|Tiruvannamalai": {
+    "bbox": {
+      "south": 12.8741978,
+      "north": 11.9833879,
+      "west": 78.630352,
+      "east": 79.7562575
+    },
+    "center": {
+      "lon": 78.99914998830823,
+      "lat": 12.42892815
+    }
+  },
+  "Tamil Nadu|Vellore": {
+    "bbox": {
+      "south": 12.5571753,
+      "north": 13.2571753,
+      "west": 78.78096950000001,
+      "east": 79.4809695
+    },
+    "center": {
+      "lon": 79.1309695,
+      "lat": 12.9071753
+    }
+  },
+  "Tamil Nadu|Villupuram": {
+    "bbox": {
+      "south": 11.5906963,
+      "north": 11.5845139,
+      "west": 78.6707783,
+      "east": 78.7256953
+    },
+    "center": {
+      "lon": 78.6981360101323,
+      "lat": 11.586389662324155
+    }
+  },
+  "Tamil Nadu|Virudhunagar": {
+    "bbox": {
+      "south": 9.7852525,
+      "north": 9.2000995,
+      "west": 77.3394596,
+      "east": 78.4311397
+    },
+    "center": {
+      "lon": 77.86318306460637,
+      "lat": 9.4926289
+    }
+  },
+  "Telangana|Adilabad": {
+    "bbox": {
+      "south": 19.3259452,
+      "north": 20.025945200000002,
+      "west": 78.18398950000001,
+      "east": 78.8839895
+    },
+    "center": {
+      "lon": 78.5339895,
+      "lat": 19.6759452
+    }
+  },
+  "Telangana|Bhadradri": {
+    "bbox": {
+      "south": 18.240754,
+      "north": 17.1906611,
+      "west": 80.2021315,
+      "east": 81.3226246
+    },
+    "center": {
+      "lon": 80.57126094455612,
+      "lat": 17.71666325
+    }
+  },
+  "Telangana|Jagitial": {
+    "bbox": {
+      "south": 18.4408955,
+      "north": 19.140895500000003,
+      "west": 78.5618341,
+      "east": 79.26183409999999
+    },
+    "center": {
+      "lon": 78.9118341,
+      "lat": 18.7908955
+    }
+  },
+  "Telangana|Jangoan": {
+    "bbox": {
+      "south": 17.8426624,
+      "north": 17.668511,
+      "west": 79.0458824,
+      "east": 79.2116794
+    },
+    "center": {
+      "lon": 79.13238961179245,
+      "lat": 17.7557919
+    }
+  },
+  "Telangana|Jayashankar": {
+    "bbox": {
+      "south": 18.869236,
+      "north": 18.1566348,
+      "west": 79.5590977,
+      "east": 80.3458588
+    },
+    "center": {
+      "lon": 79.96939659792528,
+      "lat": 18.515987199999998
+    }
+  },
+  "Telangana|Jogulamba": {
+    "bbox": {
+      "south": 16.36329,
+      "north": 15.8364246,
+      "west": 77.4862978,
+      "east": 78.2536599
+    },
+    "center": {
+      "lon": 77.73415835077523,
+      "lat": 16.0999202
+    }
+  },
+  "Telangana|Kamareddy": {
+    "bbox": {
+      "south": 18.5653733,
+      "north": 18.0676994,
+      "west": 77.5189768,
+      "east": 78.5692624
+    },
+    "center": {
+      "lon": 78.05393808043348,
+      "lat": 18.316551
+    }
+  },
+  "Telangana|Karimnagar": {
+    "bbox": {
+      "south": 18.0848122,
+      "north": 18.7848122,
+      "west": 78.7828042,
+      "east": 79.48280419999999
+    },
+    "center": {
+      "lon": 79.1328042,
+      "lat": 18.4348122
+    }
+  },
+  "Telangana|Khammam": {
+    "bbox": {
+      "south": 16.896535099999998,
+      "north": 17.5965351,
+      "west": 79.80003260000001,
+      "east": 80.5000326
+    },
+    "center": {
+      "lon": 80.1500326,
+      "lat": 17.2465351
+    }
+  },
+  "Telangana|Komaram bheem asifabad": {
+    "bbox": {
+      "south": 19.462981,
+      "north": 19.4061609,
+      "west": 79.1609359,
+      "east": 79.245463
+    },
+    "center": {
+      "lon": 79.20306726451668,
+      "lat": 19.4346746
+    }
+  },
+  "Telangana|Mahabubabad": {
+    "bbox": {
+      "south": 18.1065625,
+      "north": 17.3211891,
+      "west": 79.512636,
+      "east": 80.323221
+    },
+    "center": {
+      "lon": 80.04134252767227,
+      "lat": 17.7138983
+    }
+  },
+  "Telangana|Mahbubnagar": {
+    "bbox": {
+      "south": 16.3934538,
+      "north": 17.093453800000002,
+      "west": 77.64231910000001,
+      "east": 78.3423191
+    },
+    "center": {
+      "lon": 77.9923191,
+      "lat": 16.7434538
+    }
+  },
+  "Telangana|Mancherial": {
+    "bbox": {
+      "south": 19.2892503,
+      "north": 18.6717867,
+      "west": 78.8774872,
+      "east": 79.9620787
+    },
+    "center": {
+      "lon": 79.51980961374048,
+      "lat": 18.9812967
+    }
+  },
+  "Telangana|Medak": {
+    "bbox": {
+      "south": 18.2154768,
+      "north": 17.6595812,
+      "west": 77.7945053,
+      "east": 78.589261
+    },
+    "center": {
+      "lon": 78.21174498510584,
+      "lat": 17.9375095
+    }
+  },
+  "Telangana|Medchal": {
+    "bbox": {
+      "south": 17.283992899999998,
+      "north": 17.9839929,
+      "west": 78.13431460000001,
+      "east": 78.8343146
+    },
+    "center": {
+      "lon": 78.4843146,
+      "lat": 17.6339929
+    }
+  },
+  "Telangana|Mulugu": {
+    "bbox": {
+      "south": 18.6329104,
+      "north": 17.9962346,
+      "west": 79.8147585,
+      "east": 80.7902692
+    },
+    "center": {
+      "lon": 80.3458815996114,
+      "lat": 18.31453475
+    }
+  },
+  "Telangana|Nagarkurnool": {
+    "bbox": {
+      "south": 16.8309594,
+      "north": 16.000533,
+      "west": 78.1008312,
+      "east": 79.2342633
+    },
+    "center": {
+      "lon": 78.68304333132829,
+      "lat": 16.415762649999998
+    }
+  },
+  "Telangana|Nalgonda": {
+    "bbox": {
+      "south": 17.360205,
+      "north": 16.3556998,
+      "west": 78.6152855,
+      "east": 79.7020031
+    },
+    "center": {
+      "lon": 79.21749353315548,
+      "lat": 16.8579636
+    }
+  },
+  "Telangana|Narayanapet": {
+    "bbox": {
+      "south": 18.3848038,
+      "north": 19.084803800000003,
+      "west": 77.9125961,
+      "east": 78.61259609999999
+    },
+    "center": {
+      "lon": 78.2625961,
+      "lat": 18.7348038
+    }
+  },
+  "Telangana|Nirmal": {
+    "bbox": {
+      "south": 19.3385078,
+      "north": 18.8445328,
+      "west": 77.7606043,
+      "east": 78.952375
+    },
+    "center": {
+      "lon": 78.39660898429065,
+      "lat": 19.091520950000003
+    }
+  },
+  "Telangana|Nizamabad": {
+    "bbox": {
+      "south": 18.3232693,
+      "north": 19.023269300000003,
+      "west": 77.74784770000001,
+      "east": 78.4478477
+    },
+    "center": {
+      "lon": 78.0978477,
+      "lat": 18.6732693
+    }
+  },
+  "Telangana|Peddapalli": {
+    "bbox": {
+      "south": 18.8559031,
+      "north": 18.3854718,
+      "west": 79.1121078,
+      "east": 79.8326891
+    },
+    "center": {
+      "lon": 79.49501710882896,
+      "lat": 18.62065305
+    }
+  },
+  "Telangana|Rajanna": {
+    "bbox": {
+      "south": 18.6915022,
+      "north": 18.2137639,
+      "west": 78.5207847,
+      "east": 79.0267291
+    },
+    "center": {
+      "lon": 78.76455837158737,
+      "lat": 18.452116
+    }
+  },
+  "Telangana|Rangareddi": {
+    "bbox": {
+      "south": 19.9172962,
+      "north": 15.8364246,
+      "west": 77.236585,
+      "east": 81.3226246
+    },
+    "center": {
+      "lon": 79.1151663,
+      "lat": 17.8495919
+    }
+  },
+  "Telangana|Sangareddy": {
+    "bbox": {
+      "south": 18.3093083,
+      "north": 17.4274947,
+      "west": 77.4439263,
+      "east": 78.4498641
+    },
+    "center": {
+      "lon": 77.82271887720601,
+      "lat": 17.8684342
+    }
+  },
+  "Telangana|Siddipet": {
+    "bbox": {
+      "south": 18.3443771,
+      "north": 17.6672652,
+      "west": 78.4928958,
+      "east": 79.3033558
+    },
+    "center": {
+      "lon": 78.89611304969961,
+      "lat": 18.005585099999998
+    }
+  },
+  "Telangana|Suryapet": {
+    "bbox": {
+      "south": 16.790532799999998,
+      "north": 17.4905328,
+      "west": 79.27251050000001,
+      "east": 79.9725105
+    },
+    "center": {
+      "lon": 79.6225105,
+      "lat": 17.1405328
+    }
+  },
+  "Telangana|Vikarabad": {
+    "bbox": {
+      "south": 17.6386916,
+      "north": 16.9015631,
+      "west": 77.3617869,
+      "east": 78.0731582
+    },
+    "center": {
+      "lon": 77.74529700637382,
+      "lat": 17.2702855
+    }
+  },
+  "Telangana|Wanaparthy": {
+    "bbox": {
+      "south": 16.011779899999997,
+      "north": 16.7117799,
+      "west": 77.71108360000001,
+      "east": 78.4110836
+    },
+    "center": {
+      "lon": 78.0610836,
+      "lat": 16.3617799
+    }
+  },
+  "Telangana|Warangal": {
+    "bbox": {
+      "south": 17.632064399999997,
+      "north": 18.3320644,
+      "west": 79.2470954,
+      "east": 79.9470954
+    },
+    "center": {
+      "lon": 79.5970954,
+      "lat": 17.9820644
+    }
+  },
+  "Telangana|Warangal urban": {
+    "bbox": {
+      "south": 18.0464103,
+      "north": 18.0453903,
+      "west": 79.6109171,
+      "east": 79.6121939
+    },
+    "center": {
+      "lon": 79.61154706473926,
+      "lat": 18.045847871495734
+    }
+  },
+  "Telangana|Yadadri": {
+    "bbox": {
+      "south": 17.8126697,
+      "north": 17.0436925,
+      "west": 78.6826057,
+      "east": 79.4580811
+    },
+    "center": {
+      "lon": 79.09049097612106,
+      "lat": 17.42819665
+    }
+  },
+  "The Dadra & Nagar Haveli and Daman and Diu|Dadra and Nagar Haveli": {
+    "bbox": {
+      "south": 20.066406699999998,
+      "north": 20.7664067,
+      "west": 72.4878753,
+      "east": 73.18787529999999
+    },
+    "center": {
+      "lon": 72.8378753,
+      "lat": 20.4164067
+    }
+  },
+  "The Dadra & Nagar Haveli and Daman and Diu|Daman": {
+    "bbox": {
+      "south": 20.066406699999998,
+      "north": 20.7664067,
+      "west": 72.4878753,
+      "east": 73.18787529999999
+    },
+    "center": {
+      "lon": 72.8378753,
+      "lat": 20.4164067
+    }
+  },
+  "The Dadra & Nagar Haveli and Daman and Diu|Diu": {
+    "bbox": {
+      "south": 20.7157174,
+      "north": 20.7151565,
+      "west": 70.9935341,
+      "east": 70.9940016
+    },
+    "center": {
+      "lon": 70.9937678391473,
+      "lat": 20.715421300000003
+    }
+  },
+  "Tripura|Dhalai": {
+    "bbox": {
+      "south": 24.241183,
+      "north": 23.4062504,
+      "west": 91.7477274,
+      "east": 92.1758653
+    },
+    "center": {
+      "lon": 91.9732226716333,
+      "lat": 23.8253158
+    }
+  },
+  "Tripura|Gomati": {
+    "bbox": {
+      "south": 23.4780039,
+      "north": 23.42618,
+      "west": 91.8116458,
+      "east": 91.840682
+    },
+    "center": {
+      "lon": 91.81384158022344,
+      "lat": 23.464530296618122
+    }
+  },
+  "Tripura|Khowai": {
+    "bbox": {
+      "south": 24.2292915,
+      "north": 23.683305,
+      "west": 91.4687991,
+      "east": 91.7885398
+    },
+    "center": {
+      "lon": 91.64210695958099,
+      "lat": 23.9563913
+    }
+  },
+  "Tripura|North tripura": {
+    "bbox": {
+      "south": 24.530878,
+      "north": 23.6539294,
+      "west": 92.0625972,
+      "east": 92.33585
+    },
+    "center": {
+      "lon": 92.24512135019847,
+      "lat": 24.092147599999997
+    }
+  },
+  "Tripura|Sepahijala": {
+    "bbox": {
+      "south": 23.683658,
+      "north": 23.648141,
+      "west": 91.2877607,
+      "east": 91.3407182
+    },
+    "center": {
+      "lon": 91.32002751729334,
+      "lat": 23.66580045
+    }
+  },
+  "Tripura|South tripura": {
+    "bbox": {
+      "south": 23.4045786,
+      "north": 22.9376106,
+      "west": 91.3113789,
+      "east": 91.8244493
+    },
+    "center": {
+      "lon": 91.63881696227517,
+      "lat": 23.170827799999998
+    }
+  },
+  "Tripura|Unakoti": {
+    "bbox": {
+      "south": 24.3915635,
+      "north": 23.9905068,
+      "west": 91.907874,
+      "east": 92.2043895
+    },
+    "center": {
+      "lon": 92.04604830534434,
+      "lat": 24.19098485
+    }
+  },
+  "Tripura|West tripura": {
+    "bbox": {
+      "south": 23.566667,
+      "north": 24.266667,
+      "west": 91.15,
+      "east": 91.85
+    },
+    "center": {
+      "lon": 91.5,
+      "lat": 23.916667
+    }
+  },
+  "Uttar Pradesh|Agra": {
+    "bbox": {
+      "south": 27.2963239,
+      "north": 27.045464,
+      "west": 77.851022,
+      "east": 78.2207625
+    },
+    "center": {
+      "lon": 78.0098161,
+      "lat": 27.1752554
+    }
+  },
+  "Uttar Pradesh|Aligarh": {
+    "bbox": {
+      "south": 28.1798857,
+      "north": 27.5714387,
+      "west": 77.4756081,
+      "east": 78.6077205
+    },
+    "center": {
+      "lon": 78.13581531245276,
+      "lat": 27.8761073
+    }
+  },
+  "Uttar Pradesh|Allahabad": {
+    "bbox": {
+      "south": 25.4463262,
+      "north": 25.4274687,
+      "west": 81.7213088,
+      "east": 81.7570614
+    },
+    "center": {
+      "lon": 81.73421016673637,
+      "lat": 25.43689825
+    }
+  },
+  "Uttar Pradesh|Ambedkar nagar": {
+    "bbox": {
+      "south": 26.6525251,
+      "north": 26.1566454,
+      "west": 82.2200111,
+      "east": 83.1321726
+    },
+    "center": {
+      "lon": 82.60651543340809,
+      "lat": 26.40459405
+    }
+  },
+  "Uttar Pradesh|Amethi": {
+    "bbox": {
+      "south": 26.6659197,
+      "north": 26.0269372,
+      "west": 81.344025,
+      "east": 82.0704825
+    },
+    "center": {
+      "lon": 81.62520390649198,
+      "lat": 26.346274049999998
+    }
+  },
+  "Uttar Pradesh|Amroha": {
+    "bbox": {
+      "south": 29.1580079,
+      "north": 28.4331943,
+      "west": 78.0495623,
+      "east": 78.7190057
+    },
+    "center": {
+      "lon": 78.34362444291719,
+      "lat": 28.79526315
+    }
+  },
+  "Uttar Pradesh|Auraiya": {
+    "bbox": {
+      "south": 26.9473822,
+      "north": 26.3642398,
+      "west": 79.205065,
+      "east": 79.7568646
+    },
+    "center": {
+      "lon": 79.51607566959635,
+      "lat": 26.65582145
+    }
+  },
+  "Uttar Pradesh|Azamgarh": {
+    "bbox": {
+      "south": 26.4117595,
+      "north": 25.6358579,
+      "west": 82.664862,
+      "east": 83.4682939
+    },
+    "center": {
+      "lon": 83.02931045602446,
+      "lat": 26.023639000000003
+    }
+  },
+  "Uttar Pradesh|Baghpat": {
+    "bbox": {
+      "south": 29.2981479,
+      "north": 28.776643,
+      "west": 77.1314142,
+      "east": 77.5045062
+    },
+    "center": {
+      "lon": 77.3062736595316,
+      "lat": 29.037477850000002
+    }
+  },
+  "Uttar Pradesh|Bahraich": {
+    "bbox": {
+      "south": 28.4092009,
+      "north": 27.059049,
+      "west": 81.0385728,
+      "east": 81.9904106
+    },
+    "center": {
+      "lon": 81.47653998303304,
+      "lat": 27.734382250000003
+    }
+  },
+  "Uttar Pradesh|Ballia": {
+    "bbox": {
+      "south": 26.192127,
+      "north": 25.5578593,
+      "west": 83.6759739,
+      "east": 84.6345091
+    },
+    "center": {
+      "lon": 84.12103292973015,
+      "lat": 25.87495945
+    }
+  },
+  "Uttar Pradesh|Balrampur": {
+    "bbox": {
+      "south": 27.8438995,
+      "north": 27.0517013,
+      "west": 82.0216595,
+      "east": 82.7646824
+    },
+    "center": {
+      "lon": 82.39562446515757,
+      "lat": 27.4476988
+    }
+  },
+  "Uttar Pradesh|Banda": {
+    "bbox": {
+      "south": 25.9137466,
+      "north": 24.9739308,
+      "west": 80.1037089,
+      "east": 81.0366178
+    },
+    "center": {
+      "lon": 80.55952371281752,
+      "lat": 25.44385365
+    }
+  },
+  "Uttar Pradesh|Barabanki": {
+    "bbox": {
+      "south": 27.3593078,
+      "north": 26.5252729,
+      "west": 80.9239271,
+      "east": 81.7611519
+    },
+    "center": {
+      "lon": 81.38560869842297,
+      "lat": 26.942140600000002
+    }
+  },
+  "Uttar Pradesh|Bareilly": {
+    "bbox": {
+      "south": 28.9011901,
+      "north": 28.015352,
+      "west": 78.969497,
+      "east": 79.7914271
+    },
+    "center": {
+      "lon": 79.40474517998476,
+      "lat": 28.45823445
+    }
+  },
+  "Uttar Pradesh|Basti": {
+    "bbox": {
+      "south": 27.124294,
+      "north": 26.5530123,
+      "west": 82.2286718,
+      "east": 82.9776219
+    },
+    "center": {
+      "lon": 82.53509190101042,
+      "lat": 26.838708349999997
+    }
+  },
+  "Uttar Pradesh|Bijnor": {
+    "bbox": {
+      "south": 29.7960279,
+      "north": 29.0181361,
+      "west": 77.985954,
+      "east": 78.9426726
+    },
+    "center": {
+      "lon": 78.48214063370122,
+      "lat": 29.4074203
+    }
+  },
+  "Uttar Pradesh|Budaun": {
+    "bbox": {
+      "south": 27.6867001,
+      "north": 28.386700100000002,
+      "west": 78.77340000000001,
+      "east": 79.4734
+    },
+    "center": {
+      "lon": 79.1234,
+      "lat": 28.0367001
+    }
+  },
+  "Uttar Pradesh|Bulandshahr": {
+    "bbox": {
+      "south": 28.7153555,
+      "north": 28.0591766,
+      "west": 77.6216467,
+      "east": 78.4774771
+    },
+    "center": {
+      "lon": 77.9743804965303,
+      "lat": 28.3874073
+    }
+  },
+  "Uttar Pradesh|Chandauli": {
+    "bbox": {
+      "south": 25.5352687,
+      "north": 24.7164749,
+      "west": 83.0091232,
+      "east": 83.5546303
+    },
+    "center": {
+      "lon": 83.24946012689054,
+      "lat": 25.125695049999997
+    }
+  },
+  "Uttar Pradesh|Chitrakoot": {
+    "bbox": {
+      "south": 25.5468632,
+      "north": 24.8875274,
+      "west": 80.6840501,
+      "east": 81.5621995
+    },
+    "center": {
+      "lon": 81.10459272134409,
+      "lat": 25.21713895
+    }
+  },
+  "Uttar Pradesh|Deoria": {
+    "bbox": {
+      "south": 26.7591765,
+      "north": 26.0894695,
+      "west": 83.4767505,
+      "east": 84.1859186
+    },
+    "center": {
+      "lon": 83.7638577758042,
+      "lat": 26.423991100000002
+    }
+  },
+  "Uttar Pradesh|Etah": {
+    "bbox": {
+      "south": 27.7861849,
+      "north": 27.3236757,
+      "west": 78.1738501,
+      "east": 79.2772342
+    },
+    "center": {
+      "lon": 78.59922214449577,
+      "lat": 27.5550357
+    }
+  },
+  "Uttar Pradesh|Etawah": {
+    "bbox": {
+      "south": 27.0064476,
+      "north": 26.4249921,
+      "west": 78.7412854,
+      "east": 79.3496534
+    },
+    "center": {
+      "lon": 79.09170983360895,
+      "lat": 26.715562900000002
+    }
+  },
+  "Uttar Pradesh|Faizabad": {
+    "bbox": {
+      "south": 26.4307986,
+      "north": 27.130798600000002,
+      "west": 81.7986589,
+      "east": 82.4986589
+    },
+    "center": {
+      "lon": 82.1486589,
+      "lat": 26.7807986
+    }
+  },
+  "Uttar Pradesh|Farrukhabad": {
+    "bbox": {
+      "south": 27.7153259,
+      "north": 27.1567829,
+      "west": 79.1202028,
+      "east": 79.7371968
+    },
+    "center": {
+      "lon": 79.48947783586553,
+      "lat": 27.43620025
+    }
+  },
+  "Uttar Pradesh|Fatehpur": {
+    "bbox": {
+      "south": 26.2312317,
+      "north": 25.43836,
+      "west": 80.2129874,
+      "east": 81.3383733
+    },
+    "center": {
+      "lon": 80.91545468512774,
+      "lat": 25.8348023
+    }
+  },
+  "Uttar Pradesh|Firozabad": {
+    "bbox": {
+      "south": 27.5107243,
+      "north": 26.8777529,
+      "west": 78.193984,
+      "east": 78.8214228
+    },
+    "center": {
+      "lon": 78.46049561440218,
+      "lat": 27.19419535
+    }
+  },
+  "Uttar Pradesh|Gautam buddha nagar": {
+    "bbox": {
+      "south": 28.6529491,
+      "north": 28.0851146,
+      "west": 77.2928863,
+      "east": 77.7378497
+    },
+    "center": {
+      "lon": 77.59701208101043,
+      "lat": 28.36871595
+    }
+  },
+  "Uttar Pradesh|Ghaziabad": {
+    "bbox": {
+      "south": 28.8350392,
+      "north": 28.6221757,
+      "west": 77.1992428,
+      "east": 77.6164967
+    },
+    "center": {
+      "lon": 77.4120356,
+      "lat": 28.6711527
+    }
+  },
+  "Uttar Pradesh|Ghazipur": {
+    "bbox": {
+      "south": 25.9000409,
+      "north": 25.3064958,
+      "west": 83.0628074,
+      "east": 83.9625753
+    },
+    "center": {
+      "lon": 83.50758884009142,
+      "lat": 25.60348625
+    }
+  },
+  "Uttar Pradesh|Gonda": {
+    "bbox": {
+      "south": 27.4396479,
+      "north": 26.7811032,
+      "west": 81.5148562,
+      "east": 82.6139419
+    },
+    "center": {
+      "lon": 81.92389055909715,
+      "lat": 27.1103723
+    }
+  },
+  "Uttar Pradesh|Gorakhpur": {
+    "bbox": {
+      "south": 27.1170764,
+      "north": 26.2187521,
+      "west": 83.0677616,
+      "east": 83.671043
+    },
+    "center": {
+      "lon": 83.364233378331,
+      "lat": 26.6677977
+    }
+  },
+  "Uttar Pradesh|Hamirpur": {
+    "bbox": {
+      "south": 26.1626873,
+      "north": 25.4766178,
+      "west": 79.3552686,
+      "east": 80.3515129
+    },
+    "center": {
+      "lon": 80,
+      "lat": 25.75
+    }
+  },
+  "Uttar Pradesh|Hapur": {
+    "bbox": {
+      "south": 28.8838551,
+      "north": 28.5495382,
+      "west": 77.5443714,
+      "east": 78.2121753
+    },
+    "center": {
+      "lon": 77.89043300265203,
+      "lat": 28.7166767
+    }
+  },
+  "Uttar Pradesh|Hardoi": {
+    "bbox": {
+      "south": 27.7844573,
+      "north": 26.8897329,
+      "west": 79.6843428,
+      "east": 80.826911
+    },
+    "center": {
+      "lon": 80.09982319183257,
+      "lat": 27.336997750000002
+    }
+  },
+  "Uttar Pradesh|Hathras": {
+    "bbox": {
+      "south": 27.8479208,
+      "north": 27.2969515,
+      "west": 77.87384,
+      "east": 78.5272823
+    },
+    "center": {
+      "lon": 78.11162088731544,
+      "lat": 27.5724324
+    }
+  },
+  "Uttar Pradesh|Jalaun": {
+    "bbox": {
+      "south": 26.4426083,
+      "north": 25.7670448,
+      "west": 78.9304981,
+      "east": 79.9544047
+    },
+    "center": {
+      "lon": 79.39191362484078,
+      "lat": 26.104863299999998
+    }
+  },
+  "Uttar Pradesh|Jaunpur": {
+    "bbox": {
+      "south": 26.2012264,
+      "north": 25.392657,
+      "west": 82.1225216,
+      "east": 83.0901201
+    },
+    "center": {
+      "lon": 82.4888992436659,
+      "lat": 25.7967065
+    }
+  },
+  "Uttar Pradesh|Jhansi": {
+    "bbox": {
+      "south": 25.4858199,
+      "north": 25.4154092,
+      "west": 78.4964822,
+      "east": 78.627436
+    },
+    "center": {
+      "lon": 78.5800085,
+      "lat": 25.4502464
+    }
+  },
+  "Uttar Pradesh|Kannauj": {
+    "bbox": {
+      "south": 27.2286887,
+      "north": 26.7689276,
+      "west": 79.3163758,
+      "east": 80.0290494
+    },
+    "center": {
+      "lon": 79.69279463324783,
+      "lat": 26.9986675
+    }
+  },
+  "Uttar Pradesh|Kanpur dehat": {
+    "bbox": {
+      "south": 26.8276125,
+      "north": 26.0901017,
+      "west": 79.5051266,
+      "east": 80.189744
+    },
+    "center": {
+      "lon": 79.85480520543226,
+      "lat": 26.45856395
+    }
+  },
+  "Uttar Pradesh|Kanpur nagar": {
+    "bbox": {
+      "south": 26.6401262,
+      "north": 26.1738369,
+      "west": 80.1195895,
+      "east": 80.5914346
+    },
+    "center": {
+      "lon": 80.3217588,
+      "lat": 26.4609135
+    }
+  },
+  "Uttar Pradesh|Kasganj": {
+    "bbox": {
+      "south": 28.0279454,
+      "north": 27.5493006,
+      "west": 78.4709308,
+      "east": 79.2148606
+    },
+    "center": {
+      "lon": 78.8229700885066,
+      "lat": 27.788852749999997
+    }
+  },
+  "Uttar Pradesh|Kaushambi": {
+    "bbox": {
+      "south": 25.8107027,
+      "north": 25.2583375,
+      "west": 81.1467033,
+      "east": 81.7133553
+    },
+    "center": {
+      "lon": 81.44935673966953,
+      "lat": 25.5342456
+    }
+  },
+  "Uttar Pradesh|Kheri": {
+    "bbox": {
+      "south": 27.766666999999998,
+      "north": 28.466667,
+      "west": 80.366667,
+      "east": 81.066667
+    },
+    "center": {
+      "lon": 80.716667,
+      "lat": 28.116667
+    }
+  },
+  "Uttar Pradesh|Kushi nagar": {
+    "bbox": {
+      "south": 26.6914868,
+      "north": 26.6895543,
+      "west": 84.1831925,
+      "east": 84.1835192
+    },
+    "center": {
+      "lon": 84.18337881480032,
+      "lat": 26.690511623570927
+    }
+  },
+  "Uttar Pradesh|Lalitpur": {
+    "bbox": {
+      "south": 25.2233449,
+      "north": 24.1768287,
+      "west": 78.1688734,
+      "east": 78.9936477
+    },
+    "center": {
+      "lon": 78.51861997577222,
+      "lat": 24.6999688
+    }
+  },
+  "Uttar Pradesh|Lucknow": {
+    "bbox": {
+      "south": 26.4881,
+      "north": 27.188100000000002,
+      "west": 80.5846001,
+      "east": 81.28460009999999
+    },
+    "center": {
+      "lon": 80.9346001,
+      "lat": 26.8381
+    }
+  },
+  "Uttar Pradesh|Maharajganj": {
+    "bbox": {
+      "south": 27.2992191,
+      "north": 26.8885475,
+      "west": 83.3207695,
+      "east": 83.7686415
+    },
+    "center": {
+      "lon": 83.56606806432684,
+      "lat": 27.09360245
+    }
+  },
+  "Uttar Pradesh|Mahoba": {
+    "bbox": {
+      "south": 25.643245,
+      "north": 25.032084,
+      "west": 79.2789533,
+      "east": 80.2266939
+    },
+    "center": {
+      "lon": 79.70601096636403,
+      "lat": 25.36159385
+    }
+  },
+  "Uttar Pradesh|Mainpuri": {
+    "bbox": {
+      "south": 26.877067699999998,
+      "north": 27.5770677,
+      "west": 78.6771702,
+      "east": 79.3771702
+    },
+    "center": {
+      "lon": 79.0271702,
+      "lat": 27.2270677
+    }
+  },
+  "Uttar Pradesh|Mathura": {
+    "bbox": {
+      "south": 27.1455539,
+      "north": 27.845553900000002,
+      "west": 77.3355554,
+      "east": 78.03555539999999
+    },
+    "center": {
+      "lon": 77.6855554,
+      "lat": 27.4955539
+    }
+  },
+  "Uttar Pradesh|Mau": {
+    "bbox": {
+      "south": 26.2807716,
+      "north": 25.7972433,
+      "west": 83.2954938,
+      "east": 83.8108323
+    },
+    "center": {
+      "lon": 83.49858462133619,
+      "lat": 26.03909045
+    }
+  },
+  "Uttar Pradesh|Meerut": {
+    "bbox": {
+      "south": 28.646329599999998,
+      "north": 29.3463296,
+      "west": 77.35619150000001,
+      "east": 78.0561915
+    },
+    "center": {
+      "lon": 77.7061915,
+      "lat": 28.9963296
+    }
+  },
+  "Uttar Pradesh|Mirzapur": {
+    "bbox": {
+      "south": 25.2722226,
+      "north": 24.5911984,
+      "west": 82.0801358,
+      "east": 83.1816562
+    },
+    "center": {
+      "lon": 82.62801628419575,
+      "lat": 24.9316896
+    }
+  },
+  "Uttar Pradesh|Moradabad": {
+    "bbox": {
+      "south": 28.4834982,
+      "north": 29.183498200000002,
+      "west": 78.42328640000001,
+      "east": 79.1232864
+    },
+    "center": {
+      "lon": 78.7732864,
+      "lat": 28.8334982
+    }
+  },
+  "Uttar Pradesh|Muzaffarnagar": {
+    "bbox": {
+      "south": 29.7142973,
+      "north": 29.1849414,
+      "west": 77.2771193,
+      "east": 78.1148394
+    },
+    "center": {
+      "lon": 77.74293325807088,
+      "lat": 29.44969785
+    }
+  },
+  "Uttar Pradesh|Pilibhit": {
+    "bbox": {
+      "south": 28.8886765,
+      "north": 28.1008438,
+      "west": 79.6215782,
+      "east": 80.4499708
+    },
+    "center": {
+      "lon": 80.1076121626605,
+      "lat": 28.4947158
+    }
+  },
+  "Uttar Pradesh|Pratapgarh": {
+    "bbox": {
+      "south": 26.180688,
+      "north": 25.5723808,
+      "west": 81.3249699,
+      "east": 82.434385
+    },
+    "center": {
+      "lon": 81.75,
+      "lat": 25.75
+    }
+  },
+  "Uttar Pradesh|Rae bareli": {
+    "bbox": {
+      "south": 25.9,
+      "north": 26.6,
+      "west": 80.9,
+      "east": 81.6
+    },
+    "center": {
+      "lon": 81.25,
+      "lat": 26.25
+    }
+  },
+  "Uttar Pradesh|Rampur": {
+    "bbox": {
+      "south": 29.1690256,
+      "north": 28.4172857,
+      "west": 78.8585029,
+      "east": 79.4276762
+    },
+    "center": {
+      "lon": 79.18458064228349,
+      "lat": 28.7934728
+    }
+  },
+  "Uttar Pradesh|Saharanpur": {
+    "bbox": {
+      "south": 30.4063828,
+      "north": 29.5646485,
+      "west": 77.1206346,
+      "east": 77.946287
+    },
+    "center": {
+      "lon": 77.50406459058038,
+      "lat": 29.9856799
+    }
+  },
+  "Uttar Pradesh|Sambhal": {
+    "bbox": {
+      "south": 28.235197,
+      "north": 28.935197000000002,
+      "west": 78.220932,
+      "east": 78.920932
+    },
+    "center": {
+      "lon": 78.570932,
+      "lat": 28.585197
+    }
+  },
+  "Uttar Pradesh|Sant kabeer nagar": {
+    "bbox": {
+      "south": 27.101758,
+      "north": 26.4081479,
+      "west": 82.8193737,
+      "east": 83.2265925
+    },
+    "center": {
+      "lon": 83.03985451976092,
+      "lat": 26.755082
+    }
+  },
+  "Uttar Pradesh|Sant ravidas nagar": {
+    "bbox": {
+      "south": 25.5365896,
+      "north": 25.1781789,
+      "west": 82.195598,
+      "east": 82.7105956
+    },
+    "center": {
+      "lon": 82.50029528652152,
+      "lat": 25.3574077
+    }
+  },
+  "Uttar Pradesh|Shahjahanpur": {
+    "bbox": {
+      "south": 28.3812255,
+      "north": 27.4448347,
+      "west": 79.3228867,
+      "east": 80.3586763
+    },
+    "center": {
+      "lon": 79.74762537616267,
+      "lat": 27.9128583
+    }
+  },
+  "Uttar Pradesh|Shamli": {
+    "bbox": {
+      "south": 29.6972805,
+      "north": 29.2648659,
+      "west": 77.0838761,
+      "east": 77.5023339
+    },
+    "center": {
+      "lon": 77.2901343874282,
+      "lat": 29.481150749999998
+    }
+  },
+  "Uttar Pradesh|Shravasti": {
+    "bbox": {
+      "south": 27.323918199999998,
+      "north": 28.0239182,
+      "west": 81.5384999,
+      "east": 82.2384999
+    },
+    "center": {
+      "lon": 81.8884999,
+      "lat": 27.6739182
+    }
+  },
+  "Uttar Pradesh|Siddharth nagar": {
+    "bbox": {
+      "south": 27.4415324,
+      "north": 27.4371983,
+      "west": 83.1290764,
+      "east": 83.1351429
+    },
+    "center": {
+      "lon": 83.13216044301312,
+      "lat": 27.43993755
+    }
+  },
+  "Uttar Pradesh|Sitapur": {
+    "bbox": {
+      "south": 27.9062969,
+      "north": 27.0994183,
+      "west": 80.2986269,
+      "east": 81.4164239
+    },
+    "center": {
+      "lon": 80.833513937751,
+      "lat": 27.502674749999997
+    }
+  },
+  "Uttar Pradesh|Sonbhadra": {
+    "bbox": {
+      "south": 24.960294,
+      "north": 23.8706272,
+      "west": 82.5233169,
+      "east": 83.54815
+    },
+    "center": {
+      "lon": 83.0637516718631,
+      "lat": 24.4148159
+    }
+  },
+  "Uttar Pradesh|Sultanpur": {
+    "bbox": {
+      "south": 26.5472276,
+      "north": 25.9736739,
+      "west": 81.7162015,
+      "east": 82.6925725
+    },
+    "center": {
+      "lon": 82.23805321467546,
+      "lat": 26.260473150000003
+    }
+  },
+  "Uttar Pradesh|Unnao": {
+    "bbox": {
+      "south": 27.0313608,
+      "north": 26.1035502,
+      "west": 80.0439854,
+      "east": 81.0498801
+    },
+    "center": {
+      "lon": 80.61981926788883,
+      "lat": 26.5673264
+    }
+  },
+  "Uttar Pradesh|Varanasi": {
+    "bbox": {
+      "south": 24.9856491,
+      "north": 25.685649100000003,
+      "west": 82.6576292,
+      "east": 83.35762919999999
+    },
+    "center": {
+      "lon": 83.0076292,
+      "lat": 25.3356491
+    }
+  },
+  "Uttarakhand|Almora": {
+    "bbox": {
+      "south": 29.9797052,
+      "north": 29.4254811,
+      "west": 79.0370968,
+      "east": 80.0779149
+    },
+    "center": {
+      "lon": 79.43263182057746,
+      "lat": 29.70265095
+    }
+  },
+  "Uttarakhand|Bageshwar": {
+    "bbox": {
+      "south": 30.3167014,
+      "north": 29.7008814,
+      "west": 79.470598,
+      "east": 80.1586321
+    },
+    "center": {
+      "lon": 79.92801830528973,
+      "lat": 30.0087902
+    }
+  },
+  "Uttarakhand|Chamoli": {
+    "bbox": {
+      "south": 31.0723409,
+      "north": 29.9255743,
+      "west": 79.0759835,
+      "east": 80.1020386
+    },
+    "center": {
+      "lon": 79.61905372220383,
+      "lat": 30.49859555
+    }
+  },
+  "Uttarakhand|Champawat": {
+    "bbox": {
+      "south": 29.5235505,
+      "north": 28.9470093,
+      "west": 79.7935217,
+      "east": 80.318593
+    },
+    "center": {
+      "lon": 80.10230681491865,
+      "lat": 29.235032
+    }
+  },
+  "Uttarakhand|Dehradun": {
+    "bbox": {
+      "south": 29.9755646,
+      "north": 30.6755646,
+      "west": 77.69368130000001,
+      "east": 78.3936813
+    },
+    "center": {
+      "lon": 78.0436813,
+      "lat": 30.3255646
+    }
+  },
+  "Uttarakhand|Haridwar": {
+    "bbox": {
+      "south": 29.5884473,
+      "north": 30.2884473,
+      "west": 77.7952985,
+      "east": 78.49529849999999
+    },
+    "center": {
+      "lon": 78.1452985,
+      "lat": 29.9384473
+    }
+  },
+  "Uttarakhand|Nainital": {
+    "bbox": {
+      "south": 29.3987891,
+      "north": 29.3726322,
+      "west": 79.4388306,
+      "east": 79.4699871
+    },
+    "center": {
+      "lon": 79.460869,
+      "lat": 29.3905295
+    }
+  },
+  "Uttarakhand|Pauri garhwal": {
+    "bbox": {
+      "south": 30.2602465,
+      "north": 29.4342592,
+      "west": 78.202092,
+      "east": 79.2318712
+    },
+    "center": {
+      "lon": 78.70704792061838,
+      "lat": 29.8473168
+    }
+  },
+  "Uttarakhand|Pithoragarh": {
+    "bbox": {
+      "south": 30.809018,
+      "north": 29.4440344,
+      "west": 79.820948,
+      "east": 81.044789
+    },
+    "center": {
+      "lon": 80.48169891016147,
+      "lat": 30.126497450000002
+    }
+  },
+  "Uttarakhand|Rudra prayag": {
+    "bbox": {
+      "south": 28.6207183,
+      "north": 29.320718300000003,
+      "west": 79.0472845,
+      "east": 79.74728449999999
+    },
+    "center": {
+      "lon": 79.3972845,
+      "lat": 28.9707183
+    }
+  },
+  "Uttarakhand|Tehri garhwal": {
+    "bbox": {
+      "south": 30.8786167,
+      "north": 30.0528625,
+      "west": 77.9361332,
+      "east": 79.0352726
+    },
+    "center": {
+      "lon": 78.48373488309977,
+      "lat": 30.465818050000003
+    }
+  },
+  "Uttarakhand|Udam singh nagar": {
+    "bbox": {
+      "south": 29.3711898,
+      "north": 28.7243243,
+      "west": 78.7189722,
+      "east": 80.0774882
+    },
+    "center": {
+      "lon": 79.43261636543795,
+      "lat": 29.04783135
+    }
+  },
+  "Uttarakhand|Uttar kashi": {
+    "bbox": {
+      "south": 28.861757299999997,
+      "north": 29.5617573,
+      "west": 78.6117306,
+      "east": 79.31173059999999
+    },
+    "center": {
+      "lon": 78.9617306,
+      "lat": 29.2117573
+    }
+  },
+  "West Bengal|24 paraganas north": {
+    "bbox": {
+      "south": 12.6218591,
+      "north": 13.3218591,
+      "west": 77.2456698,
+      "east": 77.94566979999999
+    },
+    "center": {
+      "lon": 77.5956698,
+      "lat": 12.9718591
+    }
+  },
+  "West Bengal|24 paraganas south": {
+    "bbox": {
+      "south": 22.625066,
+      "north": 21.5473014,
+      "west": 88.0416655,
+      "east": 89.093939
+    },
+    "center": {
+      "lon": 88.53078530426869,
+      "lat": 22.1776733
+    }
+  },
+  "West Bengal|Alipurduar": {
+    "bbox": {
+      "south": 26.1351573,
+      "north": 26.835157300000002,
+      "west": 89.1746926,
+      "east": 89.87469259999999
+    },
+    "center": {
+      "lon": 89.5246926,
+      "lat": 26.4851573
+    }
+  },
+  "West Bengal|Bankura": {
+    "bbox": {
+      "south": 22.885600999999998,
+      "north": 23.585601,
+      "west": 86.7160229,
+      "east": 87.41602289999999
+    },
+    "center": {
+      "lon": 87.0660229,
+      "lat": 23.235601
+    }
+  },
+  "West Bengal|Birbhum": {
+    "bbox": {
+      "south": 24.5832537,
+      "north": 23.540302,
+      "west": 87.0867074,
+      "east": 88.0247611
+    },
+    "center": {
+      "lon": 87.69828228934051,
+      "lat": 24.06215315
+    }
+  },
+  "West Bengal|Coochbehar": {
+    "bbox": {
+      "south": 26.3450251,
+      "north": 26.3373899,
+      "west": 89.4775725,
+      "east": 89.4861411
+    },
+    "center": {
+      "lon": 89.48121632866385,
+      "lat": 26.340623
+    }
+  },
+  "West Bengal|Darjeeling": {
+    "bbox": {
+      "south": 26.6877554,
+      "north": 27.387755400000003,
+      "west": 87.913176,
+      "east": 88.613176
+    },
+    "center": {
+      "lon": 88.263176,
+      "lat": 27.0377554
+    }
+  },
+  "West Bengal|Dinajpur dakshin": {
+    "bbox": {
+      "south": 25.6070207,
+      "north": 25.1644216,
+      "west": 88.1652641,
+      "east": 89.0093706
+    },
+    "center": {
+      "lon": 88.50633619999999,
+      "lat": 25.385806950000003
+    }
+  },
+  "West Bengal|Dinajpur uttar": {
+    "bbox": {
+      "south": 26.4994564,
+      "north": 25.2447008,
+      "west": 87.8073546,
+      "east": 88.5250553
+    },
+    "center": {
+      "lon": 87.9619860446771,
+      "lat": 25.8721428
+    }
+  },
+  "West Bengal|Hooghly": {
+    "bbox": {
+      "south": 23.2247469,
+      "north": 22.5951599,
+      "west": 87.5042173,
+      "east": 88.5076636
+    },
+    "center": {
+      "lon": 88.01208246766723,
+      "lat": 22.90994025
+    }
+  },
+  "West Bengal|Howrah": {
+    "bbox": {
+      "south": 22.641051,
+      "north": 22.5492832,
+      "west": 88.2690739,
+      "east": 88.3651207
+    },
+    "center": {
+      "lon": 88.3251045,
+      "lat": 22.5736296
+    }
+  },
+  "West Bengal|Jalpaiguri": {
+    "bbox": {
+      "south": 26.1741586,
+      "north": 26.8741586,
+      "west": 88.3697513,
+      "east": 89.0697513
+    },
+    "center": {
+      "lon": 88.7197513,
+      "lat": 26.5241586
+    }
+  },
+  "West Bengal|Jhargram": {
+    "bbox": {
+      "south": 22.1038505,
+      "north": 22.803850500000003,
+      "west": 86.6449477,
+      "east": 87.34494769999999
+    },
+    "center": {
+      "lon": 86.9949477,
+      "lat": 22.4538505
+    }
+  },
+  "West Bengal|Kalimpong": {
+    "bbox": {
+      "south": 26.720286899999998,
+      "north": 27.4202869,
+      "west": 88.1223676,
+      "east": 88.82236759999999
+    },
+    "center": {
+      "lon": 88.4723676,
+      "lat": 27.0702869
+    }
+  },
+  "West Bengal|Maldah": {
+    "bbox": {
+      "south": 25.539771,
+      "north": 24.6552453,
+      "west": 87.7638829,
+      "east": 88.4632444
+    },
+    "center": {
+      "lon": 88.12617134920436,
+      "lat": 25.09770975
+    }
+  },
+  "West Bengal|Medinipur east": {
+    "bbox": {
+      "south": 21.4342896,
+      "north": 22.134289600000002,
+      "west": 87.3994024,
+      "east": 88.09940239999999
+    },
+    "center": {
+      "lon": 87.7494024,
+      "lat": 21.7842896
+    }
+  },
+  "West Bengal|Medinipur west": {
+    "bbox": {
+      "south": 22.0707025,
+      "north": 22.770702500000002,
+      "west": 86.97699630000001,
+      "east": 87.6769963
+    },
+    "center": {
+      "lon": 87.3269963,
+      "lat": 22.4207025
+    }
+  },
+  "West Bengal|Murshidabad": {
+    "bbox": {
+      "south": 23.8245993,
+      "north": 24.524599300000002,
+      "west": 87.9221335,
+      "east": 88.62213349999999
+    },
+    "center": {
+      "lon": 88.2721335,
+      "lat": 24.1745993
+    }
+  },
+  "West Bengal|Nadia": {
+    "bbox": {
+      "south": 24.0945717,
+      "north": 22.8752507,
+      "west": 88.1343355,
+      "east": 88.7994432
+    },
+    "center": {
+      "lon": 88.55670673333935,
+      "lat": 23.4847374
+    }
+  },
+  "West Bengal|Paschim bardhaman": {
+    "bbox": {
+      "south": 23.8824316,
+      "north": 23.318129,
+      "west": 86.7991284,
+      "east": 87.5782451
+    },
+    "center": {
+      "lon": 87.30413008873047,
+      "lat": 23.600297849999997
+    }
+  },
+  "West Bengal|Purba bardhaman": {
+    "bbox": {
+      "south": 23.2904778,
+      "north": 23.2089953,
+      "west": 87.8201045,
+      "east": 87.9241185
+    },
+    "center": {
+      "lon": 87.8681751,
+      "lat": 23.2495714
+    }
+  },
+  "West Bengal|Purulia": {
+    "bbox": {
+      "south": 22.9791882,
+      "north": 23.679188200000002,
+      "west": 86.0172378,
+      "east": 86.71723779999999
+    },
+    "center": {
+      "lon": 86.3672378,
+      "lat": 23.3291882
+    }
+  }
+}
