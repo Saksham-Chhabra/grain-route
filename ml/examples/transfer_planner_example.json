@@ -1,0 +1,55 @@
+{
+  "filters": {},
+  "nodes": [
+    {
+      "_id": "W1",
+      "type": "warehouse",
+      "name": "Pune WH",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "capacity_kg": 10000,
+      "location": { "type": "Point", "coordinates": [73.8567, 18.5204] }
+    },
+    {
+      "_id": "W2",
+      "type": "warehouse",
+      "name": "Mumbai WH",
+      "state": "Maharashtra",
+      "district": "Mumbai",
+      "capacity_kg": 8000,
+      "location": { "type": "Point", "coordinates": [72.8777, 19.076] }
+    },
+    {
+      "_id": "F1",
+      "type": "farm",
+      "name": "Pune Farm",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "capacity_kg": 0,
+      "location": { "type": "Point", "coordinates": [73.7, 18.4] }
+    }
+  ],
+  "batches": [
+    {
+      "_id": "BX1",
+      "originNode": "F1",
+      "currentNode": "W1",
+      "quantity_kg": 9000,
+      "status": "stored"
+    },
+    {
+      "_id": "BX2",
+      "originNode": "F1",
+      "currentNode": "W2",
+      "quantity_kg": 2000,
+      "status": "stored"
+    },
+    {
+      "_id": "BX3",
+      "originNode": "F1",
+      "currentNode": "F1",
+      "quantity_kg": 1500,
+      "status": "stored"
+    }
+  ]
+}

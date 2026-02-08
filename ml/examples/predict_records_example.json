@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "state": "Maharashtra",
+      "district": "Pune",
+      "period_start": "2026-01-01T00:00:00",
+      "net_flow_kg": 600,
+      "supply_demand_gap_kg": -250,
+      "production_vs_demand_ratio": 0.4,
+      "request_to_supply_ratio": 1.3
+    },
+    {
+      "state": "Maharashtra",
+      "district": "Mumbai",
+      "period_start": "2026-01-01T00:00:00",
+      "net_flow_kg": 50,
+      "supply_demand_gap_kg": 900,
+      "production_vs_demand_ratio": 3.2,
+      "request_to_supply_ratio": 0.1
+    }
+  ]
+}

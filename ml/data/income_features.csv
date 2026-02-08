@@ -1,0 +1,214 @@
+state,district,per_capita_income,period_start
+Andhra Pradesh,Chittoor,56170.92,2011-04-01
+Andhra Pradesh,East Godavari,71147.25,2011-04-01
+Andhra Pradesh,Guntur,78055.36,2011-04-01
+Andhra Pradesh,Krishna,79124.97,2011-04-01
+Andhra Pradesh,Kurnool,57126.71,2011-04-01
+Andhra Pradesh,Visakhapatnam,87008.57,2011-04-01
+Andhra Pradesh,West Godavari,75548.28,2011-04-01
+Assam,Cachar,46914.2,2011-04-01
+Assam,Darrang,28774.37,2011-04-01
+Assam,Dibrugarh,108515.57,2011-04-01
+Assam,Goalpara,27949.29,2011-04-01
+Assam,Kamrup,47219.78,2011-04-01
+Assam,Karbi Anglong,38866.98,2011-04-01
+Assam,Lakhimpur,25997.54,2011-04-01
+Bihar,Bhagalpur,29401.54,2011-04-01
+Bihar,Darbhanga,21730.41,2011-04-01
+Bihar,Gaya,17124.76,2011-04-01
+Bihar,Muzaffarpur,26052.78,2011-04-01
+Bihar,Patna,50302.95,2011-04-01
+Bihar,Saharsa,24712.98,2011-04-01
+Bihar,Saran,21082.21,2011-04-01
+Chhattisgarh,Bastar,33009.51,2011-04-01
+Chhattisgarh,Bilaspur,51524.44,2011-04-01
+Chhattisgarh,Durg,56926.52,2011-04-01
+Chhattisgarh,Raigarh,58166.62,2011-04-01
+Chhattisgarh,Raipur,75405.67,2011-04-01
+Chhattisgarh,Surguja,28147.12,2011-04-01
+Gujarat,Amreli,67350.2,2011-04-01
+Gujarat,Banaskantha,66271.62,2011-04-01
+Gujarat,Bharuch,139993.77,2011-04-01
+Gujarat,Jamnagar,122871.01,2011-04-01
+Gujarat,Kheda,64223.65,2011-04-01
+Gujarat,Panchmahal,37195.87,2011-04-01
+Gujarat,Rajkot,100776.49,2011-04-01
+Gujarat,Sabarkantha,70270.84,2011-04-01
+Gujarat,Surat,108077.49,2011-04-01
+Gujarat,Surendranagar,80865.22,2011-04-01
+Gujarat,Valsad,93572.76,2011-04-01
+Haryana,Ambala,122366.29,2011-04-01
+Haryana,Gurgaon,224030.53,2011-04-01
+Haryana,Jind,85547.22,2011-04-01
+Haryana,Karnal,144305.81,2011-04-01
+Haryana,Rohtak,102624.94,2011-04-01
+Himachal Pradesh,Chamba,65849.19,2011-04-01
+Himachal Pradesh,Kangra,85692.43,2011-04-01
+Himachal Pradesh,Kinnaur,143436.24,2011-04-01
+Himachal Pradesh,Kullu,93091.39,2011-04-01
+Himachal Pradesh,Mandi,71147.87,2011-04-01
+Himachal Pradesh,Shimla,94492.7,2011-04-01
+Himachal Pradesh,Solan,170543.84,2011-04-01
+Jharkhand,Hazaribagh,47783.94,2011-04-01
+Karnataka,Bangalore,186624.9,2011-04-01
+Karnataka,Belgaum,46540.96,2011-04-01
+Karnataka,Bellary,62497.07,2011-04-01
+Karnataka,Bidar,43222.57,2011-04-01
+Karnataka,Chitradurga,36074.47,2011-04-01
+Karnataka,Dakshina Kannada,100149.83,2011-04-01
+Karnataka,Dharwad,65628.85,2011-04-01
+Karnataka,Hassan,61971.23,2011-04-01
+Karnataka,Kolar,25997.12,2011-04-01
+Karnataka,Mandya,46890.83,2011-04-01
+Karnataka,Raichur,46975.55,2011-04-01
+Karnataka,Uttara Kannada,64172.69,2011-04-01
+Kerala,Alappuzha,87682.1,2011-04-01
+Kerala,Kannur,79945.21,2011-04-01
+Kerala,Kollam,83556.99,2011-04-01
+Kerala,Kottayam,124501.72,2011-04-01
+Kerala,Kozhikode,70247.38,2011-04-01
+Kerala,Malappuram,64822.32,2011-04-01
+Kerala,Thiruvananthapuram,120195.6,2011-04-01
+Kerala,Thrissur,82328.91,2011-04-01
+Madhya Pradesh,Balaghat,34026.6,2011-04-01
+Madhya Pradesh,Betul,39463.95,2011-04-01
+Madhya Pradesh,Bhind,32337.54,2011-04-01
+Madhya Pradesh,Chhindwara,35423.13,2011-04-01
+Madhya Pradesh,Damoh,27601.23,2011-04-01
+Madhya Pradesh,Datia,25507.34,2011-04-01
+Madhya Pradesh,Dewas,50679.95,2011-04-01
+Madhya Pradesh,Dhar,45804.43,2011-04-01
+Madhya Pradesh,Guna,33504.12,2011-04-01
+Madhya Pradesh,Gwalior,64034.79,2011-04-01
+Madhya Pradesh,Hoshangabad,48597.9,2011-04-01
+Madhya Pradesh,Indore,114517.76,2011-04-01
+Madhya Pradesh,Jabalpur,65679.26,2011-04-01
+Madhya Pradesh,Jhabua,17905.5,2011-04-01
+Madhya Pradesh,Mandla,31355.43,2011-04-01
+Madhya Pradesh,Mandsaur,47540.64,2011-04-01
+Madhya Pradesh,Morena,44337.91,2011-04-01
+Madhya Pradesh,Panna,22751.15,2011-04-01
+Madhya Pradesh,Raisen,33137.65,2011-04-01
+Madhya Pradesh,Rajgarh,36321.32,2011-04-01
+Madhya Pradesh,Ratlam,45845.94,2011-04-01
+Madhya Pradesh,Rewa,26967.5,2011-04-01
+Madhya Pradesh,Sagar,36898.7,2011-04-01
+Madhya Pradesh,Satna,39394.15,2011-04-01
+Madhya Pradesh,Sehore,37188.9,2011-04-01
+Madhya Pradesh,Shahdol,24971.32,2011-04-01
+Madhya Pradesh,Shajapur,41888.54,2011-04-01
+Madhya Pradesh,Shivpuri,29460.33,2011-04-01
+Madhya Pradesh,Sidhi,23746.42,2011-04-01
+Madhya Pradesh,Tikamgarh,23269.3,2011-04-01
+Madhya Pradesh,Ujjain,52034.76,2011-04-01
+Madhya Pradesh,Vidisha,30620.86,2011-04-01
+Maharashtra,Akola,40125.56,2011-04-01
+Maharashtra,Aurangabad,82756.46,2011-04-01
+Maharashtra,Bhandara,43934.44,2011-04-01
+Maharashtra,Chandrapur,54859.42,2011-04-01
+Maharashtra,Dhule,52059.57,2011-04-01
+Maharashtra,Jalgaon,65258.96,2011-04-01
+Maharashtra,Kolhapur,91604.72,2011-04-01
+Maharashtra,Nagpur,93251.63,2011-04-01
+Maharashtra,Nanded,40135.76,2011-04-01
+Maharashtra,Osmanabad,70791.93,2011-04-01
+Maharashtra,Parbhani,52481.2,2011-04-01
+Maharashtra,Pune,135007.95,2011-04-01
+Maharashtra,Ratnagiri,77899.46,2011-04-01
+Maharashtra,Solapur,68163.42,2011-04-01
+Maharashtra,Thane,108316.54,2011-04-01
+Maharashtra,Wardha,50293.9,2011-04-01
+Orissa,Cuttack,58130.59,2011-04-01
+Orissa,Dhenkanal,49643.24,2011-04-01
+Orissa,Ganjam,46807.47,2011-04-01
+Orissa,Kalahandi,27716.32,2011-04-01
+Orissa,Koraput,37058.03,2011-04-01
+Orissa,Puri,45397.44,2011-04-01
+Orissa,Sambalpur,69814.69,2011-04-01
+Orissa,Sundargarh,89650.66,2011-04-01
+Punjab,Amritsar,65990.25,2011-04-01
+Punjab,Gurdaspur,71376.39,2011-04-01
+Punjab,Hoshiarpur,69279.13,2011-04-01
+Punjab,Jalandhar,87299.36,2011-04-01
+Punjab,Kapurthala,91222.91,2011-04-01
+Punjab,Ludhiana,140530.63,2011-04-01
+Punjab,Patiala,107697.69,2011-04-01
+Punjab,Sangrur,72712.21,2011-04-01
+Rajasthan,Ajmer,65296.4,2011-04-01
+Rajasthan,Alwar,61846.2,2011-04-01
+Rajasthan,Banswara,33403.34,2011-04-01
+Rajasthan,Barmer,26530.95,2011-04-01
+Rajasthan,Bharatpur,42214.48,2011-04-01
+Rajasthan,Bhilwara,69081.34,2011-04-01
+Rajasthan,Bikaner,44327.32,2011-04-01
+Rajasthan,Bundi,56939.11,2011-04-01
+Rajasthan,Churu,37366.14,2011-04-01
+Rajasthan,Dungarpur,35207.9,2011-04-01
+Rajasthan,Ganganagar,93869.59,2011-04-01
+Rajasthan,Jaipur,94249.96,2011-04-01
+Rajasthan,Jaisalmer,83428.0,2011-04-01
+Rajasthan,Jhalawar,54698.05,2011-04-01
+Rajasthan,Jodhpur,54769.45,2011-04-01
+Rajasthan,Kota,82507.87,2011-04-01
+Rajasthan,Nagaur,40527.94,2011-04-01
+Rajasthan,Pali,67865.05,2011-04-01
+Rajasthan,Sikar,44214.9,2011-04-01
+Rajasthan,Sirohi,64985.05,2011-04-01
+Rajasthan,Tonk,73432.13,2011-04-01
+Rajasthan,Udaipur,71443.61,2011-04-01
+Tamil Nadu,Chennai,346663.2,2011-04-01
+Tamil Nadu,Coimbatore,121112.94,2011-04-01
+Tamil Nadu,Madurai,81624.89,2011-04-01
+Tamil Nadu,Salem,71568.92,2011-04-01
+Tamil Nadu,Thanjavur,58070.4,2011-04-01
+Tamil Nadu,The Nilgiris,121387.99,2011-04-01
+Uttar Pradesh,Agra,54372.72,2011-04-01
+Uttar Pradesh,Aligarh,37960.86,2011-04-01
+Uttar Pradesh,Allahabad,39538.72,2011-04-01
+Uttar Pradesh,Azamgarh,26753.86,2011-04-01
+Uttar Pradesh,Bahraich,17445.15,2011-04-01
+Uttar Pradesh,Ballia,22377.8,2011-04-01
+Uttar Pradesh,Banda,22099.47,2011-04-01
+Uttar Pradesh,Barabanki,23239.8,2011-04-01
+Uttar Pradesh,Bareilly,30917.92,2011-04-01
+Uttar Pradesh,Basti,24146.43,2011-04-01
+Uttar Pradesh,Bijnor,44342.31,2011-04-01
+Uttar Pradesh,Budaun,31060.9,2011-04-01
+Uttar Pradesh,Deoria,23601.18,2011-04-01
+Uttar Pradesh,Etah,20795.95,2011-04-01
+Uttar Pradesh,Etawah,33958.57,2011-04-01
+Uttar Pradesh,Faizabad,27531.0,2011-04-01
+Uttar Pradesh,Farrukhabad,27032.62,2011-04-01
+Uttar Pradesh,Fatehpur,22972.33,2011-04-01
+Uttar Pradesh,Ghazipur,22202.5,2011-04-01
+Uttar Pradesh,Gonda,22630.12,2011-04-01
+Uttar Pradesh,Gorakhpur,29306.48,2011-04-01
+Uttar Pradesh,Hamirpur,27157.84,2011-04-01
+Uttar Pradesh,Hardoi,23144.54,2011-04-01
+Uttar Pradesh,Jalaun,27552.49,2011-04-01
+Uttar Pradesh,Jaunpur,21719.31,2011-04-01
+Uttar Pradesh,Jhansi,51376.39,2011-04-01
+Uttar Pradesh,Kheri,22086.45,2011-04-01
+Uttar Pradesh,Lucknow,70290.93,2011-04-01
+Uttar Pradesh,Mainpuri,26365.66,2011-04-01
+Uttar Pradesh,Mathura,50421.17,2011-04-01
+Uttar Pradesh,Meerut,74796.53,2011-04-01
+Uttar Pradesh,Moradabad,42621.91,2011-04-01
+Uttar Pradesh,Muzaffarnagar,51151.54,2011-04-01
+Uttar Pradesh,Pilibhit,34589.25,2011-04-01
+Uttar Pradesh,Pratapgarh,20715.51,2011-04-01
+Uttar Pradesh,Rampur,26389.89,2011-04-01
+Uttar Pradesh,Saharanpur,52750.39,2011-04-01
+Uttar Pradesh,Sitapur,21891.88,2011-04-01
+Uttar Pradesh,Sultanpur,27522.72,2011-04-01
+Uttar Pradesh,Unnao,28099.64,2011-04-01
+Uttar Pradesh,Varanasi,49898.81,2011-04-01
+Uttarakhand,Chamoli,108701.37,2011-04-01
+Uttarakhand,Nainital,93559.12,2011-04-01
+Uttarakhand,Tehri Garhwal,65727.84,2011-04-01
+West Bengal,Bankura,55925.28,2011-04-01
+West Bengal,Birbhum,43530.96,2011-04-01
+West Bengal,Jalpaiguri,56041.99,2011-04-01
+West Bengal,Kolkata,249602.71,2011-04-01
+West Bengal,Murshidabad,32875.19,2011-04-01
+West Bengal,Nadia,39751.14,2011-04-01

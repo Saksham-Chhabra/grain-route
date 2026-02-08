@@ -1,0 +1,12 @@
+.venv
+node_modules
+artifacts
+__pycache__
+*.pyc
+.git
+.gitignore
+.env
+.env.docker
+README.md
+.idea
+.vscode

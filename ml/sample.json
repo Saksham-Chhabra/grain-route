@@ -1,0 +1,10 @@
+{
+  "records": [
+    {
+      "state": "test",
+      "district": "test",
+      "feature1": 1,
+      "feature2": 2
+    }
+  ]
+}

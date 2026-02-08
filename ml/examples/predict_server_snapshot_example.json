@@ -1,0 +1,103 @@
+{
+  "freq": "M",
+  "nodes": [
+    {
+      "_id": "W1",
+      "type": "warehouse",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "capacity_kg": 10000,
+      "location": { "type": "Point", "coordinates": [73.8567, 18.5204] }
+    },
+    {
+      "_id": "W2",
+      "type": "warehouse",
+      "state": "Maharashtra",
+      "district": "Mumbai",
+      "capacity_kg": 8000,
+      "location": { "type": "Point", "coordinates": [72.8777, 19.076] }
+    },
+    {
+      "_id": "N1",
+      "type": "ngo",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "capacity_kg": 0,
+      "location": { "type": "Point", "coordinates": [73.9, 18.55] }
+    },
+    {
+      "_id": "F1",
+      "type": "farm",
+      "state": "Maharashtra",
+      "district": "Pune",
+      "capacity_kg": 0,
+      "location": { "type": "Point", "coordinates": [73.7, 18.4] }
+    }
+  ],
+  "batches": [
+    {
+      "_id": "B1",
+      "batchId": "BATCH-001",
+      "originNode": "F1",
+      "currentNode": "W1",
+      "original_quantity_kg": 1200,
+      "quantity_kg": 900,
+      "manufacture_date": "2026-01-10T00:00:00.000Z"
+    },
+    {
+      "_id": "B2",
+      "batchId": "BATCH-002",
+      "originNode": "F1",
+      "currentNode": "W2",
+      "original_quantity_kg": 600,
+      "quantity_kg": 600,
+      "manufacture_date": "2026-01-15T00:00:00.000Z",
+      "freshnessPct": 55,
+      "shelf_life_hours": 48
+    }
+  ],
+  "requests": [
+    {
+      "requestId": "R1",
+      "requesterNode": "N1",
+      "requiredBy_iso": "2026-01-20T00:00:00.000Z",
+      "status": "pending",
+      "items": [
+        { "foodType": "rice", "required_kg": 300 },
+        { "foodType": "dal", "required_kg": 200 }
+      ]
+    },
+    {
+      "requestId": "R2",
+      "requesterNode": "N1",
+      "requiredBy_iso": "2026-01-22T00:00:00.000Z",
+      "status": "approved",
+      "items": { "foodType": "wheat", "required_kg": 150 }
+    },
+    {
+      "requestId": "R3",
+      "requesterNode": "N1",
+      "requiredBy_iso": "2026-01-22T00:00:00.000Z",
+      "status": "fulfilled",
+      "items": null
+    }
+  ],
+  "shipments": [
+    {
+      "shipmentId": "S1",
+      "fromNode": "W1",
+      "toNode": "N1",
+      "start_iso": "2026-01-18T10:00:00.000Z",
+      "travel_time_minutes": 90,
+      "batchIds": ["B1"]
+    },
+    {
+      "shipmentId": "S2",
+      "fromNode": "W2",
+      "toNode": "N1",
+      "start_iso": "2026-01-19T10:00:00.000Z",
+      "travel_time_minutes": 240,
+      "batchIds": "B2"
+    }
+  ]
+}

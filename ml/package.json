@@ -1,0 +1,19 @@
+{
+  "name": "ml-inference-service",
+  "version": "0.1.0",
+  "description": "Node.js gateway that wraps the Python ML pipelines for inference.",
+  "main": "server/index.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node server/index.js",
+    "dev": "nodemon server/index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "node-fetch": "^2.7.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
